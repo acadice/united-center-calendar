@@ -1,0 +1,882 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//United Center Chicago Events//EN
+X-WR-CALDESC:All public events at United Center — Bulls\, Blackhawks\, c
+ oncerts & more
+X-WR-CALNAME:United Center Chicago
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+SUMMARY:Megan Moroney: The Cloud 9 Tour
+DTSTART;TZID=America/Chicago:20260602T190000
+UID:vv178ZbMGkR9MJsq@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
+ .com/megan-moroney-the-cloud-9-tour-chicago-illinois-06-02-2026/event/0400
+ 637BD7DE6C5D\n\nTicket prices may fluctuate\, at any time\, based on deman
+ d.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/megan-moroney-the-cloud-9-tour-chicago-il
+ linois-06-02-2026/event/0400637BD7DE6C5D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Megan Moroney: The Cloud 9 Tour
+DTSTART;TZID=America/Chicago:20260603T190000
+UID:vv178ZbzGkngBIF5@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
+ .com/megan-moroney-the-cloud-9-tour-chicago-illinois-06-03-2026/event/0400
+ 638AB5EA820B\n\nTicket prices may fluctuate\, at any time\, based on deman
+ d.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/megan-moroney-the-cloud-9-tour-chicago-il
+ linois-06-03-2026/event/0400638AB5EA820B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Toliver: Octane Tour
+DTSTART;TZID=America/Chicago:20260611T193000
+UID:vv178Z_dGkSaynE7@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/don-toliver-octane-tour-chicago-illinois-06-11-2
+ 026/event/0400643CC9E6A9C4\n\nBy purchasing tickets to this event\, you ag
+ ree to abide by the health and safety measures in effect at the time of th
+ e event. Check back often for updates to your event venue website as guide
+ lines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/don-toliver-octane-tour-chicago-illinois-
+ 06-11-2026/event/0400643CC9E6A9C4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Strokes - Reality Awaits North America
+DTSTART;TZID=America/Chicago:20260617T190000
+UID:vv1A7Zk3aGkdvI9zf@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/the-strokes-reality-awaits-north-america-ch
+ icago-illinois-06-17-2026/event/04006489C1A17E14
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/the-strokes-reality-awaits-north-america-
+ chicago-illinois-06-17-2026/event/04006489C1A17E14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROSALÍA: LUX TOUR 2026
+DTSTART;TZID=America/Chicago:20260620T203000
+UID:vv178ZbUGkMZvbum@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Latin\nTickets: https://www.ticketmaster.c
+ om/rosalia-lux-tour-2026-chicago-illinois-06-20-2026/event/0400636DC005836
+ E
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/rosalia-lux-tour-2026-chicago-illinois-06
+ -20-2026/event/0400636DC005836E
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOJI: SOLARIS
+DTSTART;TZID=America/Chicago:20260623T183000
+UID:vv1A7Zko9Gkd3La_a@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /joji-solaris-chicago-illinois-06-23-2026/event/04006457D27C9649\n\nBy pur
+ chasing tickets to this event\, you agree to abide by the health and safet
+ y measures in effect at the time of the event. Check back often for update
+ s to your event venue website as guidelines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/joji-solaris-chicago-illinois-06-23-2026/
+ event/04006457D27C9649
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
+DTSTART;TZID=America/Chicago:20260626T193000
+UID:vv1A7Zk8VGkdEftdU@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /lionel-richie-and-earth-wind-fire-chicago-illinois-06-26-2026/event/04006
+ 434E75290F6\n\nBy purchasing tickets to this event\, you agree to abide by
+  the health and safety measures in effect at the time of the event. Check 
+ back often for updates to your event venue website as guidelines are subje
+ ct to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-chicago
+ -illinois-06-26-2026/event/04006434E75290F6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Weird Al" Yankovic: Bigger & Weirder 2026 Tour
+DTSTART;TZID=America/Chicago:20260627T200000
+UID:vv1kvZvN_8GA2AatL@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/weird-al-yankovic-bigger-weirder-2026-chicago-illinois-06-27-
+ 2026/event/040063650F149A5F\n\nBy purchasing tickets to this event\, you a
+ gree to abide by the health and safety measures in effect at the time of t
+ he event. Check back often for updates to your event venue website as guid
+ elines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/weird-al-yankovic-bigger-weirder-2026-chi
+ cago-illinois-06-27-2026/event/040063650F149A5F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Sky vs. Las Vegas Aces
+DTSTART;TZID=America/Chicago:20260628T150000
+UID:vv1A7ZkoxGkeBHMQS@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
+ ps://www.ticketmaster.com/chicago-sky-vs-las-vegas-aces-chicago-illinois-0
+ 6-28-2026/event/04006462BAF376B3
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-sky-vs-las-vegas-aces-chicago-ill
+ inois-06-28-2026/event/04006462BAF376B3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alex Warren: Finding Family on the Road
+DTSTART;TZID=America/Chicago:20260629T193000
+UID:vv1FvZvN_sq-Z75vGC@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /alex-warren-finding-family-on-the-chicago-illinois-06-29-2026/event/04006
+ 3671761A0BD\n\nAll Ages Welcome. By purchasing tickets to this event\, you
+  agree to abide by the health and safety measures in effect at the time of
+  the event. Check back often for updates to your event venue website as gu
+ idelines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/alex-warren-finding-family-on-the-chicago
+ -illinois-06-29-2026/event/040063671761A0BD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260708T130000
+UID:vv178Z_eGkUzHgRV@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://on.fgtix.com/trk/NBTK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260708T160000
+UID:Z7r9jZ1A7raZM@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
+ //www.ticketmaster.com/event/Z7r9jZ1A7raZM
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1A7raZM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260709T130000
+UID:Z7r9jZ1A7q0PM@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
+ //www.ticketmaster.com/event/Z7r9jZ1A7q0PM
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1A7q0PM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260709T130000
+UID:vv178ZbgGkmoTfbn@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://on.fgtix.com/trk/NBTK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260710T130000
+UID:Z7r9jZ1A7raZV@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
+ //www.ticketmaster.com/event/Z7r9jZ1A7raZV
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1A7raZV
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260710T130000
+UID:vv178ZbgGkm31fbT@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://on.fgtix.com/trk/NBTK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260711T130000
+UID:Z7r9jZ1A7jY4O@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
+ //www.ticketmaster.com/event/Z7r9jZ1A7jY4O
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1A7jY4O
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260711T130000
+UID:vv178ZbgGkm347_m@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://on.fgtix.com/trk/NBTK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260712T130000
+UID:Z7r9jZ1A7raZg@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
+ //www.ticketmaster.com/event/Z7r9jZ1A7raZg
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1A7raZg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Windy City Smokeout
+DTSTART;TZID=America/Chicago:20260712T130000
+UID:vv178ZbgGkm3O7Q5@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://on.fgtix.com/trk/NBTK
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meghan Trainor: The Get In Girl Tour
+DTSTART;TZID=America/Chicago:20260715T200000
+UID:vv1A7ZkuIGkeclAI2@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /meghan-trainor-the-get-in-girl-chicago-illinois-07-15-2026/event/04006368
+ ADAC5A0F\n\nAll Ages Welcome!
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-chicago-il
+ linois-07-15-2026/event/04006368ADAC5A0F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RUSH: Fifty Something
+DTSTART;TZID=America/Chicago:20260716T193000
+UID:vv1A7ZkudGkdFf0PN@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/rush-fifty-something-chicago-illinois-07-16-2026/event/0
+ 4006343C8524963
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/rush-fifty-something-chicago-illinois-07-
+ 16-2026/event/04006343C8524963
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RUSH: Fifty Something
+DTSTART;TZID=America/Chicago:20260718T193000
+UID:vv1A7ZkudGkdI1fXk@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/rush-fifty-something-chicago-illinois-07-18-2026/event/0
+ 4006343E8294F86
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/rush-fifty-something-chicago-illinois-07-
+ 18-2026/event/04006343E8294F86
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RUSH: Fifty Something
+DTSTART;TZID=America/Chicago:20260720T193000
+UID:vv1A7Zku6Gkdbp7J4@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/rush-fifty-something-chicago-illinois-07-20-2026/event/0
+ 4006347D8584995
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/rush-fifty-something-chicago-illinois-07-
+ 20-2026/event/04006347D8584995
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RUSH: Fifty Something
+DTSTART;TZID=America/Chicago:20260722T193000
+UID:vv1A7Zku6Gkdbh7Jc@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/rush-fifty-something-chicago-illinois-07-22-2026/event/0
+ 4006347D86C49AD
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/rush-fifty-something-chicago-illinois-07-
+ 22-2026/event/04006347D86C49AD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 AT&T WNBA All-Star Game
+DTSTART;TZID=America/Chicago:20260725T193000
+UID:vv178Z_aGkVhBxQ7@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
+ ps://www.ticketmaster.com/2026-att-wnba-allstar-game-chicago-illinois-07-2
+ 5-2026/event/0400649D1BEA2684
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/2026-att-wnba-allstar-game-chicago-illino
+ is-07-25-2026/event/0400649D1BEA2684
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Daniel Caesar - Son Of Spergy Tour
+DTSTART;TZID=America/Chicago:20260726T193000
+UID:vv1A7ZkC7GkdaNIJ3@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /daniel-caesar-son-of-spergy-tour-chicago-illinois-07-26-2026/event/040063
+ 84C98E8992
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/daniel-caesar-son-of-spergy-tour-chicago-
+ illinois-07-26-2026/event/04006384C98E8992
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ZAYN: The Konnakol Tour
+DTSTART;TZID=America/Chicago:20260727T200000
+UID:vv167ZkC8AIZA2Cvk8@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /zayn-the-konnakol-tour-chicago-illinois-07-27-2026/event/04006390168ED05F
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/zayn-the-konnakol-tour-chicago-illinois-0
+ 7-27-2026/event/04006390168ED05F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
+DTSTART;TZID=America/Chicago:20260801T113000
+UID:vv1A7Zko9GkdqLyTq@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
+ ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
+ -08-01-2026/event/04006457DD7F9FDD\n\nHot Wheels Monster Trucks Live?: Glo
+ w-N-Fire 2026 Tour brings fans? favorite Hot Wheels Monster Trucks to life
+ \, including Mega Wrex?\, Tiger Shark?\, HW 5-Alarm?\, Bone Shaker?\, Bigf
+ oot®\, and Skelesaurus?\, alongside FMX riders performing jaw-dropping st
+ unts and a fire-breathing\, car-crushing robot dinosaur. PLUS\, see the AL
+ L-NEW truck to the tour Rhinomite\, the dynamite Rhino-themed truck chargi
+ ng horn-first into the competition. Don't miss this high-energy show fille
+ d with thrilling action for the whole family!
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-
+ chicago-illinois-08-01-2026/event/04006457DD7F9FDD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Start Your Engine VIP
+DTSTART;TZID=America/Chicago:20260801T113000
+UID:vv1A7Zko_GkdwU4XN@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
+ -wheels-start-your-engine-vip-chicago-illinois-08-01-2026/event/04006459F2
+ D95FA3\n\n(Event ticket required) Get in on the action early with exclusiv
+ e access to the Pre-Show Party! See the Hot Wheels Monster Trucks up close
+  and personal before the show and soak in the excitement before all the sm
+ ashing and crashing goes down. Includes a light-up VIP laminate\, VIP draw
+ string bag\, and a cool Monster Truck decal.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-chicago-
+ illinois-08-01-2026/event/04006459F2D95FA3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Pedal to the Metal VIP
+DTSTART;TZID=America/Chicago:20260801T113000
+UID:vv1A7Zko_GkdwWgT3@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
+ -wheels-pedal-to-the-metal-chicago-illinois-08-01-2026/event/04006459F2F75
+ FD2\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
+ and personal before all the smashing and crashing goes down! Get exclusive
+  access to the Pre-Show Party and experience the excitement before the Hot
+  Wheels Monster Trucks come to life. Includes a monster truck/car toy\, cu
+ stom VIP flag\, light-up VIP laminate\, VIP drawstring bag\, and a cool Mo
+ nster Truck decal.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-chicago-ill
+ inois-08-01-2026/event/04006459F2F75FD2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
+DTSTART;TZID=America/Chicago:20260801T183000
+UID:vv1A7Zko9Gkdqr_T2@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
+ ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
+ -08-01-2026/event/04006457DD799FCF\n\nHot Wheels Monster Trucks Live?: Glo
+ w-N-Fire 2026 Tour brings fans? favorite Hot Wheels Monster Trucks to life
+ \, including Mega Wrex?\, Tiger Shark?\, HW 5-Alarm?\, Bone Shaker?\, Bigf
+ oot®\, and Skelesaurus?\, alongside FMX riders performing jaw-dropping st
+ unts and a fire-breathing\, car-crushing robot dinosaur. PLUS\, see the AL
+ L-NEW truck to the tour Rhinomite\, the dynamite Rhino-themed truck chargi
+ ng horn-first into the competition. Don't miss this high-energy show fille
+ d with thrilling action for the whole family!
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-
+ chicago-illinois-08-01-2026/event/04006457DD799FCF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Start Your Engine VIP
+DTSTART;TZID=America/Chicago:20260801T183000
+UID:vv1A7Zko_GkdwMPXR@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
+ -wheels-start-your-engine-vip-chicago-illinois-08-01-2026/event/04006459F2
+ DE5FAF\n\n(Event ticket required) Get in on the action early with exclusiv
+ e access to the Pre-Show Party! See the Hot Wheels Monster Trucks up close
+  and personal before the show and soak in the excitement before all the sm
+ ashing and crashing goes down. Includes a light-up VIP laminate\, VIP draw
+ string bag\, and a cool Monster Truck decal.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-chicago-
+ illinois-08-01-2026/event/04006459F2DE5FAF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Pedal to the Metal VIP
+DTSTART;TZID=America/Chicago:20260801T183000
+UID:vv1A7Zko_GkdwTATj@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
+ -wheels-pedal-to-the-metal-chicago-illinois-08-01-2026/event/04006459F2FC5
+ FDC\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
+ and personal before all the smashing and crashing goes down! Get exclusive
+  access to the Pre-Show Party and experience the excitement before the Hot
+  Wheels Monster Trucks come to life. Includes a monster truck/car toy\, cu
+ stom VIP flag\, light-up VIP laminate\, VIP drawstring bag\, and a cool Mo
+ nster Truck decal.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-chicago-ill
+ inois-08-01-2026/event/04006459F2FC5FDC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
+DTSTART;TZID=America/Chicago:20260802T133000
+UID:vv1A7Zko9Gkdq-_TN@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
+ ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
+ -08-02-2026/event/04006457DD859FE3\n\nHot Wheels Monster Trucks Live?: Glo
+ w-N-Fire 2026 Tour brings fans? favorite Hot Wheels Monster Trucks to life
+ \, including Mega Wrex?\, Tiger Shark?\, HW 5-Alarm?\, Bone Shaker?\, Bigf
+ oot®\, and Skelesaurus?\, alongside FMX riders performing jaw-dropping st
+ unts and a fire-breathing\, car-crushing robot dinosaur. PLUS\, see the AL
+ L-NEW truck to the tour Rhinomite\, the dynamite Rhino-themed truck chargi
+ ng horn-first into the competition. Don't miss this high-energy show fille
+ d with thrilling action for the whole family!
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-
+ chicago-illinois-08-02-2026/event/04006457DD859FE3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Pedal to the Metal VIP
+DTSTART;TZID=America/Chicago:20260802T133000
+UID:vv1A7Zko_GkdSZPTP@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
+ -wheels-pedal-to-the-metal-chicago-illinois-08-02-2026/event/04006459F3025
+ FE5\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
+ and personal before all the smashing and crashing goes down! Get exclusive
+  access to the Pre-Show Party and experience the excitement before the Hot
+  Wheels Monster Trucks come to life. Includes a monster truck/car toy\, cu
+ stom VIP flag\, light-up VIP laminate\, VIP drawstring bag\, and a cool Mo
+ nster Truck decal.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-chicago-ill
+ inois-08-02-2026/event/04006459F3025FE5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Wheels Start Your Engine VIP
+DTSTART;TZID=America/Chicago:20260802T133000
+UID:vv1A7Zko_GkdwyAXg@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
+ -wheels-start-your-engine-vip-chicago-illinois-08-02-2026/event/04006459F2
+ E45FB5\n\n(Event ticket required) Get in on the action early with exclusiv
+ e access to the Pre-Show Party! See the Hot Wheels Monster Trucks up close
+  and personal before the show and soak in the excitement before all the sm
+ ashing and crashing goes down. Includes a light-up VIP laminate\, VIP draw
+ string bag\, and a cool Monster Truck decal.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-chicago-
+ illinois-08-02-2026/event/04006459F2E45FB5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ariana Grande - The Eternal Sunshine Tour
+DTSTART;TZID=America/Chicago:20260803T200000
+UID:vv1A7ZkG_GkdqBxS4@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-03-2026/event
+ /04006319DDEA2CD5
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
+ hicago-illinois-08-03-2026/event/04006319DDEA2CD5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ariana Grande - The Eternal Sunshine Tour
+DTSTART;TZID=America/Chicago:20260805T200000
+UID:vv178ZbsGklLGK3v@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-05-2026/event
+ /0400631ADF313481
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
+ hicago-illinois-08-05-2026/event/0400631ADF313481
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ariana Grande - The Eternal Sunshine Tour
+DTSTART;TZID=America/Chicago:20260806T200000
+UID:vv1A7ZkGPGkecEw3E@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-06-2026/event
+ /04006325AD9F24A7
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
+ hicago-illinois-08-06-2026/event/04006325AD9F24A7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Sky vs. Indiana Fever
+DTSTART;TZID=America/Chicago:20260808T143000
+UID:vv1A7ZkoxGkeBXEQW@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
+ ps://www.ticketmaster.com/chicago-sky-vs-indiana-fever-chicago-illinois-08
+ -08-2026/event/04006462BAFA76BD
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-sky-vs-indiana-fever-chicago-illi
+ nois-08-08-2026/event/04006462BAFA76BD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J. Cole: The Fall-Off Tour
+DTSTART;TZID=America/Chicago:20260811T200000
+UID:vv1kvZv038GACyMDJ@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-08-11-2
+ 026/event/040064490EE77EE6\n\nAll Ages Welcome!
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-
+ 08-11-2026/event/040064490EE77EE6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:J. Cole: The Fall-Off Tour
+DTSTART;TZID=America/Chicago:20260812T200000
+UID:vv178Z_7GkUJJEsl@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-08-12-2
+ 026/event/0400644DA69A7C6B\n\nAll Ages Welcome!
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-
+ 08-12-2026/event/0400644DA69A7C6B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kacey Musgraves - Middle of Nowhere Tour 
+DTSTART;TZID=America/Chicago:20260820T193000
+UID:vvG18Z_1kYLDJy@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
+ .com/kacey-musgraves-middle-of-nowhere-tour-chicago-illinois-08-20-2026/ev
+ ent/040064A1B07FB9B9\n\nBy purchasing tickets to this event\, you agree to
+  abide by the health and safety measures in effect at the time of the even
+ t. Check back often for updates to your event venue website as guidelines 
+ are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/kacey-musgraves-middle-of-nowhere-tour-ch
+ icago-illinois-08-20-2026/event/040064A1B07FB9B9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kacey Musgraves - Middle of Nowhere Tour 
+DTSTART;TZID=America/Chicago:20260821T193000
+UID:vv1A7Zk34GkdL8msd@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
+ .com/kacey-musgraves-middle-of-nowhere-tour-chicago-illinois-08-21-2026/ev
+ ent/04006495DF42EC43\n\nBy purchasing tickets to this event\, you agree to
+  abide by the health and safety measures in effect at the time of the even
+ t. Check back often for updates to your event venue website as guidelines 
+ are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/kacey-musgraves-middle-of-nowhere-tour-ch
+ icago-illinois-08-21-2026/event/04006495DF42EC43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OMAR COURTZ - POR SI MAÑANA NO ESTOY USA TOUR
+DTSTART;TZID=America/Chicago:20260905T200000
+UID:vv178Z_aGkDr6r2e@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/omar-courtz-por-si-manana-no-chicago-illinois-09
+ -05-2026/event/0400649EDE1DE3C2
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/omar-courtz-por-si-manana-no-chicago-illi
+ nois-09-05-2026/event/0400649EDE1DE3C2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Childish Gambino - The New World Tour
+DTSTART;TZID=America/Chicago:20260908T200000
+UID:vvG18Zb157jsXp@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/childish-gambino-the-new-world-tour-chicago-illi
+ nois-09-08-2026/event/040060A2C4731F96
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/childish-gambino-the-new-world-tour-chica
+ go-illinois-09-08-2026/event/040060A2C4731F96
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JUNGLE - World Tour 2026
+DTSTART;TZID=America/Chicago:20260910T200000
+UID:vv1A7ZkosGkeReJrV@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nSub-genre: Soul\nTickets: https://www
+ .ticketmaster.com/jungle-world-tour-2026-chicago-illinois-09-10-2026/event
+ /04006471AF0A67B4\n\nNo Resale Over Face Value: Jungle is using Ticketmast
+ er's Face Value Exchange to help fans get tickets at the original price. T
+ ickets will be non-transferable and can only be resold on Ticketmaster at 
+ face value. States Blocking Artist Resale Terms: New York\, Illinois\, Col
+ orado\, Virginia\, Utah and Connecticut have state laws that prevent resal
+ e restrictions. In those states\, Ticketmaster will still honor Jungle's t
+ erms by keeping resale prices at face value on its site.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/jungle-world-tour-2026-chicago-illinois-0
+ 9-10-2026/event/04006471AF0A67B4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Clapton
+DTSTART;TZID=America/Chicago:20260911T193000
+UID:vv1A7Zko_GkdQ7Na1@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/eric-clapton-chicago-illinois-09-11-2026/event/04006459D
+ A12324A
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/eric-clapton-chicago-illinois-09-11-2026/
+ event/04006459DA12324A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robyn - The Sexistential Tour
+DTSTART;TZID=America/Chicago:20260912T193000
+UID:vv178Z_dGkReEzfw@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/robyn-the-sexistential-tour-chicago-illinois-09-1
+ 2-2026/event/0400643BC29F8532
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/robyn-the-sexistential-tour-chicago-illin
+ ois-09-12-2026/event/0400643BC29F8532
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lily Allen Performs West End Girl
+DTSTART;TZID=America/Chicago:20260913T200000
+UID:vv1A7ZkoyGkemyzsK@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/lily-allen-performs-west-end-girl-chicago-illinois-09-13
+ -2026/event/04006479AEE78C53\n\nBy purchasing tickets to this event\, you 
+ agree to abide by the health and safety measures in effect at the time of 
+ the event. Check back often for updates to your event venue website as gui
+ delines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/lily-allen-performs-west-end-girl-chicago
+ -illinois-09-13-2026/event/04006479AEE78C53
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WEEZER: The Gathering
+DTSTART;TZID=America/Chicago:20260922T190000
+UID:vv178Z_kGkUTIbfC@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/weezer-the-gathering-chicago-illinois-09-22
+ -2026/event/0400646DBFA1850E
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/weezer-the-gathering-chicago-illinois-09-
+ 22-2026/event/0400646DBFA1850E
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teddy Swims: The UGLY Tour
+DTSTART;TZID=America/Chicago:20260925T190000
+UID:vv178Z_FGkUXeURm@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /teddy-swims-the-ugly-tour-chicago-illinois-09-25-2026/event/0400648DBE0B6
+ BEE\n\nBy purchasing tickets to this event\, you agree to abide by the hea
+ lth and safety measures in effect at the time of the event. Check back oft
+ en for updates to your event venue website as guidelines are subject to ch
+ ange.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-chicago-illinoi
+ s-09-25-2026/event/0400648DBE0B6BEE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 T
+ our
+DTSTART;TZID=America/Chicago:20260929T200000
+UID:vv178Z_6GkDtyhLC@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago-illinois-09-29
+ -2026/event/0400647EE9E5B7CE\n\nNo Resale Over Face Value: Johnny Blue Ski
+ es is using Ticketmaster's Face Value Exchange to help fans get tickets at
+  the original price. Tickets can only be resold on Ticketmaster at face va
+ lue. States Blocking Artist Resale Terms: New York\, Illinois\, Colorado\,
+  Virginia\, Utah and Connecticut have state laws that prevent resale restr
+ ictions. In those states\, Ticketmaster will still honor Johnny Blue Skies
+ ' terms by keeping resale prices at face value on its site.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago
+ -illinois-09-29-2026/event/0400647EE9E5B7CE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN CHICAGO
+DTSTART;TZID=America/Chicago:20261002T193000
+UID:vvG18Z_1RQr5mp@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
+ w.ticketmaster.com/le-sserafim-2026-le-sserafim-pureflow-chicago-illinois-
+ 10-02-2026/event/040064ABDA78BB96
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pureflow-chi
+ cago-illinois-10-02-2026/event/040064ABDA78BB96
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doja Cat - Tour Ma Vie World Tour
+DTSTART;TZID=America/Chicago:20261003T193000
+UID:vv178ZbSGknyfVeS@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/doja-cat-tour-ma-vie-world-chicago-illinois-10-0
+ 3-2026/event/0400633AB95340B3
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-chicago-illino
+ is-10-03-2026/event/0400633AB95340B3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOURNEY - Final Frontier Tour (An Evening With)
+DTSTART;TZID=America/Chicago:20261005T193000
+UID:vvG18Z_1fNynZS@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/journey-final-frontier-tour-an-evening-chicago-illinois-
+ 10-05-2026/event/040064A523E6A033
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/journey-final-frontier-tour-an-evening-ch
+ icago-illinois-10-05-2026/event/040064A523E6A033
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gorillaz - The Mountain Tour
+DTSTART;TZID=America/Chicago:20261008T193000
+UID:vv1A7Zko_GkdGJoO2@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illinois
+ -10-08-2026/event/04006459CC99180F
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illino
+ is-10-08-2026/event/04006459CC99180F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+DTSTART;TZID=America/Chicago:20261011T190000
+UID:vv178Z_aGkYeTUOa@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-11-2026/event/04006
+ 49C02FF6809
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
+ -illinois-10-11-2026/event/0400649C02FF6809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olivia Rodrigo: The Unraveled Tour
+DTSTART;TZID=America/Chicago:20261012T190000
+UID:vv178Z_aGkMlEBGy@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-12-2026/event/04006
+ 49DEB9FA339
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
+ -illinois-10-12-2026/event/0400649DEB9FA339
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Smashing Pumpkins: The Rats In A Cage Tour
+DTSTART;TZID=America/Chicago:20261014T200000
+UID:vvG18Z_1DaaHeF@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-chicago-i
+ llinois-10-14-2026/event/040064AEC927C088
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-chicago
+ -illinois-10-14-2026/event/040064AEC927C088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Disney Descendants\, ZOMBIES & Camp Rock: Worlds Collide Concert T
+ our
+DTSTART;TZID=America/Chicago:20261019T190000
+UID:vv178Z_kGkRLKIPC@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Other\nTickets: https://www.ticketmaster.c
+ om/disney-descendants-zombies-camp-rock-worlds-chicago-illinois-10-19-2026
+ /event/0400646BDF4E894E\n\nAll ages event- all patrons require a ticket.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worl
+ ds-chicago-illinois-10-19-2026/event/0400646BDF4E894E
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOMBR - You Are The Reason Tour
+DTSTART;TZID=America/Chicago:20261104T190000
+UID:vv1A7Zk36Gkd2Hi7b@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/sombr-you-are-the-reason-tour-chicago-illin
+ ois-11-04-2026/event/04006487CFF2C118
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-chicago-ill
+ inois-11-04-2026/event/04006487CFF2C118
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KATSEYE: THE WILDWORLD TOUR
+DTSTART;TZID=America/Chicago:20261105T200000
+UID:vvG18Z_1miP6i3@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /katseye-the-wildworld-tour-chicago-illinois-11-05-2026/event/040064ABAC94
+ 7B12
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/katseye-the-wildworld-tour-chicago-illino
+ is-11-05-2026/event/040064ABAC947B12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:XG WORLD TOUR: THE CORE IN CHICAGO
+DTSTART;TZID=America/Chicago:20261109T200000
+UID:vvG18Z_1Ta32Me@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
+ w.ticketmaster.com/xg-world-tour-the-core-in-chicago-illinois-11-09-2026/e
+ vent/040064AFC948FDC2\n\nTICKET PERK DISCLAIMER All Ticket purchasers will
+  be contacted via e-mail a few days prior to the event date with additiona
+ l program details. All sales are final. There are no refunds or exchanges 
+ under any circumstances. All Tickets and Ticket contents are non-transfera
+ ble. The artist\, show and venue reserve the right to cancel any order for
+  any reason. All sales are final. All merchandise will be distributed at t
+ he show\; some exceptions may apply. Merchandise is not required for venue
+  entry. The artist\, tour\, promoter\, ticketing company\, venue or any ot
+ her affiliated parties are not responsible for outdated or inaccurate info
+ rmation provided by the consumer at the time of purchase. Commemorative la
+ minates are for commemorative purposes only. The commemorative laminate do
+ es not gain or authorize access into the venue or any backstage areas.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/xg-world-tour-the-core-in-chicago-illinoi
+ s-11-09-2026/event/040064AFC948FDC2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Neighbourhood: THE WOURLD TOUR
+DTSTART;TZID=America/Chicago:20261118T193000
+UID:vv1A7ZkoaGkdxvkbx@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/the-neighbourhood-the-wourld-tour-chicago-illinois-11-18
+ -2026/event/04006449E2046622
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-chicago
+ -illinois-11-18-2026/event/04006449E2046622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART;TZID=America/Chicago:20261124T190000
+UID:vvG18Z_52-BljX@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicago-illino
+ is-11-24-2026/event/040064B3E1EAB73E\n\n18+ is recommended but all ages we
+ lcome.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicag
+ o-illinois-11-24-2026/event/040064B3E1EAB73E
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
+DTSTART;TZID=America/Chicago:20261125T200000
+UID:vvG18Z_52-Dlqv@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicago-illino
+ is-11-25-2026/event/040064B3E1EEB741
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicag
+ o-illinois-11-25-2026/event/040064B3E1EEB741
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matt Rife: Stay Golden World Tour
+DTSTART;TZID=America/Chicago:20270107T200000
+UID:vv178ZbgGkMMraib@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/matt-rife-stay-golden-world-tour-chicago-illinois-01-07-2027/
+ event/0400635DF7789B18\n\n18+/ Mature Audience Only This event is being pr
+ ofessionally filmed\, recorded and / or photographed. By entering this spa
+ ce you are giving your consent for any audience images or recordings captu
+ red to be used for commercial and / or promotional purposes. Please speak 
+ to a member of staff should you require further information.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/matt-rife-stay-golden-world-tour-chicago-
+ illinois-01-07-2027/event/0400635DF7789B18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
+DTSTART;TZID=America/Chicago:20270211T200000
+UID:vv1FvZv0PYCdZ72aG6@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /gracie-abrams-the-look-at-my-chicago-illinois-02-11-2027/event/0400649703
+ 83E8B6
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illi
+ nois-02-11-2027/event/040064970383E8B6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
+DTSTART;TZID=America/Chicago:20270212T200000
+UID:vvG18Z_5RD-DAh@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /gracie-abrams-the-look-at-my-chicago-illinois-02-12-2027/event/040064BBFB
+ 87B15B
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illi
+ nois-02-12-2027/event/040064BBFB87B15B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Niall Horan: Dinner Party Live On Tour
+DTSTART;TZID=America/Chicago:20270323T193000
+UID:vvG18Z_1LLYAJb@unitedcenter-chicago-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/niall-horan-dinner-party-live-on-chicago-illinois-03-23-
+ 2027/event/040064A7DFC05998
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/niall-horan-dinner-party-live-on-chicago-
+ illinois-03-23-2027/event/040064A7DFC05998
+END:VEVENT
+END:VCALENDAR
