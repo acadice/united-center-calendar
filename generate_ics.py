@@ -1,11 +1,18 @@
 """
-United Center Chicago — Google Calendar Feed Generator
+Venue Calendar Feed Generator
 Fetches all upcoming events from the Ticketmaster Discovery API
-and writes them to united_center.ics for use as a calendar subscription.
+for a given venue and writes them to an .ics file for calendar subscription.
+
+Usage:
+  python generate_ics.py --venue "United Center" --city "Chicago" \
+      --calendar-name "United Center Chicago" \
+      --location "United Center, 1901 W Madison St, Chicago, IL 60612" \
+      --output united_center.ics
 """
 
 import os
 import sys
+import argparse
 import requests
 from datetime import datetime, date
 from icalendar import Calendar, Event
@@ -15,12 +22,12 @@ API_KEY = os.environ.get("TM_API_KEY")
 CHICAGO_TZ = pytz.timezone("America/Chicago")
 
 
-def get_venue_id():
-    """Look up United Center's Ticketmaster Discovery API venue ID."""
+def get_venue_id(venue_keyword, city):
+    """Look up a venue's Ticketmaster Discovery API venue ID by name and city."""
     url = "https://app.ticketmaster.com/discovery/v2/venues.json"
     params = {
         "apikey": API_KEY,
-        "keyword": "United Center",
+        "keyword": venue_keyword,
         "stateCode": "IL",
         "countryCode": "US",
     }
@@ -31,15 +38,15 @@ def get_venue_id():
     venues = data.get("_embedded", {}).get("venues", [])
     for venue in venues:
         name = venue.get("name", "")
-        city = venue.get("city", {}).get("name", "")
-        if "United Center" in name and "Chicago" in city:
+        venue_city = venue.get("city", {}).get("name", "")
+        if venue_keyword.lower() in name.lower() and city.lower() in venue_city.lower():
             venue_id = venue["id"]
-            print(f"Found venue: {name} ({city}) — ID: {venue_id}")
+            print(f"Found venue: {name} ({venue_city}) — ID: {venue_id}")
             return venue_id
 
     raise RuntimeError(
-        "Could not find United Center in Ticketmaster venue search. "
-        "Check your API key and try again."
+        f"Could not find '{venue_keyword}' in {city} via Ticketmaster venue search. "
+        "Check your API key and venue name."
     )
 
 
@@ -81,9 +88,9 @@ def parse_event_datetime(e):
     dates = e.get("dates", {})
     start = dates.get("start", {})
 
-    date_str = start.get("dateTime")        # ISO 8601 with timezone
-    local_date = start.get("localDate")     # YYYY-MM-DD
-    local_time = start.get("localTime")     # HH:MM:SS (may be absent)
+    date_str = start.get("dateTime")
+    local_date = start.get("localDate")
+    local_time = start.get("localTime")
     time_tbd = start.get("timeTBD", False)
     no_specific_time = start.get("noSpecificTime", False)
 
@@ -129,12 +136,11 @@ def build_description(e):
     return "\n".join(lines)
 
 
-def build_calendar(events):
+def build_calendar(events, calendar_name, location):
     cal = Calendar()
-    cal.add("prodid", "-//United Center Chicago Events//EN")
+    cal.add("prodid", f"-//{calendar_name}//EN")
     cal.add("version", "2.0")
-    cal.add("X-WR-CALNAME", "United Center Chicago")
-    cal.add("X-WR-CALDESC", "All public events at United Center — Bulls, Blackhawks, concerts & more")
+    cal.add("X-WR-CALNAME", calendar_name)
     cal.add("X-WR-TIMEZONE", "America/Chicago")
     cal.add("REFRESH-INTERVAL;VALUE=DURATION", "PT12H")
     cal.add("X-PUBLISHED-TTL", "PT12H")
@@ -147,10 +153,10 @@ def build_calendar(events):
             continue
 
         ev = Event()
-        ev.add("summary", e.get("name", "United Center Event"))
+        ev.add("summary", e.get("name", "Event"))
         ev.add("dtstart", dtstart)
-        ev.add("uid", f"{e['id']}@unitedcenter-chicago-calendar")
-        ev.add("location", "United Center, 1901 W Madison St, Chicago, IL 60612")
+        ev.add("uid", f"{e['id']}@venue-calendar")
+        ev.add("location", location)
 
         description = build_description(e)
         if description:
@@ -169,26 +175,33 @@ def build_calendar(events):
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Generate an iCal feed for a Ticketmaster venue.")
+    parser.add_argument("--venue", required=True, help="Venue name to search for")
+    parser.add_argument("--city", default="Chicago", help="City name (default: Chicago)")
+    parser.add_argument("--calendar-name", required=True, help="Display name for the calendar")
+    parser.add_argument("--location", required=True, help="Full address string for events")
+    parser.add_argument("--output", required=True, help="Output .ics filename")
+    args = parser.parse_args()
+
     if not API_KEY:
         print("ERROR: TM_API_KEY environment variable is not set.")
         sys.exit(1)
 
-    print("Step 1: Looking up United Center venue ID...")
-    venue_id = get_venue_id()
+    print(f"Step 1: Looking up venue ID for '{args.venue}' in {args.city}...")
+    venue_id = get_venue_id(args.venue, args.city)
 
     print(f"\nStep 2: Fetching all events for venue {venue_id}...")
     events = fetch_all_events(venue_id)
     print(f"Total events fetched: {len(events)}")
 
-    print("\nStep 3: Building iCal feed...")
-    cal = build_calendar(events)
+    print(f"\nStep 3: Building iCal feed '{args.calendar_name}'...")
+    cal = build_calendar(events, args.calendar_name, args.location)
 
-    output_path = "united_center.ics"
-    with open(output_path, "wb") as f:
+    with open(args.output, "wb") as f:
         f.write(cal.to_ical())
 
     event_count = sum(1 for c in cal.walk() if c.name == "VEVENT")
-    print(f"\nDone! Wrote {event_count} events to {output_path}")
+    print(f"\nDone! Wrote {event_count} events to {args.output}")
 
 
 if __name__ == "__main__":
