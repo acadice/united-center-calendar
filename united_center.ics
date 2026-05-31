@@ -1,8 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//United Center Chicago Events//EN
-X-WR-CALDESC:All public events at United Center — Bulls\, Blackhawks\, c
- oncerts & more
+PRODID:-//United Center Chicago//EN
 X-WR-CALNAME:United Center Chicago
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -10,7 +8,7 @@ X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:Megan Moroney: The Cloud 9 Tour
 DTSTART;TZID=America/Chicago:20260602T190000
-UID:vv178ZbMGkR9MJsq@unitedcenter-chicago-calendar
+UID:vv178ZbMGkR9MJsq@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
  .com/megan-moroney-the-cloud-9-tour-chicago-illinois-06-02-2026/event/0400
  637BD7DE6C5D\n\nTicket prices may fluctuate\, at any time\, based on deman
@@ -22,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Megan Moroney: The Cloud 9 Tour
 DTSTART;TZID=America/Chicago:20260603T190000
-UID:vv178ZbzGkngBIF5@unitedcenter-chicago-calendar
+UID:vv178ZbzGkngBIF5@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
  .com/megan-moroney-the-cloud-9-tour-chicago-illinois-06-03-2026/event/0400
  638AB5EA820B\n\nTicket prices may fluctuate\, at any time\, based on deman
@@ -34,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Toliver: Octane Tour
 DTSTART;TZID=America/Chicago:20260611T193000
-UID:vv178Z_dGkSaynE7@unitedcenter-chicago-calendar
+UID:vv178Z_dGkSaynE7@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/don-toliver-octane-tour-chicago-illinois-06-11-2
  026/event/0400643CC9E6A9C4\n\nBy purchasing tickets to this event\, you ag
@@ -48,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Strokes - Reality Awaits North America
 DTSTART;TZID=America/Chicago:20260617T190000
-UID:vv1A7Zk3aGkdvI9zf@unitedcenter-chicago-calendar
+UID:vv1A7Zk3aGkdvI9zf@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  : https://www.ticketmaster.com/the-strokes-reality-awaits-north-america-ch
  icago-illinois-06-17-2026/event/04006489C1A17E14
@@ -59,7 +57,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ROSALÍA: LUX TOUR 2026
 DTSTART;TZID=America/Chicago:20260620T203000
-UID:vv178ZbUGkMZvbum@unitedcenter-chicago-calendar
+UID:vv178ZbUGkMZvbum@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Latin\nTickets: https://www.ticketmaster.c
  om/rosalia-lux-tour-2026-chicago-illinois-06-20-2026/event/0400636DC005836
  E
@@ -70,7 +68,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOJI: SOLARIS
 DTSTART;TZID=America/Chicago:20260623T183000
-UID:vv1A7Zko9Gkd3La_a@unitedcenter-chicago-calendar
+UID:vv1A7Zko9Gkd3La_a@venue-calendar
 DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
  /joji-solaris-chicago-illinois-06-23-2026/event/04006457D27C9649\n\nBy pur
  chasing tickets to this event\, you agree to abide by the health and safet
@@ -83,7 +81,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
 DTSTART;TZID=America/Chicago:20260626T193000
-UID:vv1A7Zk8VGkdEftdU@unitedcenter-chicago-calendar
+UID:vv1A7Zk8VGkdEftdU@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /lionel-richie-and-earth-wind-fire-chicago-illinois-06-26-2026/event/04006
  434E75290F6\n\nBy purchasing tickets to this event\, you agree to abide by
@@ -97,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"Weird Al" Yankovic: Bigger & Weirder 2026 Tour
 DTSTART;TZID=America/Chicago:20260627T200000
-UID:vv1kvZvN_8GA2AatL@unitedcenter-chicago-calendar
+UID:vv1kvZvN_8GA2AatL@venue-calendar
 DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
  etmaster.com/weird-al-yankovic-bigger-weirder-2026-chicago-illinois-06-27-
  2026/event/040063650F149A5F\n\nBy purchasing tickets to this event\, you a
@@ -111,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Sky vs. Las Vegas Aces
 DTSTART;TZID=America/Chicago:20260628T150000
-UID:vv1A7ZkoxGkeBHMQS@unitedcenter-chicago-calendar
+UID:vv1A7ZkoxGkeBHMQS@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
  ps://www.ticketmaster.com/chicago-sky-vs-las-vegas-aces-chicago-illinois-0
  6-28-2026/event/04006462BAF376B3
@@ -122,7 +120,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alex Warren: Finding Family on the Road
 DTSTART;TZID=America/Chicago:20260629T193000
-UID:vv1FvZvN_sq-Z75vGC@unitedcenter-chicago-calendar
+UID:vv1FvZvN_sq-Z75vGC@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /alex-warren-finding-family-on-the-chicago-illinois-06-29-2026/event/04006
  3671761A0BD\n\nAll Ages Welcome. By purchasing tickets to this event\, you
@@ -136,7 +134,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260708T130000
-UID:vv178Z_eGkUzHgRV@unitedcenter-chicago-calendar
+UID:vv178Z_eGkUzHgRV@venue-calendar
 DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://on.fgtix.com/trk/NBTK
@@ -144,7 +142,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260708T160000
-UID:Z7r9jZ1A7raZM@unitedcenter-chicago-calendar
+UID:Z7r9jZ1A7raZM@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
  //www.ticketmaster.com/event/Z7r9jZ1A7raZM
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
@@ -153,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260709T130000
-UID:Z7r9jZ1A7q0PM@unitedcenter-chicago-calendar
+UID:Z7r9jZ1A7q0PM@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
  //www.ticketmaster.com/event/Z7r9jZ1A7q0PM
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
@@ -162,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260709T130000
-UID:vv178ZbgGkmoTfbn@unitedcenter-chicago-calendar
+UID:vv178ZbgGkmoTfbn@venue-calendar
 DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://on.fgtix.com/trk/NBTK
@@ -170,7 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260710T130000
-UID:Z7r9jZ1A7raZV@unitedcenter-chicago-calendar
+UID:Z7r9jZ1A7raZV@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
  //www.ticketmaster.com/event/Z7r9jZ1A7raZV
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
@@ -179,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260710T130000
-UID:vv178ZbgGkm31fbT@unitedcenter-chicago-calendar
+UID:vv178ZbgGkm31fbT@venue-calendar
 DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://on.fgtix.com/trk/NBTK
@@ -187,7 +185,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260711T130000
-UID:Z7r9jZ1A7jY4O@unitedcenter-chicago-calendar
+UID:Z7r9jZ1A7jY4O@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
  //www.ticketmaster.com/event/Z7r9jZ1A7jY4O
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
@@ -196,7 +194,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260711T130000
-UID:vv178ZbgGkm347_m@unitedcenter-chicago-calendar
+UID:vv178ZbgGkm347_m@venue-calendar
 DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://on.fgtix.com/trk/NBTK
@@ -204,7 +202,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260712T130000
-UID:Z7r9jZ1A7raZg@unitedcenter-chicago-calendar
+UID:Z7r9jZ1A7raZg@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
  //www.ticketmaster.com/event/Z7r9jZ1A7raZg
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
@@ -213,7 +211,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260712T130000
-UID:vv178ZbgGkm3O7Q5@unitedcenter-chicago-calendar
+UID:vv178ZbgGkm3O7Q5@venue-calendar
 DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://on.fgtix.com/trk/NBTK
@@ -221,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meghan Trainor: The Get In Girl Tour
 DTSTART;TZID=America/Chicago:20260715T200000
-UID:vv1A7ZkuIGkeclAI2@unitedcenter-chicago-calendar
+UID:vv1A7ZkuIGkeclAI2@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /meghan-trainor-the-get-in-girl-chicago-illinois-07-15-2026/event/04006368
  ADAC5A0F\n\nAll Ages Welcome!
@@ -232,7 +230,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;TZID=America/Chicago:20260716T193000
-UID:vv1A7ZkudGkdFf0PN@unitedcenter-chicago-calendar
+UID:vv1A7ZkudGkdFf0PN@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/rush-fifty-something-chicago-illinois-07-16-2026/event/0
  4006343C8524963
@@ -243,7 +241,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;TZID=America/Chicago:20260718T193000
-UID:vv1A7ZkudGkdI1fXk@unitedcenter-chicago-calendar
+UID:vv1A7ZkudGkdI1fXk@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/rush-fifty-something-chicago-illinois-07-18-2026/event/0
  4006343E8294F86
@@ -254,7 +252,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;TZID=America/Chicago:20260720T193000
-UID:vv1A7Zku6Gkdbp7J4@unitedcenter-chicago-calendar
+UID:vv1A7Zku6Gkdbp7J4@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/rush-fifty-something-chicago-illinois-07-20-2026/event/0
  4006347D8584995
@@ -265,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;TZID=America/Chicago:20260722T193000
-UID:vv1A7Zku6Gkdbh7Jc@unitedcenter-chicago-calendar
+UID:vv1A7Zku6Gkdbh7Jc@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/rush-fifty-something-chicago-illinois-07-22-2026/event/0
  4006347D86C49AD
@@ -276,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 AT&T WNBA All-Star Game
 DTSTART;TZID=America/Chicago:20260725T193000
-UID:vv178Z_aGkVhBxQ7@unitedcenter-chicago-calendar
+UID:vv178Z_aGkVhBxQ7@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
  ps://www.ticketmaster.com/2026-att-wnba-allstar-game-chicago-illinois-07-2
  5-2026/event/0400649D1BEA2684
@@ -287,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daniel Caesar - Son Of Spergy Tour
 DTSTART;TZID=America/Chicago:20260726T193000
-UID:vv1A7ZkC7GkdaNIJ3@unitedcenter-chicago-calendar
+UID:vv1A7ZkC7GkdaNIJ3@venue-calendar
 DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
  /daniel-caesar-son-of-spergy-tour-chicago-illinois-07-26-2026/event/040063
  84C98E8992
@@ -298,7 +296,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ZAYN: The Konnakol Tour
 DTSTART;TZID=America/Chicago:20260727T200000
-UID:vv167ZkC8AIZA2Cvk8@unitedcenter-chicago-calendar
+UID:vv167ZkC8AIZA2Cvk8@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /zayn-the-konnakol-tour-chicago-illinois-07-27-2026/event/04006390168ED05F
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
@@ -308,7 +306,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
 DTSTART;TZID=America/Chicago:20260801T113000
-UID:vv1A7Zko9GkdqLyTq@unitedcenter-chicago-calendar
+UID:vv1A7Zko9GkdqLyTq@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
  ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
  -08-01-2026/event/04006457DD7F9FDD\n\nHot Wheels Monster Trucks Live?: Glo
@@ -326,7 +324,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Start Your Engine VIP
 DTSTART;TZID=America/Chicago:20260801T113000
-UID:vv1A7Zko_GkdwU4XN@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdwU4XN@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
  -wheels-start-your-engine-vip-chicago-illinois-08-01-2026/event/04006459F2
  D95FA3\n\n(Event ticket required) Get in on the action early with exclusiv
@@ -341,7 +339,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Pedal to the Metal VIP
 DTSTART;TZID=America/Chicago:20260801T113000
-UID:vv1A7Zko_GkdwWgT3@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdwWgT3@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
  -wheels-pedal-to-the-metal-chicago-illinois-08-01-2026/event/04006459F2F75
  FD2\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
@@ -357,7 +355,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
 DTSTART;TZID=America/Chicago:20260801T183000
-UID:vv1A7Zko9Gkdqr_T2@unitedcenter-chicago-calendar
+UID:vv1A7Zko9Gkdqr_T2@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
  ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
  -08-01-2026/event/04006457DD799FCF\n\nHot Wheels Monster Trucks Live?: Glo
@@ -375,7 +373,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Start Your Engine VIP
 DTSTART;TZID=America/Chicago:20260801T183000
-UID:vv1A7Zko_GkdwMPXR@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdwMPXR@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
  -wheels-start-your-engine-vip-chicago-illinois-08-01-2026/event/04006459F2
  DE5FAF\n\n(Event ticket required) Get in on the action early with exclusiv
@@ -390,7 +388,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Pedal to the Metal VIP
 DTSTART;TZID=America/Chicago:20260801T183000
-UID:vv1A7Zko_GkdwTATj@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdwTATj@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
  -wheels-pedal-to-the-metal-chicago-illinois-08-01-2026/event/04006459F2FC5
  FDC\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
@@ -406,7 +404,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
 DTSTART;TZID=America/Chicago:20260802T133000
-UID:vv1A7Zko9Gkdq-_TN@unitedcenter-chicago-calendar
+UID:vv1A7Zko9Gkdq-_TN@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
  ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
  -08-02-2026/event/04006457DD859FE3\n\nHot Wheels Monster Trucks Live?: Glo
@@ -424,7 +422,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Pedal to the Metal VIP
 DTSTART;TZID=America/Chicago:20260802T133000
-UID:vv1A7Zko_GkdSZPTP@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdSZPTP@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
  -wheels-pedal-to-the-metal-chicago-illinois-08-02-2026/event/04006459F3025
  FE5\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
@@ -440,7 +438,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hot Wheels Start Your Engine VIP
 DTSTART;TZID=America/Chicago:20260802T133000
-UID:vv1A7Zko_GkdwyAXg@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdwyAXg@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
  -wheels-start-your-engine-vip-chicago-illinois-08-02-2026/event/04006459F2
  E45FB5\n\n(Event ticket required) Get in on the action early with exclusiv
@@ -455,7 +453,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260803T200000
-UID:vv1A7ZkG_GkdqBxS4@unitedcenter-chicago-calendar
+UID:vv1A7ZkG_GkdqBxS4@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-03-2026/event
  /04006319DDEA2CD5
@@ -466,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260805T200000
-UID:vv178ZbsGklLGK3v@unitedcenter-chicago-calendar
+UID:vv178ZbsGklLGK3v@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-05-2026/event
  /0400631ADF313481
@@ -477,7 +475,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260806T200000
-UID:vv1A7ZkGPGkecEw3E@unitedcenter-chicago-calendar
+UID:vv1A7ZkGPGkecEw3E@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-06-2026/event
  /04006325AD9F24A7
@@ -488,7 +486,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Sky vs. Indiana Fever
 DTSTART;TZID=America/Chicago:20260808T143000
-UID:vv1A7ZkoxGkeBXEQW@unitedcenter-chicago-calendar
+UID:vv1A7ZkoxGkeBXEQW@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
  ps://www.ticketmaster.com/chicago-sky-vs-indiana-fever-chicago-illinois-08
  -08-2026/event/04006462BAFA76BD
@@ -499,7 +497,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J. Cole: The Fall-Off Tour
 DTSTART;TZID=America/Chicago:20260811T200000
-UID:vv1kvZv038GACyMDJ@unitedcenter-chicago-calendar
+UID:vv1kvZv038GACyMDJ@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-08-11-2
  026/event/040064490EE77EE6\n\nAll Ages Welcome!
@@ -510,7 +508,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:J. Cole: The Fall-Off Tour
 DTSTART;TZID=America/Chicago:20260812T200000
-UID:vv178Z_7GkUJJEsl@unitedcenter-chicago-calendar
+UID:vv178Z_7GkUJJEsl@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-08-12-2
  026/event/0400644DA69A7C6B\n\nAll Ages Welcome!
@@ -521,7 +519,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kacey Musgraves - Middle of Nowhere Tour 
 DTSTART;TZID=America/Chicago:20260820T193000
-UID:vvG18Z_1kYLDJy@unitedcenter-chicago-calendar
+UID:vvG18Z_1kYLDJy@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
  .com/kacey-musgraves-middle-of-nowhere-tour-chicago-illinois-08-20-2026/ev
  ent/040064A1B07FB9B9\n\nBy purchasing tickets to this event\, you agree to
@@ -535,7 +533,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kacey Musgraves - Middle of Nowhere Tour 
 DTSTART;TZID=America/Chicago:20260821T193000
-UID:vv1A7Zk34GkdL8msd@unitedcenter-chicago-calendar
+UID:vv1A7Zk34GkdL8msd@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
  .com/kacey-musgraves-middle-of-nowhere-tour-chicago-illinois-08-21-2026/ev
  ent/04006495DF42EC43\n\nBy purchasing tickets to this event\, you agree to
@@ -549,7 +547,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:OMAR COURTZ - POR SI MAÑANA NO ESTOY USA TOUR
 DTSTART;TZID=America/Chicago:20260905T200000
-UID:vv178Z_aGkDr6r2e@unitedcenter-chicago-calendar
+UID:vv178Z_aGkDr6r2e@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/omar-courtz-por-si-manana-no-chicago-illinois-09
  -05-2026/event/0400649EDE1DE3C2
@@ -560,7 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Childish Gambino - The New World Tour
 DTSTART;TZID=America/Chicago:20260908T200000
-UID:vvG18Zb157jsXp@unitedcenter-chicago-calendar
+UID:vvG18Zb157jsXp@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/childish-gambino-the-new-world-tour-chicago-illi
  nois-09-08-2026/event/040060A2C4731F96
@@ -571,7 +569,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JUNGLE - World Tour 2026
 DTSTART;TZID=America/Chicago:20260910T200000
-UID:vv1A7ZkosGkeReJrV@unitedcenter-chicago-calendar
+UID:vv1A7ZkosGkeReJrV@venue-calendar
 DESCRIPTION:Type: Music\nGenre: R&B\nSub-genre: Soul\nTickets: https://www
  .ticketmaster.com/jungle-world-tour-2026-chicago-illinois-09-10-2026/event
  /04006471AF0A67B4\n\nNo Resale Over Face Value: Jungle is using Ticketmast
@@ -588,7 +586,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eric Clapton
 DTSTART;TZID=America/Chicago:20260911T193000
-UID:vv1A7Zko_GkdQ7Na1@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdQ7Na1@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/eric-clapton-chicago-illinois-09-11-2026/event/04006459D
  A12324A
@@ -599,7 +597,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Robyn - The Sexistential Tour
 DTSTART;TZID=America/Chicago:20260912T193000
-UID:vv178Z_dGkReEzfw@unitedcenter-chicago-calendar
+UID:vv178Z_dGkReEzfw@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
  s://www.ticketmaster.com/robyn-the-sexistential-tour-chicago-illinois-09-1
  2-2026/event/0400643BC29F8532
@@ -610,7 +608,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lily Allen Performs West End Girl
 DTSTART;TZID=America/Chicago:20260913T200000
-UID:vv1A7ZkoyGkemyzsK@unitedcenter-chicago-calendar
+UID:vv1A7ZkoyGkemyzsK@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/lily-allen-performs-west-end-girl-chicago-illinois-09-13
  -2026/event/04006479AEE78C53\n\nBy purchasing tickets to this event\, you 
@@ -624,7 +622,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WEEZER: The Gathering
 DTSTART;TZID=America/Chicago:20260922T190000
-UID:vv178Z_kGkUTIbfC@unitedcenter-chicago-calendar
+UID:vv178Z_kGkUTIbfC@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  : https://www.ticketmaster.com/weezer-the-gathering-chicago-illinois-09-22
  -2026/event/0400646DBFA1850E
@@ -635,7 +633,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART;TZID=America/Chicago:20260925T190000
-UID:vv178Z_FGkUXeURm@unitedcenter-chicago-calendar
+UID:vv178Z_FGkUXeURm@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /teddy-swims-the-ugly-tour-chicago-illinois-09-25-2026/event/0400648DBE0B6
  BEE\n\nBy purchasing tickets to this event\, you agree to abide by the hea
@@ -650,7 +648,7 @@ BEGIN:VEVENT
 SUMMARY:Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 T
  our
 DTSTART;TZID=America/Chicago:20260929T200000
-UID:vv178Z_6GkDtyhLC@unitedcenter-chicago-calendar
+UID:vv178Z_6GkDtyhLC@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago-illinois-09-29
  -2026/event/0400647EE9E5B7CE\n\nNo Resale Over Face Value: Johnny Blue Ski
@@ -667,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN CHICAGO
 DTSTART;TZID=America/Chicago:20261002T193000
-UID:vvG18Z_1RQr5mp@unitedcenter-chicago-calendar
+UID:vvG18Z_1RQr5mp@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
  w.ticketmaster.com/le-sserafim-2026-le-sserafim-pureflow-chicago-illinois-
  10-02-2026/event/040064ABDA78BB96
@@ -678,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Doja Cat - Tour Ma Vie World Tour
 DTSTART;TZID=America/Chicago:20261003T193000
-UID:vv178ZbSGknyfVeS@unitedcenter-chicago-calendar
+UID:vv178ZbSGknyfVeS@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/doja-cat-tour-ma-vie-world-chicago-illinois-10-0
  3-2026/event/0400633AB95340B3
@@ -689,7 +687,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOURNEY - Final Frontier Tour (An Evening With)
 DTSTART;TZID=America/Chicago:20261005T193000
-UID:vvG18Z_1fNynZS@unitedcenter-chicago-calendar
+UID:vvG18Z_1fNynZS@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/journey-final-frontier-tour-an-evening-chicago-illinois-
  10-05-2026/event/040064A523E6A033
@@ -700,7 +698,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gorillaz - The Mountain Tour
 DTSTART;TZID=America/Chicago:20261008T193000
-UID:vv1A7Zko_GkdGJoO2@unitedcenter-chicago-calendar
+UID:vv1A7Zko_GkdGJoO2@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  : https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illinois
  -10-08-2026/event/04006459CC99180F
@@ -711,7 +709,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART;TZID=America/Chicago:20261011T190000
-UID:vv178Z_aGkYeTUOa@unitedcenter-chicago-calendar
+UID:vv178Z_aGkYeTUOa@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-11-2026/event/04006
  49C02FF6809
@@ -722,7 +720,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART;TZID=America/Chicago:20261012T190000
-UID:vv178Z_aGkMlEBGy@unitedcenter-chicago-calendar
+UID:vv178Z_aGkMlEBGy@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-12-2026/event/04006
  49DEB9FA339
@@ -733,7 +731,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Smashing Pumpkins: The Rats In A Cage Tour
 DTSTART;TZID=America/Chicago:20261014T200000
-UID:vvG18Z_1DaaHeF@unitedcenter-chicago-calendar
+UID:vvG18Z_1DaaHeF@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  : https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-chicago-i
  llinois-10-14-2026/event/040064AEC927C088
@@ -745,7 +743,7 @@ BEGIN:VEVENT
 SUMMARY:Disney Descendants\, ZOMBIES & Camp Rock: Worlds Collide Concert T
  our
 DTSTART;TZID=America/Chicago:20261019T190000
-UID:vv178Z_kGkRLKIPC@unitedcenter-chicago-calendar
+UID:vv178Z_kGkRLKIPC@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Other\nTickets: https://www.ticketmaster.c
  om/disney-descendants-zombies-camp-rock-worlds-chicago-illinois-10-19-2026
  /event/0400646BDF4E894E\n\nAll ages event- all patrons require a ticket.
@@ -756,7 +754,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOMBR - You Are The Reason Tour
 DTSTART;TZID=America/Chicago:20261104T190000
-UID:vv1A7Zk36Gkd2Hi7b@unitedcenter-chicago-calendar
+UID:vv1A7Zk36Gkd2Hi7b@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  : https://www.ticketmaster.com/sombr-you-are-the-reason-tour-chicago-illin
  ois-11-04-2026/event/04006487CFF2C118
@@ -767,7 +765,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART;TZID=America/Chicago:20261105T200000
-UID:vvG18Z_1miP6i3@unitedcenter-chicago-calendar
+UID:vvG18Z_1miP6i3@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /katseye-the-wildworld-tour-chicago-illinois-11-05-2026/event/040064ABAC94
  7B12
@@ -778,7 +776,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XG WORLD TOUR: THE CORE IN CHICAGO
 DTSTART;TZID=America/Chicago:20261109T200000
-UID:vvG18Z_1Ta32Me@unitedcenter-chicago-calendar
+UID:vvG18Z_1Ta32Me@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
  w.ticketmaster.com/xg-world-tour-the-core-in-chicago-illinois-11-09-2026/e
  vent/040064AFC948FDC2\n\nTICKET PERK DISCLAIMER All Ticket purchasers will
@@ -800,7 +798,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Neighbourhood: THE WOURLD TOUR
 DTSTART;TZID=America/Chicago:20261118T193000
-UID:vv1A7ZkoaGkdxvkbx@unitedcenter-chicago-calendar
+UID:vv1A7ZkoaGkdxvkbx@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/the-neighbourhood-the-wourld-tour-chicago-illinois-11-18
  -2026/event/04006449E2046622
@@ -811,7 +809,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART;TZID=America/Chicago:20261124T190000
-UID:vvG18Z_52-BljX@unitedcenter-chicago-calendar
+UID:vvG18Z_52-BljX@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
  s://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicago-illino
  is-11-24-2026/event/040064B3E1EAB73E\n\n18+ is recommended but all ages we
@@ -823,7 +821,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART;TZID=America/Chicago:20261125T200000
-UID:vvG18Z_52-Dlqv@unitedcenter-chicago-calendar
+UID:vvG18Z_52-Dlqv@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
  s://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicago-illino
  is-11-25-2026/event/040064B3E1EEB741
@@ -834,7 +832,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Rife: Stay Golden World Tour
 DTSTART;TZID=America/Chicago:20270107T200000
-UID:vv178ZbgGkMMraib@unitedcenter-chicago-calendar
+UID:vv178ZbgGkMMraib@venue-calendar
 DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
  etmaster.com/matt-rife-stay-golden-world-tour-chicago-illinois-01-07-2027/
  event/0400635DF7789B18\n\n18+/ Mature Audience Only This event is being pr
@@ -849,7 +847,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
 DTSTART;TZID=America/Chicago:20270211T200000
-UID:vv1FvZv0PYCdZ72aG6@unitedcenter-chicago-calendar
+UID:vv1FvZv0PYCdZ72aG6@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /gracie-abrams-the-look-at-my-chicago-illinois-02-11-2027/event/0400649703
  83E8B6
@@ -860,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
 DTSTART;TZID=America/Chicago:20270212T200000
-UID:vvG18Z_5RD-DAh@unitedcenter-chicago-calendar
+UID:vvG18Z_5RD-DAh@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
  /gracie-abrams-the-look-at-my-chicago-illinois-02-12-2027/event/040064BBFB
  87B15B
@@ -871,7 +869,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niall Horan: Dinner Party Live On Tour
 DTSTART;TZID=America/Chicago:20270323T193000
-UID:vvG18Z_1LLYAJb@unitedcenter-chicago-calendar
+UID:vvG18Z_1LLYAJb@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/niall-horan-dinner-party-live-on-chicago-illinois-03-23-
  2027/event/040064A7DFC05998
