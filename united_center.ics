@@ -7,18 +7,6 @@ X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:Megan Moroney: The Cloud 9 Tour
-DTSTART;TZID=America/Chicago:20260602T190000
-UID:vv178ZbMGkR9MJsq@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
- .com/megan-moroney-the-cloud-9-tour-chicago-illinois-06-02-2026/event/0400
- 637BD7DE6C5D\n\nTicket prices may fluctuate\, at any time\, based on deman
- d.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/megan-moroney-the-cloud-9-tour-chicago-il
- linois-06-02-2026/event/0400637BD7DE6C5D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Megan Moroney: The Cloud 9 Tour
 DTSTART;TZID=America/Chicago:20260603T190000
 UID:vv178ZbzGkngBIF5@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
