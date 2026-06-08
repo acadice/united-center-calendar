@@ -618,6 +618,20 @@ URL:https://www.ticketmaster.com/lily-allen-performs-west-end-girl-chicago
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Phoebe Bridgers: The Lost Tour
+DTSTART;TZID=America/Chicago:20260918T193000
+UID:vvG18Z_G1svGrS@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-chicago-illin
+ ois-09-18-2026/event/040064C2B104C7B3\n\nPhoebe Bridgers is contributing $
+ 1 per ticket sold to RAINN\, to support sexual violence survivors and prev
+ ention efforts. No portion of the ticket purchase is tax deductible. For m
+ ore\, visit rainn.org.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-chicago-ill
+ inois-09-18-2026/event/040064C2B104C7B3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Phoebe Bridgers: The Lost Tour
 DTSTART;TZID=America/Chicago:20260919T193000
 UID:vvG18Z_G1RUi9l@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
