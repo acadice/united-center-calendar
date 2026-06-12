@@ -6,20 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Don Toliver: Octane Tour
-DTSTART;TZID=America/Chicago:20260611T193000
-UID:vv178Z_dGkSaynE7@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
- ps://www.ticketmaster.com/don-toliver-octane-tour-chicago-illinois-06-11-2
- 026/event/0400643CC9E6A9C4\n\nBy purchasing tickets to this event\, you ag
- ree to abide by the health and safety measures in effect at the time of th
- e event. Check back often for updates to your event venue website as guide
- lines are subject to change.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/don-toliver-octane-tour-chicago-illinois-
- 06-11-2026/event/0400643CC9E6A9C4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Strokes - Reality Awaits North America
 DTSTART;TZID=America/Chicago:20260617T190000
 UID:vv1A7Zk3aGkdvI9zf@venue-calendar
