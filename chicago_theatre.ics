@@ -6,26 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Stand By Me: The Film and Its Stars 40 Years Later
-DTSTART;TZID=America/Chicago:20260614T190000
-UID:vv1A6ZkoKGkeNT4jD@venue-calendar
-DESCRIPTION:Type: Film\nGenre: Drama\nTickets: https://www.ticketmaster.co
- m/stand-by-me-the-film-and-chicago-illinois-06-14-2026/event/07006453A3FD5
- 73B\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if a
- pplicable). By purchasing tickets to this event\, you agree to abide by th
- e health and safety measures in effect at the time of the event. Governmen
- t mandates\, venue protocols\, and event requirements are subject to chang
- e. For more information\, please search your event on www.chicagotheatre.c
- om. This event may have immersive elements\, which may include flashing or
-  strobe lights\, intense lighting\, visual effects\, loud noises\, smoke a
- nd/or fog. Such elements may aggravate certain medical or physical conditi
- ons\, and guests should take this into consideration if they have a histor
- y of discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/stand-by-me-the-film-and-chicago-illinois
- -06-14-2026/event/07006453A3FD573B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Kevin Langue Show: Live!
 DTSTART;TZID=America/Chicago:20260618T200000
 UID:vv17jZ_dGkmQo7_G@venue-calendar
