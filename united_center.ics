@@ -6,27 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Dave Chappelle
-DTSTART;TZID=America/Chicago:20260619T193000
-UID:vvG18Z_G5-XvPS@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/dave-chappelle-chicago-illinois-06-19-2026/event/040064C2E1F8
- 1973\n\nThis event will be a phone-free experience. Use of phones\, smart 
- watches and accessories will not be permitted in the performance space. Up
- on arrival at the venue\, all phones\, smart watches and accessories will 
- be secured in individual Yondr pouches that will be opened at the end of t
- he event. Guests maintain possession of their devices at all times\, and c
- an access them throughout the event only in designated Phone Use Areas wit
- hin the venue. All devices will be re-secured in Yondr pouches before retu
- rning to the performance space. Anyone seen using a device (phone\, smart 
- watch or accessories) during the performance will be escorted out of the v
- enue by security. We appreciate your cooperation in creating a phone-free 
- experience.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/dave-chappelle-chicago-illinois-06-19-202
- 6/event/040064C2E1F81973
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ROSALÍA: LUX TOUR 2026
 DTSTART;TZID=America/Chicago:20260620T203000
 UID:vv178ZbUGkMZvbum@venue-calendar
