@@ -294,6 +294,27 @@ URL:https://www.ticketmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago
  -illinois-09-18-2026/event/070064A6FB38A36F
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Atsuko Okatsuka: The Big Bowl Tour
+DTSTART;TZID=America/Chicago:20260919T190000
+UID:vvG1jZ_1KbvU0h@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago-illinois-09-19-2026
+ /event/070064A4D807691B\n\nPLEASE NOTE: Pricing is all-in and includes fee
+ s (before taxes if applicable). Mature Audience Only. Suggested for ages 1
+ 8+. By purchasing tickets to this event\, you agree to abide by the health
+  and safety measures in effect at the time of the event. Government mandat
+ es\, venue protocols\, and event requirements are subject to change. For m
+ ore information\, please search your event on www.chicagotheatre.com. This
+  event may have immersive elements\, which may include flashing or strobe 
+ lights\, intense lighting\, visual effects\, loud noises\, smoke and/or fo
+ g. Such elements may aggravate certain medical or physical conditions\, an
+ d guests should take this into consideration if they have a history of dis
+ comfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago
+ -illinois-09-19-2026/event/070064A4D807691B
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Laura Ramoso: The Calm Down Tour
 DTSTART;TZID=America/Chicago:20260925T193000
 UID:vv17jZ_kGkcVOoSJ@venue-calendar
