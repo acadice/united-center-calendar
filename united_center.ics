@@ -6,19 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:JOJI: SOLARIS
-DTSTART;TZID=America/Chicago:20260623T183000
-UID:vv1A7Zko9Gkd3La_a@venue-calendar
-DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /joji-solaris-chicago-illinois-06-23-2026/event/04006457D27C9649\n\nBy pur
- chasing tickets to this event\, you agree to abide by the health and safet
- y measures in effect at the time of the event. Check back often for update
- s to your event venue website as guidelines are subject to change.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/joji-solaris-chicago-illinois-06-23-2026/
- event/04006457D27C9649
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
 DTSTART;TZID=America/Chicago:20260626T193000
 UID:vv1A7Zk8VGkdEftdU@venue-calendar
