@@ -6,27 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:The Human League With Very Special Guests Soft Cell & Alison Moyet
-DTSTART;TZID=America/Chicago:20260623T193000
-UID:vv17jZ_eGkMvsP06@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
- : https://www.ticketmaster.com/the-human-league-with-very-special-chicago-
- illinois-06-23-2026/event/0700642DC1C65907\n\nPLEASE NOTE: Pricing is all-
- in and includes fees (before taxes if applicable). By purchasing tickets t
- o this event\, you agree to abide by the health and safety measures in eff
- ect at the time of the event. Government mandates\, venue protocols\, and 
- event requirements are subject to change. For more information\, please se
- arch your event on www.chicagotheatre.com. This event may have immersive e
- lements\, which may include flashing or strobe lights\, intense lighting\,
-  visual effects\, loud noises\, smoke and/or fog. Such elements may aggrav
- ate certain medical or physical conditions\, and guests should take this i
- nto consideration if they have a history of discomfort or physical symptom
- s when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/the-human-league-with-very-special-chicag
- o-illinois-06-23-2026/event/0700642DC1C65907
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chase Presents: Djo
 DTSTART;TZID=America/Chicago:20260626T200000
 UID:vvG1jZ_1K8LUaN@venue-calendar
