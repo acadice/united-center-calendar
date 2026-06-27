@@ -6,27 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chase Presents: Djo
-DTSTART;TZID=America/Chicago:20260626T200000
-UID:vvG1jZ_1K8LUaN@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/chase-presents-djo-chicago-illinois-06-26-2026/event/070
- 064A4D07F6263\n\nThis event is exclusive to Chase cardmembers only. PLEASE
-  NOTE: Pricing is all-in and includes fees (before taxes if applicable). B
- y purchasing tickets to this event\, you agree to abide by the health and 
- safety measures in effect at the time of the event. Government mandates\, 
- venue protocols\, and event requirements are subject to change. For more i
- nformation\, please search your event on www.chicagotheatre.com. This even
- t may have immersive elements\, which may include flashing or strobe light
- s\, intense lighting\, visual effects\, loud noises\, smoke and/or fog. Su
- ch elements may aggravate certain medical or physical conditions\, and gue
- sts should take this into consideration if they have a history of discomfo
- rt or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/chase-presents-djo-chicago-illinois-06-26
- -2026/event/070064A4D07F6263
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:America: The Happy Trails Tour 2026
 DTSTART;TZID=America/Chicago:20260627T190000
 UID:vv1A6Zk8VGke0q09Q@venue-calendar
@@ -300,15 +279,18 @@ UID:vvG1jZ_GXHbaxa@venue-calendar
 DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
  etmaster.com/ilana-glazer-live-chicago-illinois-09-22-2026/event/070064CFB
  C609889\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes 
- if applicable). By purchasing tickets to this event\, you agree to abide b
- y the health and safety measures in effect at the time of the event. Gover
- nment mandates\, venue protocols\, and event requirements are subject to c
- hange. For more information\, please search your event on www.chicagotheat
- re.com. This event may have immersive elements\, which may include flashin
- g or strobe lights\, intense lighting\, visual effects\, loud noises\, smo
- ke and/or fog. Such elements may aggravate certain medical or physical con
- ditions\, and guests should take this into consideration if they have a hi
- story of discomfort or physical symptoms when experiencing these elements.
+ if applicable). ARRIVE EARLY: Please arrive 60-minutes prior to showtime. 
+ All packages\, including briefcases and pocketbooks\, will be inspected pr
+ ior to entry. By purchasing tickets to this event\, you agree to abide by 
+ the health and safety measures in effect at the time of the event. Governm
+ ent mandates\, venue protocols\, and event requirements are subject to cha
+ nge. For more information\, please search for your event on www.chicagothe
+ atre.com. This event may have immersive elements\, which may include flash
+ ing or strobe lights\, intense lighting\, visual effects\, loud noises\, s
+ moke and/or fog. Such elements may aggravate certain medical or physical c
+ onditions\, and guests should take this into consideration if they have a 
+ history of discomfort or physical symptoms when experiencing these element
+ s.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/ilana-glazer-live-chicago-illinois-09-22-
  2026/event/070064CFBC609889
@@ -725,6 +707,27 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chi
  cago-illinois-10-27-2026/event/07006436AB9A68BD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don Lemon & DL Hughley: DL + DL 'Anything Goes'
+DTSTART;TZID=America/Chicago:20261030T193000
+UID:vvG1jZ_uL4VkyX@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/don-lemon-dl-hughley-dl-dl-chicago-illinois-10-30-2026/event/
+ 070064D7D5D06E7E\n\nPLEASE NOTE: Pricing is all-in and includes fees (befo
+ re taxes if applicable). By purchasing tickets to this event\, you agree t
+ o abide by the health and safety measures in effect at the time of the eve
+ nt. Government mandates\, venue protocols\, and event requirements are sub
+ ject to change. For more information\, please search your event on www.chi
+ cagotheatre.com. This event may have immersive elements\, which may includ
+ e flashing or strobe lights\, intense lighting\, visual effects\, loud noi
+ ses\, smoke and/or fog. Such elements may aggravate certain medical or phy
+ sical conditions\, and guests should take this into consideration if they 
+ have a history of discomfort or physical symptoms when experiencing these 
+ elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/don-lemon-dl-hughley-dl-dl-chicago-illino
+ is-10-30-2026/event/070064D7D5D06E7E
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE ROCKY HORROR PICTURE SHOW ORIGINAL CAST SPOOKTACULAR TOUR
