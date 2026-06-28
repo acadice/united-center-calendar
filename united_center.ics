@@ -6,20 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:"Weird Al" Yankovic: Bigger & Weirder 2026 Tour
-DTSTART;TZID=America/Chicago:20260627T200000
-UID:vv1kvZvN_8GA2AatL@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/weird-al-yankovic-bigger-weirder-2026-chicago-illinois-06-27-
- 2026/event/040063650F149A5F\n\nBy purchasing tickets to this event\, you a
- gree to abide by the health and safety measures in effect at the time of t
- he event. Check back often for updates to your event venue website as guid
- elines are subject to change.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/weird-al-yankovic-bigger-weirder-2026-chi
- cago-illinois-06-27-2026/event/040063650F149A5F
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Sky vs. Las Vegas Aces
 DTSTART;TZID=America/Chicago:20260628T150000
 UID:vv1A7ZkoxGkeBHMQS@venue-calendar
