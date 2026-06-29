@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Sky vs. Las Vegas Aces
-DTSTART;TZID=America/Chicago:20260628T150000
-UID:vv1A7ZkoxGkeBHMQS@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: WNBA\nTickets: htt
- ps://www.ticketmaster.com/chicago-sky-vs-las-vegas-aces-chicago-illinois-0
- 6-28-2026/event/04006462BAF376B3
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-sky-vs-las-vegas-aces-chicago-ill
- inois-06-28-2026/event/04006462BAF376B3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alex Warren: Finding Family on the Road
 DTSTART;TZID=America/Chicago:20260629T193000
 UID:vv1FvZvN_sq-Z75vGC@venue-calendar
