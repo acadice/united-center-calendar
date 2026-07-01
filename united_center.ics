@@ -565,6 +565,20 @@ URL:https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago
  -illinois-09-29-2026/event/0400647EE9E5B7CE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
+DTSTART;TZID=America/Chicago:20260930T193000
+UID:vv1A7Zk8VGkdEftdU@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
+ /lionel-richie-and-earth-wind-fire-chicago-illinois-09-30-2026/event/04006
+ 434E75290F6\n\nBy purchasing tickets to this event\, you agree to abide by
+  the health and safety measures in effect at the time of the event. Check 
+ back often for updates to your event venue website as guidelines are subje
+ ct to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-chicago
+ -illinois-09-30-2026/event/04006434E75290F6
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN CHICAGO
 DTSTART;TZID=America/Chicago:20261002T193000
 UID:vvG18Z_1RQr5mp@venue-calendar
