@@ -522,6 +522,17 @@ URL:https://www.ticketmaster.com/phoebe-bridgers-the-lost-tour-chicago-ill
  inois-09-19-2026/event/040064C2AFDAC5EB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks v Minnesota Wild - PRESEASON
+DTSTART;TZID=America/Chicago:20260921T190000
+UID:vvG18Z_uB8xPZV@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-v-minnesota-wild-preseason-chicago
+ -illinois-09-21-2026/event/040064DE908A5034
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-v-minnesota-wild-prese
+ ason-chicago-illinois-09-21-2026/event/040064DE908A5034
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WEEZER: The Gathering
 DTSTART;TZID=America/Chicago:20260922T190000
 UID:vv178Z_kGkUTIbfC@venue-calendar
@@ -545,6 +556,17 @@ DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-chicago-illinoi
  s-09-25-2026/event/0400648DBE0B6BEE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks v St. Louis Blues - PRESEASON
+DTSTART;TZID=America/Chicago:20260926T180000
+UID:vvG18Z_uB804ZW@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-v-st-louis-blues-chicago-illinois-
+ 09-26-2026/event/040064DE9091503D
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-v-st-louis-blues-chica
+ go-illinois-09-26-2026/event/040064DE9091503D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 T
