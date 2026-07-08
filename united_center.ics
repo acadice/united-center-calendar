@@ -691,7 +691,7 @@ URL:https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worl
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rod Wave: Don't Look Down Tour
-DTSTART;TZID=America/Chicago:20261031T203000
+DTSTART;TZID=America/Chicago:20261031T200000
 UID:vvG18Z_udha5EP@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/rod-wave-dont-look-down-tour-chicago-illinois-10
@@ -746,6 +746,19 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/xg-world-tour-the-core-in-chicago-illinoi
  s-11-09-2026/event/040064AFC948FDC2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legends Classic Presented by Old Trapper
+DTSTART;VALUE=DATE:20261115
+UID:vvG18Z_un-rnou@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
+ https://www.ticketmaster.com/legends-classic-presented-by-old-trapper-chic
+ ago-illinois-11-15-2026/event/040064DAA17AA44D\n\nMissouri is the WEST BEN
+ CH in front of Section 122 Marquette is the EAST BENCH in front of Section
+  101
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/legends-classic-presented-by-old-trapper-
+ chicago-illinois-11-15-2026/event/040064DAA17AA44D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Neighbourhood: THE WOURLD TOUR
