@@ -7,23 +7,6 @@ X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:Windy City Smokeout
-DTSTART;TZID=America/Chicago:20260709T130000
-UID:Z7r9jZ1A7q0PM@venue-calendar
-DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
- //www.ticketmaster.com/event/Z7r9jZ1A7q0PM
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A7q0PM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Windy City Smokeout
-DTSTART;TZID=America/Chicago:20260709T130000
-UID:vv178ZbgGkmoTfbn@venue-calendar
-DESCRIPTION:Type: Music\nTickets: https://on.fgtix.com/trk/NBTK
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://on.fgtix.com/trk/NBTK
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Windy City Smokeout
 DTSTART;TZID=America/Chicago:20260710T130000
 UID:Z7r9jZ1A7raZV@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nGenre: Fairs & Festivals\nTickets: https:
