@@ -563,9 +563,9 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART;TZID=America/Chicago:20261011T190000
 UID:vv178Z_aGkYeTUOa@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-11-2026/event/04006
- 49C02FF6809
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago-illinoi
+ s-10-11-2026/event/0400649C02FF6809
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
  -illinois-10-11-2026/event/0400649C02FF6809
@@ -574,9 +574,9 @@ BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART;TZID=America/Chicago:20261012T190000
 UID:vv178Z_aGkMlEBGy@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /olivia-rodrigo-the-unraveled-tour-chicago-illinois-10-12-2026/event/04006
- 49DEB9FA339
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago-illinoi
+ s-10-12-2026/event/0400649DEB9FA339
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
  -illinois-10-12-2026/event/0400649DEB9FA339
