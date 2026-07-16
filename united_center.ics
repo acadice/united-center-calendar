@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Meghan Trainor: The Get In Girl Tour
-DTSTART;TZID=America/Chicago:20260715T200000
-UID:vv1A7ZkuIGkeclAI2@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /meghan-trainor-the-get-in-girl-chicago-illinois-07-15-2026/event/04006368
- ADAC5A0F\n\nAll Ages Welcome!
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-chicago-il
- linois-07-15-2026/event/04006368ADAC5A0F
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
 DTSTART;TZID=America/Chicago:20260716T193000
 UID:vv1A7ZkudGkdFf0PN@venue-calendar
