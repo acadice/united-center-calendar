@@ -7,17 +7,6 @@ X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:RUSH: Fifty Something
-DTSTART;TZID=America/Chicago:20260716T193000
-UID:vv1A7ZkudGkdFf0PN@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/rush-fifty-something-chicago-illinois-07-16-2026/event/0
- 4006343C8524963
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/rush-fifty-something-chicago-illinois-07-
- 16-2026/event/04006343C8524963
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RUSH: Fifty Something
 DTSTART;TZID=America/Chicago:20260718T193000
 UID:vv1A7ZkudGkdI1fXk@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
@@ -538,6 +527,17 @@ URL:https://www.ticketmaster.com/journey-final-frontier-tour-an-evening-ch
  icago-illinois-10-05-2026/event/040064A523E6A033
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. St. Louis Blues
+DTSTART;TZID=America/Chicago:20261006T190000
+UID:vvG18Z_2e81ErQ@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-st-louis-blues-chicago-illinois
+ -10-06-2026/event/040064F0902A779A
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-st-louis-blues-chic
+ ago-illinois-10-06-2026/event/040064F0902A779A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gorillaz - The Mountain Tour
 DTSTART;TZID=America/Chicago:20261008T193000
 UID:vv1A7Zko_GkdGJoO2@venue-calendar
@@ -547,6 +547,17 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illino
  is-10-08-2026/event/04006459CC99180F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Carolina Hurricanes
+DTSTART;TZID=America/Chicago:20261010T180000
+UID:vvG18Z_2e85MrN@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-carolina-hurricanes-chicago-ill
+ inois-10-10-2026/event/040064F0902F77A3
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-carolina-hurricanes
+ -chicago-illinois-10-10-2026/event/040064F0902F77A3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
@@ -571,6 +582,17 @@ URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
  -illinois-10-12-2026/event/0400649DEB9FA339
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Pittsburgh Penguins
+DTSTART;TZID=America/Chicago:20261013T190000
+UID:vvG18Z_2e8u6rR@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-pittsburgh-penguins-chicago-ill
+ inois-10-13-2026/event/040064F0903477AF
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-pittsburgh-penguins
+ -chicago-illinois-10-13-2026/event/040064F0903477AF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Smashing Pumpkins: The Rats In A Cage Tour
 DTSTART;TZID=America/Chicago:20261014T200000
 UID:vvG18Z_1DaaHeF@venue-calendar
@@ -580,6 +602,28 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/the-smashing-pumpkins-the-rats-in-chicago
  -illinois-10-14-2026/event/040064AEC927C088
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Winnipeg Jets
+DTSTART;TZID=America/Chicago:20261015T190000
+UID:vvG18Z_2e8CEL7@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chicago-illinois-
+ 10-15-2026/event/040064F0903A77C4
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chica
+ go-illinois-10-15-2026/event/040064F0903A77C4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Dallas Stars
+DTSTART;TZID=America/Chicago:20261017T180000
+UID:vvG18Z_2e82ML4@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicago-illinois-1
+ 0-17-2026/event/040064F0903F77D5
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicag
+ o-illinois-10-17-2026/event/040064F0903F77D5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Disney Descendants\, ZOMBIES & Camp Rock: Worlds Collide Concert T
@@ -594,6 +638,39 @@ URL:https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worl
  ds-chicago-illinois-10-19-2026/event/0400646BDF4E894E
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Montreal Canadiens
+DTSTART;TZID=America/Chicago:20261023T190000
+UID:vvG18Z_2e8o6LE@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-montreal-canadiens-chicago-illi
+ nois-10-23-2026/event/040064F0904477E7
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-montreal-canadiens-
+ chicago-illinois-10-23-2026/event/040064F0904477E7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Florida Panthers
+DTSTART;TZID=America/Chicago:20261025T140000
+UID:vvG18Z_2e839LD@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-florida-panthers-chicago-illino
+ is-10-25-2026/event/040064F0904977FB
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-florida-panthers-ch
+ icago-illinois-10-25-2026/event/040064F0904977FB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Los Angeles Kings
+DTSTART;TZID=America/Chicago:20261027T190000
+UID:vvG18Z_2e8KEOa@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-chicago-illin
+ ois-10-27-2026/event/040064F0904E7809
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-c
+ hicago-illinois-10-27-2026/event/040064F0904E7809
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rod Wave: Don't Look Down Tour
 DTSTART;TZID=America/Chicago:20261031T200000
 UID:vvG18Z_udha5EP@venue-calendar
@@ -606,6 +683,17 @@ DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/rod-wave-dont-look-down-tour-chicago-illi
  nois-10-31-2026/event/040064D0DB24B9E5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Colorado Avalanche
+DTSTART;TZID=America/Chicago:20261102T190000
+UID:vvG18Z_2e8fMOj@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-chicago-illi
+ nois-11-02-2026/event/040064F09053781C
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-
+ chicago-illinois-11-02-2026/event/040064F09053781C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SOMBR - You Are The Reason Tour
@@ -652,6 +740,28 @@ URL:https://www.ticketmaster.com/xg-world-tour-the-core-in-chicago-illinoi
  s-11-09-2026/event/040064AFC948FDC2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Buffalo Sabres
+DTSTART;TZID=America/Chicago:20261112T190000
+UID:vvG18Z_2e8p9OH@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-buffalo-sabres-chicago-illinois
+ -11-12-2026/event/040064F09059783C
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-buffalo-sabres-chic
+ ago-illinois-11-12-2026/event/040064F09059783C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Winnipeg Jets
+DTSTART;TZID=America/Chicago:20261114T143000
+UID:vvG18Z_2e89E-p@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chicago-illinois-
+ 11-14-2026/event/040064F0905E7856
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chica
+ go-illinois-11-14-2026/event/040064F0905E7856
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Legends Classic Presented by Old Trapper
 DTSTART;VALUE=DATE:20261115
 UID:vvG18Z_un-rnou@venue-calendar
@@ -665,6 +775,17 @@ URL:https://www.ticketmaster.com/legends-classic-presented-by-old-trapper-
  chicago-illinois-11-15-2026/event/040064DAA17AA44D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Toronto Maple Leafs
+DTSTART;TZID=America/Chicago:20261117T183000
+UID:vvG18Z_2e8bM-l@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-toronto-maple-leafs-chicago-ill
+ inois-11-17-2026/event/040064F09063786B
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-toronto-maple-leafs
+ -chicago-illinois-11-17-2026/event/040064F09063786B
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Neighbourhood: THE WOURLD TOUR
 DTSTART;TZID=America/Chicago:20261118T193000
 UID:vv1A7ZkoaGkdxvkbx@venue-calendar
@@ -674,6 +795,17 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-chicago
  -illinois-11-18-2026/event/04006449E2046622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Columbus Blue Jackets
+DTSTART;TZID=America/Chicago:20261119T190000
+UID:vvG18Z_2e8Q6-S@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-columbus-blue-jackets-chicago-i
+ llinois-11-19-2026/event/040064F090687873
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-columbus-blue-jacke
+ ts-chicago-illinois-11-19-2026/event/040064F090687873
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
@@ -699,6 +831,83 @@ URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicag
  o-illinois-11-25-2026/event/040064B3E1EEB741
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. New York Rangers
+DTSTART;TZID=America/Chicago:20261127T163000
+UID:vvG18Z_2e8hE-T@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-new-york-rangers-chicago-illino
+ is-11-27-2026/event/040064F0906E787F
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-new-york-rangers-ch
+ icago-illinois-11-27-2026/event/040064F0906E787F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Minnesota Wild
+DTSTART;TZID=America/Chicago:20261129T140000
+UID:vvG18Z_2e8jMxu@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chicago-illinois
+ -11-29-2026/event/040064F09073788D
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chic
+ ago-illinois-11-29-2026/event/040064F09073788D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Edmonton Oilers
+DTSTART;TZID=America/Chicago:20261206T180000
+UID:vvG18Z_2e8r6xI@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-edmonton-oilers-chicago-illinoi
+ s-12-06-2026/event/040064F0907878A8
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-edmonton-oilers-chi
+ cago-illinois-12-06-2026/event/040064F0907878A8
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Utah Mammoth
+DTSTART;TZID=America/Chicago:20261212T180000
+UID:vvG18Z_2e8L9xB@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicago-illinois-1
+ 2-12-2026/event/040064F0907D78BA
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicag
+ o-illinois-12-12-2026/event/040064F0907D78BA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Philadelphia Flyers
+DTSTART;TZID=America/Chicago:20261227T140000
+UID:vvG18Z_2e8OMNa@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-philadelphia-flyers-chicago-ill
+ inois-12-27-2026/event/040064F0908378C9
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-philadelphia-flyers
+ -chicago-illinois-12-27-2026/event/040064F0908378C9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Vegas Golden Knights
+DTSTART;TZID=America/Chicago:20261229T190000
+UID:vvG18Z_2e8x6Nf@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-vegas-golden-knights-chicago-il
+ linois-12-29-2026/event/040064F0908878D4
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-vegas-golden-knight
+ s-chicago-illinois-12-29-2026/event/040064F0908878D4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Boston Bruins
+DTSTART;TZID=America/Chicago:20270101T140000
+UID:vvG18Z_2e2l9p9@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-boston-bruins-chicago-illinois-
+ 01-01-2027/event/040064F08FAD7597
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-boston-bruins-chica
+ go-illinois-01-01-2027/event/040064F08FAD7597
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Matt Rife: Stay Golden World Tour
 DTSTART;TZID=America/Chicago:20270107T200000
 UID:vv178ZbgGkMMraib@venue-calendar
@@ -712,6 +921,72 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/matt-rife-stay-golden-world-tour-chicago-
  illinois-01-07-2027/event/0400635DF7789B18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Utah Mammoth
+DTSTART;TZID=America/Chicago:20270112T190000
+UID:vvG18Z_2e2c6pT@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicago-illinois-0
+ 1-12-2027/event/040064F08FB475BF
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicag
+ o-illinois-01-12-2027/event/040064F08FB475BF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Detroit Red Wings
+DTSTART;TZID=America/Chicago:20270116T180000
+UID:vvG18Z_2e2mE9j@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-detroit-red-wings-chicago-illin
+ ois-01-16-2027/event/040064F08FBA75DC
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-detroit-red-wings-c
+ hicago-illinois-01-16-2027/event/040064F08FBA75DC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Calgary Flames
+DTSTART;TZID=America/Chicago:20270118T193000
+UID:vvG18Z_2e2Y69n@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-calgary-flames-chicago-illinois
+ -01-18-2027/event/040064F08FC075EA
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-calgary-flames-chic
+ ago-illinois-01-18-2027/event/040064F08FC075EA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Dallas Stars
+DTSTART;TZID=America/Chicago:20270120T203000
+UID:vvG18Z_2e2sE9y@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicago-illinois-0
+ 1-20-2027/event/040064F08FC675F9
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicag
+ o-illinois-01-20-2027/event/040064F08FC675F9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Vancouver Canucks
+DTSTART;TZID=America/Chicago:20270122T190000
+UID:vvG18Z_2e2S6bK@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-vancouver-canucks-chicago-illin
+ ois-01-22-2027/event/040064F08FCC7613
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-vancouver-canucks-c
+ hicago-illinois-01-22-2027/event/040064F08FCC7613
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Vegas Golden Knights
+DTSTART;TZID=America/Chicago:20270124T180000
+UID:vvG18Z_2e2VEbE@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-vegas-golden-knights-chicago-il
+ linois-01-24-2027/event/040064F08FD27627
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-vegas-golden-knight
+ s-chicago-illinois-01-24-2027/event/040064F08FD27627
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
@@ -736,6 +1011,127 @@ URL:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illi
  nois-02-12-2027/event/040064BBFB87B15B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. St. Louis Blues
+DTSTART;TZID=America/Chicago:20270217T183000
+UID:vvG18Z_2e2U6bS@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-st-louis-blues-chicago-illinois
+ -02-17-2027/event/040064F08FD87633
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-st-louis-blues-chic
+ ago-illinois-02-17-2027/event/040064F08FD87633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Minnesota Wild
+DTSTART;TZID=America/Chicago:20270220T140000
+UID:vvG18Z_2e2M9_1@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chicago-illinois
+ -02-20-2027/event/040064F08FDD764A
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chic
+ ago-illinois-02-20-2027/event/040064F08FDD764A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. New Jersey Devils
+DTSTART;TZID=America/Chicago:20270221T143000
+UID:vvG18Z_2e2zM_l@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-new-jersey-devils-chicago-illin
+ ois-02-21-2027/event/040064F08FE3766B
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-new-jersey-devils-c
+ hicago-illinois-02-21-2027/event/040064F08FE3766B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. New York Islanders
+DTSTART;TZID=America/Chicago:20270223T190000
+UID:vvG18Z_2e2B6Q2@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-new-york-islanders-chicago-illi
+ nois-02-23-2027/event/040064F08FE8768F
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-new-york-islanders-
+ chicago-illinois-02-23-2027/event/040064F08FE8768F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Los Angeles Kings
+DTSTART;TZID=America/Chicago:20270226T190000
+UID:vvG18Z_2e2DEQl@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-chicago-illin
+ ois-02-26-2027/event/040064F08FEE76AB
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-c
+ hicago-illinois-02-26-2027/event/040064F08FEE76AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Colorado Avalanche
+DTSTART;TZID=America/Chicago:20270228T173000
+UID:vvG18Z_2e2HMhd@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-chicago-illi
+ nois-02-28-2027/event/040064F08FF376C3
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-
+ chicago-illinois-02-28-2027/event/040064F08FF376C3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Edmonton Oilers
+DTSTART;TZID=America/Chicago:20270301T193000
+UID:vvG18Z_2e2X9hf@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-edmonton-oilers-chicago-illinoi
+ s-03-01-2027/event/040064F08FF976D4
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-edmonton-oilers-chi
+ cago-illinois-03-01-2027/event/040064F08FF976D4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Tampa Bay Lightning
+DTSTART;TZID=America/Chicago:20270308T190000
+UID:vvG18Z_2e2TEhE@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-tampa-bay-lightning-chicago-ill
+ inois-03-08-2027/event/040064F08FFE76E7
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-tampa-bay-lightning
+ -chicago-illinois-03-08-2027/event/040064F08FFE76E7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Washington Capitals
+DTSTART;TZID=America/Chicago:20270310T203000
+UID:vvG18Z_2e8ZMhD@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-washington-capitals-chicago-ill
+ inois-03-10-2027/event/040064F0900376FB
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-washington-capitals
+ -chicago-illinois-03-10-2027/event/040064F0900376FB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Anaheim Ducks
+DTSTART;TZID=America/Chicago:20270314T153000
+UID:vvG18Z_2e8e9jG@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-anaheim-ducks-chicago-illinois-
+ 03-14-2027/event/040064F09009770C
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-anaheim-ducks-chica
+ go-illinois-03-14-2027/event/040064F09009770C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. San Jose Sharks
+DTSTART;TZID=America/Chicago:20270316T190000
+UID:vvG18Z_2e8dMjJ@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-san-jose-sharks-chicago-illinoi
+ s-03-16-2027/event/040064F0900F7726
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-san-jose-sharks-chi
+ cago-illinois-03-16-2027/event/040064F0900F7726
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Niall Horan: Dinner Party Live On Tour
 DTSTART;TZID=America/Chicago:20270323T193000
 UID:vvG18Z_1LLYAJb@venue-calendar
@@ -745,5 +1141,49 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/niall-horan-dinner-party-live-on-chicago-
  illinois-03-23-2027/event/040064A7DFC05998
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Nashville Predators
+DTSTART;TZID=America/Chicago:20270326T190000
+UID:vvG18Z_2e8A6jW@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-nashville-predators-chicago-ill
+ inois-03-26-2027/event/040064F09014773D
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-nashville-predators
+ -chicago-illinois-03-26-2027/event/040064F09014773D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Seattle Kraken
+DTSTART;TZID=America/Chicago:20270328T140000
+UID:vvG18Z_2e8k9qo@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chicago-illinois
+ -03-28-2027/event/040064F090197751
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
+ ago-illinois-03-28-2027/event/040064F090197751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Nashville Predators
+DTSTART;TZID=America/Chicago:20270408T190000
+UID:vvG18Z_2e86Eqt@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-nashville-predators-chicago-ill
+ inois-04-08-2027/event/040064F0901E7769
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-nashville-predators
+ -chicago-illinois-04-08-2027/event/040064F0901E7769
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Blackhawks vs. Seattle Kraken
+DTSTART;TZID=America/Chicago:20270410T170000
+UID:vvG18Z_2e8FMqM@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
+ www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chicago-illinois
+ -04-10-2027/event/040064F090237777
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
+ ago-illinois-04-10-2027/event/040064F090237777
 END:VEVENT
 END:VCALENDAR
