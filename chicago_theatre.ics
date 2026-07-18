@@ -6,52 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Lovable Reunion Live
-DTSTART;TZID=America/Chicago:20260716T183000
-UID:vvG1jZ_5woK33W@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Theatre\nSub-genre: Podcast\nTick
- ets: https://www.ticketmaster.com/lovable-reunion-live-chicago-illinois-07
- -16-2026/event/070064BC914D24BD\n\nPLEASE NOTE: Pricing is all-in and incl
- udes fees (before taxes if applicable). By purchasing tickets\, you consen
- t to be photographed\, filmed\, and/or otherwise recorded. Your entry will
-  constitute your consent to photography\, filming and/or recording and to 
- any use\, in any and all media throughout the universe in perpetuity\, of 
- your appearance\, voice and name for any purpose whatsoever in connection 
- with the production. Ticketholders must be flexible to move seats per prod
- ucers' discretion on show night if necessary. By purchasing tickets\, you 
- agree to abide by the health and safety measures in effect. Government man
- dates\, venue protocols\, and event requirements are subject to change. Fo
- r more information\, visit www.chicagotheatre.com. This event may have imm
- ersive elements. Such elements may aggravate certain medical or physical c
- onditions\, and guests should take this into consideration if they have a 
- history of discomfort or physical symptoms when experiencing these element
- s.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/lovable-reunion-live-chicago-illinois-07-
- 16-2026/event/070064BC914D24BD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rick Ross Presents Port of Miami 20 with The Renaissance Orchestra
-DTSTART;TZID=America/Chicago:20260717T200000
-UID:vv1kvYv0byGA1I0vq@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
- ps://www.ticketmaster.com/rick-ross-presents-port-of-miami-chicago-illinoi
- s-07-17-2026/event/070064639AA2405D\n\nPLEASE NOTE: Pricing is all-in and 
- includes fees (before taxes if applicable). By purchasing tickets to this 
- event\, you agree to abide by the health and safety measures in effect at 
- the time of the event. Government mandates\, venue protocols\, and event r
- equirements are subject to change. For more information\, please search yo
- ur event on www.chicagotheatre.com. This event may have immersive elements
- \, which may include flashing or strobe lights\, intense lighting\, visual
-  effects\, loud noises\, smoke and/or fog. Such elements may aggravate cer
- tain medical or physical conditions\, and guests should take this into con
- sideration if they have a history of discomfort or physical symptoms when 
- experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/rick-ross-presents-port-of-miami-chicago-
- illinois-07-17-2026/event/070064639AA2405D
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Everyone Watches Women's Sports with J.P. Morgan Wealth Management
 DTSTART;TZID=America/Chicago:20260724T170000
 UID:vvG1jZ_CQSleKl@venue-calendar
