@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:RUSH: Fifty Something
-DTSTART;TZID=America/Chicago:20260722T193000
-UID:vv1A7Zku6Gkdbh7Jc@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/rush-fifty-something-chicago-illinois-07-22-2026/event/0
- 4006347D86C49AD
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/rush-fifty-something-chicago-illinois-07-
- 22-2026/event/04006347D86C49AD
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:2026 AT&T WNBA All-Star Game
 DTSTART;TZID=America/Chicago:20260725T193000
 UID:vv178Z_aGkVhBxQ7@venue-calendar
