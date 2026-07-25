@@ -6,27 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Everyone Watches Women's Sports with J.P. Morgan Wealth Management
-DTSTART;TZID=America/Chicago:20260724T170000
-UID:vvG1jZ_CQSleKl@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Theatre\nSub-genre: Podcast\nTick
- ets: https://www.ticketmaster.com/everyone-watches-womens-sports-with-jp-c
- hicago-illinois-07-24-2026/event/070064E6B3AC24EB\n\nPLEASE NOTE: Pricing 
- is all-in and includes fees (before taxes if applicable). By purchasing ti
- ckets to this event\, you agree to abide by the health and safety measures
-  in effect at the time of the event. Government mandates\, venue protocols
- \, and event requirements are subject to change. For more information\, pl
- ease search your event on www.chicagotheatre.com. This event may have imme
- rsive elements\, which may include flashing or strobe lights\, intense lig
- hting\, visual effects\, loud noises\, smoke and/or fog. Such elements may
-  aggravate certain medical or physical conditions\, and guests should take
-  this into consideration if they have a history of discomfort or physical 
- symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/everyone-watches-womens-sports-with-jp-ch
- icago-illinois-07-24-2026/event/070064E6B3AC24EB
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Buddy Guy 90
 DTSTART;TZID=America/Chicago:20260725T193000
 UID:vv1A6Zk8UGkdOK_uf@venue-calendar
@@ -66,6 +45,26 @@ DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/2026-woodz-world-tour-archive-1-chicago-i
  llinois-08-06-2026/event/070064AECA5A9A1C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:She Outside: #ChiTownEdition
+DTSTART;TZID=America/Chicago:20260815T200000
+UID:vvG1jZ_2h9IMrQ@venue-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /she-outside-chitownedition-chicago-illinois-08-15-2026/event/070064F6D7A3
+ 779A\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
+ applicable). By purchasing tickets to this event\, you agree to abide by t
+ he health and safety measures in effect at the time of the event. Governme
+ nt mandates\, venue protocols\, and event requirements are subject to chan
+ ge. For more information\, please search your event on www.chicagotheatre.
+ com. This event may have immersive elements\, which may include flashing o
+ r strobe lights\, intense lighting\, visual effects\, loud noises\, smoke 
+ and/or fog. Such elements may aggravate certain medical or physical condit
+ ions\, and guests should take this into consideration if they have a histo
+ ry of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/she-outside-chitownedition-chicago-illino
+ is-08-15-2026/event/070064F6D7A3779A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CeCe Winans\, Jeremy Camp and Andrew Ripp: K-LOVE Live in Chicago
@@ -1002,6 +1001,48 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/george-lopez-chicago-illinois-11-21-2026/
  event/070064B3A59D32D9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brett Eldredge: Glow 10 Year Anniversary Tour
+DTSTART;TZID=America/Chicago:20261210T200000
+UID:vvG1jZ_23Nn3jv@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
+ .com/brett-eldredge-glow-10-year-anniversary-chicago-illinois-12-10-2026/e
+ vent/070064F4A3A92701\n\nPLEASE NOTE: Pricing is all-in and includes fees 
+ (before taxes if applicable). By purchasing tickets to this event\, you ag
+ ree to abide by the health and safety measures in effect at the time of th
+ e event. Government mandates\, venue protocols\, and event requirements ar
+ e subject to change. For more information\, please search your event on ww
+ w.chicagotheatre.com. This event may have immersive elements\, which may i
+ nclude flashing or strobe lights\, intense lighting\, visual effects\, lou
+ d noises\, smoke and/or fog. Such elements may aggravate certain medical o
+ r physical conditions\, and guests should take this into consideration if 
+ they have a history of discomfort or physical symptoms when experiencing t
+ hese elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/brett-eldredge-glow-10-year-anniversary-c
+ hicago-illinois-12-10-2026/event/070064F4A3A92701
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brett Eldredge: Glow 10 Year Anniversary Tour
+DTSTART;TZID=America/Chicago:20261211T200000
+UID:vvG1jZ_23Nlwj3@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
+ .com/brett-eldredge-glow-10-year-anniversary-chicago-illinois-12-11-2026/e
+ vent/070064F4A3AF2712\n\nPLEASE NOTE: Pricing is all-in and includes fees 
+ (before taxes if applicable). By purchasing tickets to this event\, you ag
+ ree to abide by the health and safety measures in effect at the time of th
+ e event. Government mandates\, venue protocols\, and event requirements ar
+ e subject to change. For more information\, please search your event on ww
+ w.chicagotheatre.com. This event may have immersive elements\, which may i
+ nclude flashing or strobe lights\, intense lighting\, visual effects\, lou
+ d noises\, smoke and/or fog. Such elements may aggravate certain medical o
+ r physical conditions\, and guests should take this into consideration if 
+ they have a history of discomfort or physical symptoms when experiencing t
+ hese elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/brett-eldredge-glow-10-year-anniversary-c
+ hicago-illinois-12-11-2026/event/070064F4A3AF2712
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Straight No Chaser: Making Spirits Bright Tour
