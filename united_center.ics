@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Daniel Caesar - Son Of Spergy Tour
-DTSTART;TZID=America/Chicago:20260726T193000
-UID:vv1A7ZkC7GkdaNIJ3@venue-calendar
-DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /daniel-caesar-son-of-spergy-tour-chicago-illinois-07-26-2026/event/040063
- 84C98E8992
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/daniel-caesar-son-of-spergy-tour-chicago-
- illinois-07-26-2026/event/04006384C98E8992
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ZAYN: The Konnakol Tour
 DTSTART;TZID=America/Chicago:20260727T200000
 UID:vv167ZkC8AIZA2Cvk8@venue-calendar
