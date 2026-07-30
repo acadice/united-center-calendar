@@ -156,9 +156,9 @@ BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260803T210000
 UID:vv1A7ZkG_GkdqBxS4@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-03-2026/event
- /04006319DDEA2CD5
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-chicago-i
+ llinois-08-03-2026/event/04006319DDEA2CD5
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
  hicago-illinois-08-03-2026/event/04006319DDEA2CD5
@@ -167,9 +167,9 @@ BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260805T200000
 UID:vv178ZbsGklLGK3v@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-05-2026/event
- /0400631ADF313481
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-chicago-i
+ llinois-08-05-2026/event/0400631ADF313481
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
  hicago-illinois-08-05-2026/event/0400631ADF313481
@@ -178,9 +178,9 @@ BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260806T200000
 UID:vv1A7ZkGPGkecEw3E@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /ariana-grande-the-eternal-sunshine-tour-chicago-illinois-08-06-2026/event
- /04006325AD9F24A7
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-chicago-i
+ llinois-08-06-2026/event/04006325AD9F24A7
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
  hicago-illinois-08-06-2026/event/04006325AD9F24A7
