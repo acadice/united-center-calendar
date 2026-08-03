@@ -6,55 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Hot Wheels Monster Trucks Live Glow-N-Fire
-DTSTART;TZID=America/Chicago:20260802T133000
-UID:vv1A7Zko9Gkdq-_TN@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Motorsports/Racing\nTickets: https://www.
- ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-chicago-illinois
- -08-02-2026/event/04006457DD859FE3\n\nHot Wheels Monster Trucks Live?: Glo
- w-N-Fire 2026 Tour brings fans? favorite Hot Wheels Monster Trucks to life
- \, including Mega Wrex?\, Tiger Shark?\, HW 5-Alarm?\, Bone Shaker?\, Bigf
- oot®\, and Skelesaurus?\, alongside FMX riders performing jaw-dropping st
- unts and a fire-breathing\, car-crushing robot dinosaur. PLUS\, see the AL
- L-NEW truck to the tour Rhinomite\, the dynamite Rhino-themed truck chargi
- ng horn-first into the competition. Don't miss this high-energy show fille
- d with thrilling action for the whole family!
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/hot-wheels-monster-trucks-live-glownfire-
- chicago-illinois-08-02-2026/event/04006457DD859FE3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hot Wheels Pedal to the Metal VIP
-DTSTART;TZID=America/Chicago:20260802T133000
-UID:vv1A7Zko_GkdSZPTP@venue-calendar
-DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
- -wheels-pedal-to-the-metal-chicago-illinois-08-02-2026/event/04006459F3025
- FE5\n\n(Event ticket required) See the Hot Wheels Monster Trucks up close 
- and personal before all the smashing and crashing goes down! Get exclusive
-  access to the Pre-Show Party and experience the excitement before the Hot
-  Wheels Monster Trucks come to life. Includes a monster truck/car toy\, cu
- stom VIP flag\, light-up VIP laminate\, VIP drawstring bag\, and a cool Mo
- nster Truck decal.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/hot-wheels-pedal-to-the-metal-chicago-ill
- inois-08-02-2026/event/04006459F3025FE5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hot Wheels Start Your Engine VIP
-DTSTART;TZID=America/Chicago:20260802T133000
-UID:vv1A7Zko_GkdwyAXg@venue-calendar
-DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/hot
- -wheels-start-your-engine-vip-chicago-illinois-08-02-2026/event/04006459F2
- E45FB5\n\n(Event ticket required) Get in on the action early with exclusiv
- e access to the Pre-Show Party! See the Hot Wheels Monster Trucks up close
-  and personal before the show and soak in the excitement before all the sm
- ashing and crashing goes down. Includes a light-up VIP laminate\, VIP draw
- string bag\, and a cool Monster Truck decal.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/hot-wheels-start-your-engine-vip-chicago-
- illinois-08-02-2026/event/04006459F2E45FB5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260803T210000
 UID:vv1A7ZkG_GkdqBxS4@venue-calendar
@@ -339,20 +290,20 @@ URL:https://www.ticketmaster.com/doja-cat-tour-ma-vie-world-chicago-illino
  is-10-03-2026/event/0400633AB95340B3
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Latto Vip Add-ons
+SUMMARY:Latto VIP Upgrades (Event Ticket Not Included)
 DTSTART;TZID=America/Chicago:20261003T193000
 UID:vv1A7ZkfvGkdpLqxD@venue-calendar
 DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/lat
- to-vip-addons-chicago-illinois-10-03-2026/event/04006501D67DD8BB\n\nLatto 
- Meet & Greet Add-On (No Ticket Included): Meet & Greet + Individual Photo 
- with Latto Latto VIP Merchandise Package Early Entry into the Venue + Earl
- y Merch Shopping Dedicated VIP Entrance Official VIP Laminate Onsite VIP H
- ost Latto Early Entry Add-On (No Ticket Included): Latto VIP Merchandise P
- ackage: Early Entry into the Venue + Early Merch Shopping Dedicated VIP En
- trance Official VIP Laminate Onsite VIP Host
+ to-vip-upgrades-event-ticket-not-chicago-illinois-10-03-2026/event/0400650
+ 1D67DD8BB\n\nLatto Meet & Greet Add-On (No Ticket Included): Meet & Greet 
+ + Individual Photo with Latto Latto VIP Merchandise Package Early Entry in
+ to the Venue + Early Merch Shopping Dedicated VIP Entrance Official VIP La
+ minate Onsite VIP Host Latto Early Entry Add-On (No Ticket Included): Latt
+ o VIP Merchandise Package: Early Entry into the Venue + Early Merch Shoppi
+ ng Dedicated VIP Entrance Official VIP Laminate Onsite VIP Host
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/latto-vip-addons-chicago-illinois-10-03-2
- 026/event/04006501D67DD8BB
+URL:https://www.ticketmaster.com/latto-vip-upgrades-event-ticket-not-chica
+ go-illinois-10-03-2026/event/04006501D67DD8BB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOURNEY - Final Frontier Tour (An Evening With)
