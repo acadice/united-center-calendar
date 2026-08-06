@@ -7,17 +7,6 @@ X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:Ariana Grande - The Eternal Sunshine Tour
-DTSTART;TZID=America/Chicago:20260805T200000
-UID:vv178ZbsGklLGK3v@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
- s://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-chicago-i
- llinois-08-05-2026/event/0400631ADF313481
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-c
- hicago-illinois-08-05-2026/event/0400631ADF313481
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ariana Grande - The Eternal Sunshine Tour
 DTSTART;TZID=America/Chicago:20260806T200000
 UID:vv1A7ZkGPGkecEw3E@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
@@ -203,12 +192,12 @@ BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART;TZID=America/Chicago:20260925T190000
 UID:vv178Z_FGkUXeURm@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /teddy-swims-the-ugly-tour-chicago-illinois-09-25-2026/event/0400648DBE0B6
- BEE\n\nBy purchasing tickets to this event\, you agree to abide by the hea
- lth and safety measures in effect at the time of the event. Check back oft
- en for updates to your event venue website as guidelines are subject to ch
- ange.
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/teddy-swims-the-ugly-tour-chicago-illinois-09-25-
+ 2026/event/0400648DBE0B6BEE\n\nBy purchasing tickets to this event\, you a
+ gree to abide by the health and safety measures in effect at the time of t
+ he event. Check back often for updates to your event venue website as guid
+ elines are subject to change.
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/teddy-swims-the-ugly-tour-chicago-illinoi
  s-09-25-2026/event/0400648DBE0B6BEE
