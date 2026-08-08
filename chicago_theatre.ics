@@ -6,47 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Buddy Guy 90
-DTSTART;TZID=America/Chicago:20260725T193000
-UID:vv1A6Zk8UGkdOK_uf@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Blues\nTickets: https://www.ticketmaster.c
- om/buddy-guy-90-chicago-illinois-07-25-2026/event/07006436E04D9354\n\nPLEA
- SE NOTE: Pricing is all-in and includes fees (before taxes if applicable).
-  By purchasing tickets to this event\, you agree to abide by the health an
- d safety measures in effect at the time of the event. Government mandates\
- , venue protocols\, and event requirements are subject to change. For more
-  information\, please search your event on www.chicagotheatre.com. This ev
- ent may have immersive elements\, which may include flashing or strobe lig
- hts\, intense lighting\, visual effects\, loud noises\, smoke and/or fog. 
- Such elements may aggravate certain medical or physical conditions\, and g
- uests should take this into consideration if they have a history of discom
- fort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/buddy-guy-90-chicago-illinois-07-25-2026/
- event/07006436E04D9354
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 WOODZ WORLD TOUR ' Archive. 1 ' IN US
-DTSTART;TZID=America/Chicago:20260806T193000
-UID:vvG1jZ_1D1ptIj@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /2026-woodz-world-tour-archive-1-chicago-illinois-08-06-2026/event/070064A
- ECA5A9A1C\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxe
- s if applicable). By purchasing tickets to this event\, you agree to abide
-  by the health and safety measures in effect at the time of the event. Gov
- ernment mandates\, venue protocols\, and event requirements are subject to
-  change. For more information\, please search your event on www.chicagothe
- atre.com. This event may have immersive elements\, which may include flash
- ing or strobe lights\, intense lighting\, visual effects\, loud noises\, s
- moke and/or fog. Such elements may aggravate certain medical or physical c
- onditions\, and guests should take this into consideration if they have a 
- history of discomfort or physical symptoms when experiencing these element
- s.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/2026-woodz-world-tour-archive-1-chicago-i
- llinois-08-06-2026/event/070064AECA5A9A1C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:She Outside: #ChiTownEdition
 DTSTART;TZID=America/Chicago:20260815T200000
 UID:vvG1jZ_2h9IMrQ@venue-calendar
@@ -158,6 +117,27 @@ DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/jill-scott-to-whom-this-may-chicago-illin
  ois-08-23-2026/event/07006465CC4188EE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adrian Uribe: 50 y Pico Tour
+DTSTART;TZID=America/Chicago:20260911T200000
+UID:vvG1jZ_29Enp4A@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/adrian-uribe-50-y-pico-tour-chicago-illinois-09-11-2026/event
+ /070064F5E7A96545\n\nPLEASE NOTE: Pricing is all-in and includes fees (bef
+ ore taxes if applicable). By purchasing tickets to this event\, you agree 
+ to abide by the health and safety measures in effect at the time of the ev
+ ent. Government mandates\, venue protocols\, and event requirements are su
+ bject to change. For more information\, please search your event on www.ch
+ icagotheatre.com. This event may have immersive elements\, which may inclu
+ de flashing or strobe lights\, intense lighting\, visual effects\, loud no
+ ises\, smoke and/or fog. Such elements may aggravate certain medical or ph
+ ysical conditions\, and guests should take this into consideration if they
+  have a history of discomfort or physical symptoms when experiencing these
+  elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/adrian-uribe-50-y-pico-tour-chicago-illin
+ ois-09-11-2026/event/070064F5E7A96545
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lily Allen Performs West End Girl
@@ -857,6 +837,27 @@ URL:https://www.ticketmaster.com/bert-kreischer-permission-to-party-chicag
  o-illinois-11-06-2026/event/0700647FBB075CC2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BERT KREISCHER: PERMISSION TO PARTY
+DTSTART;TZID=America/Chicago:20261107T190000
+UID:vv17jZ_6GkXDdASG@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/bert-kreischer-permission-to-party-chicago-illinois-11-07-202
+ 6/event/0700647FBB0C5CCC\n\nPLEASE NOTE: Pricing is all-in and includes fe
+ es (before taxes if applicable). By purchasing tickets to this event\, you
+  agree to abide by the health and safety measures in effect at the time of
+  the event. Government mandates\, venue protocols\, and event requirements
+  are subject to change. For more information\, please search your event on
+  www.chicagotheatre.com. This event may have immersive elements\, which ma
+ y include flashing or strobe lights\, intense lighting\, visual effects\, 
+ loud noises\, smoke and/or fog. Such elements may aggravate certain medica
+ l or physical conditions\, and guests should take this into consideration 
+ if they have a history of discomfort or physical symptoms when experiencin
+ g these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/bert-kreischer-permission-to-party-chicag
+ o-illinois-11-07-2026/event/0700647FBB0C5CCC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RON WHITE
 DTSTART;TZID=America/Chicago:20261108T190000
 UID:vvG1jZ_GKQk6V7@venue-calendar
@@ -962,7 +963,7 @@ URL:https://www.ticketmaster.com/little-big-town-for-the-art-chicago-illin
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nurse John: Against Medical Advice Tour
-DTSTART;TZID=America/Chicago:20261120T193000
+DTSTART;TZID=America/Chicago:20261120T190000
 UID:vvG1jZ_1Kmz6qD@venue-calendar
 DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
  etmaster.com/nurse-john-against-medical-advice-tour-chicago-illinois-11-20
@@ -1001,6 +1002,48 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/george-lopez-chicago-illinois-11-21-2026/
  event/070064B3A59D32D9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Lord Huron
+DTSTART;TZID=America/Chicago:20261208T200000
+UID:vvG1jZ_2U-ES7s@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/an-evening-with-lord-huron-chicago-illinois
+ -12-08-2026/event/070064FDA19F3131\n\nPLEASE NOTE: Pricing is all-in and i
+ ncludes fees (before taxes if applicable). By purchasing tickets to this e
+ vent\, you agree to abide by the health and safety measures in effect at t
+ he time of the event. Government mandates\, venue protocols\, and event re
+ quirements are subject to change. For more information\, please search you
+ r event on www.chicagotheatre.com. This event may have immersive elements\
+ , which may include flashing or strobe lights\, intense lighting\, visual 
+ effects\, loud noises\, smoke and/or fog. Such elements may aggravate cert
+ ain medical or physical conditions\, and guests should take this into cons
+ ideration if they have a history of discomfort or physical symptoms when e
+ xperiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/an-evening-with-lord-huron-chicago-illino
+ is-12-08-2026/event/070064FDA19F3131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Lord Huron
+DTSTART;TZID=America/Chicago:20261209T200000
+UID:vvG1jZ_2U-JK7l@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/an-evening-with-lord-huron-chicago-illinois
+ -12-09-2026/event/070064FDA199312B\n\nPLEASE NOTE: Pricing is all-in and i
+ ncludes fees (before taxes if applicable). By purchasing tickets to this e
+ vent\, you agree to abide by the health and safety measures in effect at t
+ he time of the event. Government mandates\, venue protocols\, and event re
+ quirements are subject to change. For more information\, please search you
+ r event on www.chicagotheatre.com. This event may have immersive elements\
+ , which may include flashing or strobe lights\, intense lighting\, visual 
+ effects\, loud noises\, smoke and/or fog. Such elements may aggravate cert
+ ain medical or physical conditions\, and guests should take this into cons
+ ideration if they have a history of discomfort or physical symptoms when e
+ xperiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/an-evening-with-lord-huron-chicago-illino
+ is-12-09-2026/event/070064FDA199312B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brett Eldredge: Glow 10 Year Anniversary Tour
