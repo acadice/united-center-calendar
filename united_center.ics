@@ -635,6 +635,50 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicag
  o-illinois-12-12-2026/event/040064F0907D78BA
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PBR: Unleash the Beast
+DTSTART;TZID=America/Chicago:20261219T184500
+UID:vvG18Z_2YHFrUd@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Rodeo\nSub-genre: Bullriding\nTickets: ht
+ tps://www.ticketmaster.com/pbr-unleash-the-beast-chicago-illinois-12-19-20
+ 26/event/040064FC3C21ED83\n\nBy purchasing tickets to this event\, you agr
+ ee to abide by the health and safety measures in effect at the time of the
+  event. Check back often for updates to your event venue website as guidel
+ ines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/pbr-unleash-the-beast-chicago-illinois-12
+ -19-2026/event/040064FC3C21ED83
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PBR Two-day Package: Ticket Incl Access To All Days (12/19 & 12/20
+ /26)
+DTSTART;VALUE=DATE:20261219
+UID:vv1F8Z_8r6uPZd51G@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Rodeo\nSub-genre: Bullriding\nTickets: ht
+ tps://www.ticketmaster.com/pbr-twoday-package-ticket-incl-access-chicago-i
+ llinois-12-19-2026/event/0400650787365A9B\n\nTicket is valid for both Decb
+ ember 19 and December 20\, 2026 events\, By purchasing tickets to this eve
+ nt\, you agree to abide by the health and safety measures in effect at the
+  time of the event. Check back often for updates to your event venue websi
+ te as guidelines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/pbr-twoday-package-ticket-incl-access-chi
+ cago-illinois-12-19-2026/event/0400650787365A9B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PBR: Unleash the Beast
+DTSTART;TZID=America/Chicago:20261220T134500
+UID:vv167Zkf6ObZA5A8ad@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Rodeo\nSub-genre: Bullriding\nTickets: ht
+ tps://www.ticketmaster.com/pbr-unleash-the-beast-chicago-illinois-12-20-20
+ 26/event/04006507818A4F82\n\nBy purchasing tickets to this event\, you agr
+ ee to abide by the health and safety measures in effect at the time of the
+  event. Check back often for updates to your event venue website as guidel
+ ines are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/pbr-unleash-the-beast-chicago-illinois-12
+ -20-2026/event/04006507818A4F82
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Philadelphia Flyers
 DTSTART;TZID=America/Chicago:20261227T140000
 UID:vvG18Z_2e8OMNa@venue-calendar
