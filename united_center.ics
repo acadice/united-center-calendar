@@ -7,17 +7,6 @@ X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:J. Cole: The Fall-Off Tour
-DTSTART;TZID=America/Chicago:20260811T200000
-UID:vv1kvZv038GACyMDJ@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
- ps://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-08-11-2
- 026/event/040064490EE77EE6\n\nAll Ages Welcome!
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/j-cole-the-falloff-tour-chicago-illinois-
- 08-11-2026/event/040064490EE77EE6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:J. Cole: The Fall-Off Tour
 DTSTART;TZID=America/Chicago:20260812T200000
 UID:vv178Z_7GkUJJEsl@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
@@ -476,6 +465,17 @@ DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/katseye-the-wildworld-tour-chicago-illino
  is-11-05-2026/event/040064ABAC947B12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dave Matthews Band
+DTSTART;TZID=America/Chicago:20261107T193000
+UID:vvG18Z_CDE9wdz@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07-2
+ 026/event/040064EEE75F20F8
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07
+ -2026/event/040064EEE75F20F8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:XG WORLD TOUR: THE CORE IN CHICAGO
