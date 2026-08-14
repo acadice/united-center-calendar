@@ -262,6 +262,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-st-louis-blues-chic
  ago-illinois-10-06-2026/event/040064F0902A779A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Phoenix Suns
+DTSTART;TZID=America/Chicago:20261007T190000
+UID:Z7r9jZ1AAZIAS@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIAS
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIAS
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gorillaz - The Mountain Tour
 DTSTART;TZID=America/Chicago:20261008T193000
 UID:vv1A7Zko_GkdGJoO2@venue-calendar
@@ -271,6 +280,15 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illino
  is-10-08-2026/event/04006459CC99180F
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Memphis Grizzlies
+DTSTART;TZID=America/Chicago:20261009T190000
+UID:Z7r9jZ1AAZIAV@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIAV
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIAV
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Carolina Hurricanes
@@ -339,6 +357,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chica
  go-illinois-10-15-2026/event/040064F0903A77C4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Minnesota Timberwolves
+DTSTART;TZID=America/Chicago:20261016T190000
+UID:Z7r9jZ1AAZIAU@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIAU
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIAU
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Dallas Stars
 DTSTART;TZID=America/Chicago:20261017T180000
 UID:vvG18Z_2e82ML4@venue-calendar
@@ -373,6 +400,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-montreal-canadiens-
  chicago-illinois-10-23-2026/event/040064F0904477E7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Washington Wizards
+DTSTART;TZID=America/Chicago:20261024T190000
+UID:Z7r9jZ1AAZIF8@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF8
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF8
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Florida Panthers
 DTSTART;TZID=America/Chicago:20261025T140000
 UID:vvG18Z_2e839LD@venue-calendar
@@ -393,6 +429,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-c
  hicago-illinois-10-27-2026/event/040064F0904E7809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. New York Knicks
+DTSTART;TZID=America/Chicago:20261028T190000
+UID:Z7r9jZ1AAZIFo@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFo
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rod Wave: Don't Look Down Tour
@@ -467,6 +512,15 @@ URL:https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07
  -2026/event/040064EEE75F20F8
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Philadelphia 76ers
+DTSTART;TZID=America/Chicago:20261108T143000
+UID:Z7r9jZ1AAZIF3@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF3
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XG WORLD TOUR: THE CORE IN CHICAGO
 DTSTART;TZID=America/Chicago:20261109T200000
 UID:vvG18Z_1Ta32Me@venue-calendar
@@ -489,6 +543,15 @@ URL:https://www.ticketmaster.com/xg-world-tour-the-core-in-chicago-illinoi
  s-11-09-2026/event/040064AFC948FDC2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. San Antonio Spurs
+DTSTART;TZID=America/Chicago:20261111T190000
+UID:Z7r9jZ1AAZIFK@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFK
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFK
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Buffalo Sabres
 DTSTART;TZID=America/Chicago:20261112T190000
 UID:vvG18Z_2e8p9OH@venue-calendar
@@ -498,6 +561,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-buffalo-sabres-chic
  ago-illinois-11-12-2026/event/040064F09059783C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Atlanta Hawks
+DTSTART;TZID=America/Chicago:20261113T190000
+UID:Z7r9jZ1AAZIFf@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFf
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Winnipeg Jets
@@ -557,6 +629,33 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-columbus-blue-jacke
  ts-chicago-illinois-11-19-2026/event/040064F090687873
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Washington Wizards
+DTSTART;TZID=America/Chicago:20261120T190000
+UID:Z7r9jZ1AAZIF4@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF4
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Denver Nuggets
+DTSTART;TZID=America/Chicago:20261122T180000
+UID:Z7r9jZ1AAZIFp@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFp
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFp
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Cleveland Cavaliers
+DTSTART;TZID=America/Chicago:20261123T190000
+UID:Z7r9jZ1AAZIF9@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF9
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF9
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART;TZID=America/Chicago:20261124T190000
 UID:vvG18Z_52-BljX@venue-calendar
@@ -591,6 +690,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-new-york-rangers-ch
  icago-illinois-11-27-2026/event/040064F0906E787F
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Indiana Pacers
+DTSTART;TZID=America/Chicago:20261128T190000
+UID:Z7r9jZ1AAZIFb@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFb
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFb
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Minnesota Wild
 DTSTART;TZID=America/Chicago:20261129T140000
 UID:vvG18Z_2e8jMxu@venue-calendar
@@ -600,6 +708,24 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chic
  ago-illinois-11-29-2026/event/040064F09073788D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. New York Knicks
+DTSTART;TZID=America/Chicago:20261201T190000
+UID:Z7r9jZ1AAZIF_@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF_
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF_
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Cleveland Cavaliers
+DTSTART;TZID=America/Chicago:20261203T190000
+UID:Z7r9jZ1AAZIFO@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFO
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFO
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Edmonton Oilers
@@ -622,6 +748,33 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicag
  o-illinois-12-12-2026/event/040064F0907D78BA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Houston Rockets
+DTSTART;TZID=America/Chicago:20261213T170000
+UID:Z7r9jZ1AAZIF-@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF-
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF-
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Miami HEAT
+DTSTART;TZID=America/Chicago:20261214T190000
+UID:Z7r9jZ1AAZIFx@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFx
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Utah Jazz
+DTSTART;TZID=America/Chicago:20261216T190000
+UID:Z7r9jZ1AAZIFN@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFN
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PBR: Unleash the Beast
@@ -668,6 +821,15 @@ URL:https://www.ticketmaster.com/pbr-unleash-the-beast-chicago-illinois-12
  -20-2026/event/04006507818A4F82
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Detroit Pistons
+DTSTART;TZID=America/Chicago:20261226T190000
+UID:Z7r9jZ1AAZIF0@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIF0
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIF0
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Philadelphia Flyers
 DTSTART;TZID=America/Chicago:20261227T140000
 UID:vvG18Z_2e8OMNa@venue-calendar
@@ -690,6 +852,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-vegas-golden-knight
  s-chicago-illinois-12-29-2026/event/040064F0908878D4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Boston Celtics
+DTSTART;TZID=America/Chicago:20261230T190000
+UID:Z7r9jZ1AAZIFP@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFP
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFP
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Boston Bruins
 DTSTART;TZID=America/Chicago:20270101T140000
 UID:vvG18Z_2e2l9p9@venue-calendar
@@ -699,6 +870,24 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-boston-bruins-chica
  go-illinois-01-01-2027/event/040064F08FAD7597
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Los Angeles Lakers
+DTSTART;TZID=America/Chicago:20270102T190000
+UID:Z7r9jZ1AAZIFJ@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFJ
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFJ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Milwaukee Bucks
+DTSTART;TZID=America/Chicago:20270105T190000
+UID:Z7r9jZ1AAZIFE@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFE
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Rife: Stay Golden World Tour
@@ -727,6 +916,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-utah-mammoth-chicag
  o-illinois-01-12-2027/event/040064F08FB475BF
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Minnesota Timberwolves
+DTSTART;TZID=America/Chicago:20270114T190000
+UID:Z7r9jZ1AAZIFI@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFI
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Detroit Red Wings
 DTSTART;TZID=America/Chicago:20270116T180000
 UID:vvG18Z_2e2mE9j@venue-calendar
@@ -736,6 +934,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-detroit-red-wings-c
  hicago-illinois-01-16-2027/event/040064F08FBA75DC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Toronto Raptors
+DTSTART;TZID=America/Chicago:20270117T143000
+UID:Z7r9jZ1AAZIFt@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFt
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFt
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Calgary Flames
@@ -771,6 +978,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-vancouver-canucks-c
  hicago-illinois-01-22-2027/event/040064F08FCC7613
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Philadelphia 76ers
+DTSTART;TZID=America/Chicago:20270123T160000
+UID:Z7r9jZ1AAZIFY@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFY
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Vegas Golden Knights
 DTSTART;TZID=America/Chicago:20270124T180000
 UID:vvG18Z_2e2VEbE@venue-calendar
@@ -780,6 +996,42 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-vegas-golden-knight
  s-chicago-illinois-01-24-2027/event/040064F08FD27627
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Dallas Mavericks
+DTSTART;TZID=America/Chicago:20270125T190000
+UID:Z7r9jZ1AAZIFs@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFs
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Oklahoma City Thunder
+DTSTART;TZID=America/Chicago:20270204T190000
+UID:Z7r9jZ1AAZIFw@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFw
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFw
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. New Orleans Pelicans
+DTSTART;TZID=America/Chicago:20270206T190000
+UID:Z7r9jZ1AAZIFS@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFS
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFS
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Golden State Warriors
+DTSTART;TZID=America/Chicago:20270209T190000
+UID:Z7r9jZ1AAZIFV@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFV
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFV
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
@@ -848,6 +1100,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-new-york-islanders-
  chicago-illinois-02-23-2027/event/040064F08FE8768F
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Atlanta Hawks
+DTSTART;TZID=America/Chicago:20270225T190000
+UID:Z7r9jZ1AAZIFg@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFg
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Los Angeles Kings
 DTSTART;TZID=America/Chicago:20270226T190000
 UID:vvG18Z_2e2DEQl@venue-calendar
@@ -857,6 +1118,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-c
  hicago-illinois-02-26-2027/event/040064F08FEE76AB
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Brooklyn Nets
+DTSTART;TZID=America/Chicago:20270227T190000
+UID:Z7r9jZ1AAZIFU@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFU
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFU
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Colorado Avalanche
@@ -881,6 +1151,24 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-edmonton-oilers-chi
  cago-illinois-03-01-2027/event/040064F08FF976D4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Charlotte Hornets
+DTSTART;TZID=America/Chicago:20270306T160000
+UID:Z7r9jZ1AAZIFM@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFM
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Portland Trail Blazers
+DTSTART;TZID=America/Chicago:20270307T160000
+UID:Z7r9jZ1AAZIFz@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFz
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFz
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Tampa Bay Lightning
 DTSTART;TZID=America/Chicago:20270308T190000
 UID:vvG18Z_2e2TEhE@venue-calendar
@@ -890,6 +1178,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-tampa-bay-lightning
  -chicago-illinois-03-08-2027/event/040064F08FFE76E7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Boston Celtics
+DTSTART;TZID=America/Chicago:20270309T190000
+UID:Z7r9jZ1AAZIFy@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIFy
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIFy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Washington Capitals
@@ -903,6 +1200,24 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-washington-capitals
  -chicago-illinois-03-10-2027/event/040064F0900376FB
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Phoenix Suns
+DTSTART;TZID=America/Chicago:20270311T190000
+UID:Z7r9jZ1AAZIaZ@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIaZ
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIaZ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Memphis Grizzlies
+DTSTART;TZID=America/Chicago:20270313T190000
+UID:Z7r9jZ1AAZIav@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIav
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIav
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Anaheim Ducks
 DTSTART;TZID=America/Chicago:20270314T153000
 UID:vvG18Z_2e8e9jG@venue-calendar
@@ -912,6 +1227,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-anaheim-ducks-chica
  go-illinois-03-14-2027/event/040064F09009770C
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Orlando Magic
+DTSTART;TZID=America/Chicago:20270315T190000
+UID:Z7r9jZ1AAZIae@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIae
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIae
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. San Jose Sharks
@@ -925,6 +1249,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-san-jose-sharks-chi
  cago-illinois-03-16-2027/event/040064F0900F7726
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Sacramento Kings
+DTSTART;TZID=America/Chicago:20270322T190000
+UID:Z7r9jZ1AAZIad@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIad
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIad
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Niall Horan: Dinner Party Live On Tour
 DTSTART;TZID=America/Chicago:20270323T193000
 UID:vvG18Z_1LLYAJb@venue-calendar
@@ -934,6 +1267,15 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/niall-horan-dinner-party-live-on-chicago-
  illinois-03-23-2027/event/040064A7DFC05998
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Orlando Magic
+DTSTART;TZID=America/Chicago:20270324T190000
+UID:Z7r9jZ1AAZIa7@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIa7
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIa7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Nashville Predators
@@ -947,6 +1289,15 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-nashville-predators
  -chicago-illinois-03-26-2027/event/040064F09014773D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. LA Clippers
+DTSTART;TZID=America/Chicago:20270327T190000
+UID:Z7r9jZ1AAZIaA@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIaA
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIaA
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Seattle Kraken
 DTSTART;TZID=America/Chicago:20270328T140000
 UID:vvG18Z_2e8k9qo@venue-calendar
@@ -958,6 +1309,33 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
  ago-illinois-03-28-2027/event/040064F090197751
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Indiana Pacers
+DTSTART;TZID=America/Chicago:20270329T190000
+UID:Z7r9jZ1AAZIak@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIak
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIak
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Detroit Pistons
+DTSTART;TZID=America/Chicago:20270402T190000
+UID:Z7r9jZ1AAZIa6@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIa6
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIa6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Charlotte Hornets
+DTSTART;TZID=America/Chicago:20270407T190000
+UID:Z7r9jZ1AAZIaF@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIaF
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIaF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Nashville Predators
 DTSTART;TZID=America/Chicago:20270408T190000
 UID:vvG18Z_2e86Eqt@venue-calendar
@@ -967,6 +1345,15 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-nashville-predators
  -chicago-illinois-04-08-2027/event/040064F0901E7769
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chicago Bulls vs. Milwaukee Bucks
+DTSTART;TZID=America/Chicago:20270409T190000
+UID:Z7r9jZ1AAZIaa@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
+ s://www.ticketmaster.com/event/Z7r9jZ1AAZIaa
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/event/Z7r9jZ1AAZIaa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Seattle Kraken
