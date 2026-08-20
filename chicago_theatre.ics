@@ -241,11 +241,11 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
  fect at the time of the event. Government mandates\, venue protocols\, and
   event requirements are subject to change. For more information\, please s
  earch your event on www.chicagotheatre.com. This event may have immersive 
- elements\, which may include flashing or strobe lights\, intense lighting\
- , visual effects\, loud noises\, smoke and/or fog. Such elements may aggra
- vate certain medical or physical conditions\, and guests should take this 
- into consideration if they have a history of discomfort or physical sympto
- ms when experiencing these elements.
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take this
+  into consideration if they have a history of discomfort or physical sympt
+ oms when experiencing these elements.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/laura-ramoso-the-calm-down-tour-chicago-i
  llinois-09-25-2026/event/0700646B74811CE6
@@ -547,16 +547,16 @@ UID:vvG1jZ_GpN-guA@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
  .ticketmaster.com/robert-plant-with-saving-grace-and-chicago-illinois-10-1
  5-2026/event/070064C5A3875345\n\nPLEASE NOTE: Pricing is all-in and includ
- es fees (before taxes if applicable). By purchasing tickets to this event\
- , you agree to abide by the health and safety measures in effect at the ti
- me of the event. Government mandates\, venue protocols\, and event require
- ments are subject to change. For more information\, please search your eve
- nt on www.chicagotheatre.com. This event may have immersive elements\, whi
- ch may include flashing or strobe lights\, intense lighting\, visual effec
- ts\, loud noises\, smoke and/or fog. Such elements may aggravate certain m
- edical or physical conditions\, and guests should take this into considera
- tion if they have a history of discomfort or physical symptoms when experi
- encing these elements.
+ es fees (before taxes if applicable). By purchasing tickets to this event
+ \, you agree to abide by the health and safety measures in effect at the t
+ ime of the event. Government mandates\, venue protocols\, and event requir
+ ements are subject to change. For more information\, please search your ev
+ ent on www.chicagotheatre.com. This event may have immersive elements\, wh
+ ich may include flashing or strobe lights\, intense lighting\, visual effe
+ cts\, loud noises\, smoke and/or fog. Such elements may aggravate certain 
+ medical or physical conditions\, and guests should take this into consider
+ ation if they have a history of discomfort or physical symptoms when exper
+ iencing these elements.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/robert-plant-with-saving-grace-and-chicag
  o-illinois-10-15-2026/event/070064C5A3875345
@@ -644,6 +644,40 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chi
  cago-illinois-10-24-2026/event/07006436AB9068AC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brett Goldstein: Sex\, Death & Small Talk
+DTSTART;TZID=America/Chicago:20261025T190000
+UID:vv17jZ_8GkBJigmn@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/brett-goldstein-sex-death-small-talk-chicago-illinois-10-25-2
+ 026/event/0700650EA6B35BAA\n\nPLEASE NOTE: Pricing is all-in and includes 
+ fees (before taxes if applicable). Mature Audiences Only: Suggested Ages 1
+ 5 and up. By purchasing tickets to this event\, you agree to abide by the 
+ health and safety measures in effect at the time of the event. Government 
+ mandates\, venue protocols\, and event requirements are subject to change.
+  For more information\, please search your event on www.chicagotheatre.com
+ . This event may have immersive elements\, which may include flashing or s
+ trobe lights\, intense lighting\, visual effects\, loud noises\, smoke and
+ /or fog. Such elements may aggravate certain medical or physical condition
+ s\, and guests should take this into consideration if they have a history 
+ of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/brett-goldstein-sex-death-small-talk-chic
+ ago-illinois-10-25-2026/event/0700650EA6B35BAA
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THIS IS NOT AN EVENT TICKET: PERSONALIZED SIGNED TOUR POSTER
+DTSTART;TZID=America/Chicago:20261025T190000
+UID:vv1A6ZkfoGkeBx75x@venue-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/thi
+ s-is-not-an-event-ticket-chicago-illinois-10-25-2026/event/07006511BA8842E
+ 2\n\nReceive a personalized\, numbered and signed tour poster by Brett Gol
+ dstein. Posters will be available for pickup on the night of the show. ($7
+ 5 + taxes and fees)
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/this-is-not-an-event-ticket-chicago-illin
+ ois-10-25-2026/event/07006511BA8842E2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tedeschi Trucks Band: Future Soul 2026 Tour
@@ -742,13 +776,13 @@ DESCRIPTION:Type: Film\nGenre: Music\nTickets: https://www.ticketmaster.co
  ticipation! Plus a memorabilia display with artifacts and an actual costum
  e from the movie\, a costume contest\, and more! *Get exclusive tickets to
   the V.I.P. Meet & Greet to meet the stars themselves and have a personal 
- photo opportunity & get an autograph. By purchasing tickets to this event\
- , you agree to abide by the health and safety measures in effect at the ti
- me of the event. Government mandates\, venue protocols\, and event require
- ments are subject to change. For more information\, please search for your
-  event on www.chicagotheatre.com. This event may have immersive elements\,
-  which may include flashing or strobe lights\, intense lighting\, visual e
- ffects\, loud noises\, smoke and/or fog.
+ photo opportunity & get an autograph. By purchasing tickets to this event
+ \, you agree to abide by the health and safety measures in effect at the t
+ ime of the event. Government mandates\, venue protocols\, and event requir
+ ements are subject to change. For more information\, please search for you
+ r event on www.chicagotheatre.com. This event may have immersive elements
+ \, which may include flashing or strobe lights\, intense lighting\, visual
+  effects\, loud noises\, smoke and/or fog.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/the-rocky-horror-picture-show-original-ch
  icago-illinois-10-31-2026/event/0700649C944F310B
@@ -842,17 +876,17 @@ SUMMARY:RON WHITE
 DTSTART;TZID=America/Chicago:20261108T190000
 UID:vvG1jZ_GKQk6V7@venue-calendar
 DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/ron-white-chicago-illinois-11-08-2026/event/070064C4DA187D04\
- n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if appli
- cable). By purchasing tickets to this event\, you agree to abide by the he
- alth and safety measures in effect at the time of the event. Government ma
- ndates\, venue protocols\, and event requirements are subject to change. F
- or more information\, please search your event on www.chicagotheatre.com. 
- This event may have immersive elements\, which may include flashing or str
- obe lights\, intense lighting\, visual effects\, loud noises\, smoke and/o
- r fog. Such elements may aggravate certain medical or physical conditions\
- , and guests should take this into consideration if they have a history of
-  discomfort or physical symptoms when experiencing these elements.
+ etmaster.com/ron-white-chicago-illinois-11-08-2026/event/070064C4DA187D04
+ \n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if appl
+ icable). By purchasing tickets to this event\, you agree to abide by the h
+ ealth and safety measures in effect at the time of the event. Government m
+ andates\, venue protocols\, and event requirements are subject to change. 
+ For more information\, please search your event on www.chicagotheatre.com.
+  This event may have immersive elements\, which may include flashing or st
+ robe lights\, intense lighting\, visual effects\, loud noises\, smoke and/
+ or fog. Such elements may aggravate certain medical or physical conditions
+ \, and guests should take this into consideration if they have a history o
+ f discomfort or physical symptoms when experiencing these elements.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/ron-white-chicago-illinois-11-08-2026/eve
  nt/070064C4DA187D04
@@ -1015,12 +1049,12 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  vent\, you agree to abide by the health and safety measures in effect at t
  he time of the event. Government mandates\, venue protocols\, and event re
  quirements are subject to change. For more information\, please search you
- r event on www.chicagotheatre.com. This event may have immersive elements\
- , which may include flashing or strobe lights\, intense lighting\, visual 
- effects\, loud noises\, smoke and/or fog. Such elements may aggravate cert
- ain medical or physical conditions\, and guests should take this into cons
- ideration if they have a history of discomfort or physical symptoms when e
- xperiencing these elements.
+ r event on www.chicagotheatre.com. This event may have immersive elements
+ \, which may include flashing or strobe lights\, intense lighting\, visual
+  effects\, loud noises\, smoke and/or fog. Such elements may aggravate cer
+ tain medical or physical conditions\, and guests should take this into con
+ sideration if they have a history of discomfort or physical symptoms when 
+ experiencing these elements.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/an-evening-with-lord-huron-chicago-illino
  is-12-08-2026/event/070064FDA19F3131
@@ -1036,12 +1070,12 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
  vent\, you agree to abide by the health and safety measures in effect at t
  he time of the event. Government mandates\, venue protocols\, and event re
  quirements are subject to change. For more information\, please search you
- r event on www.chicagotheatre.com. This event may have immersive elements\
- , which may include flashing or strobe lights\, intense lighting\, visual 
- effects\, loud noises\, smoke and/or fog. Such elements may aggravate cert
- ain medical or physical conditions\, and guests should take this into cons
- ideration if they have a history of discomfort or physical symptoms when e
- xperiencing these elements.
+ r event on www.chicagotheatre.com. This event may have immersive elements
+ \, which may include flashing or strobe lights\, intense lighting\, visual
+  effects\, loud noises\, smoke and/or fog. Such elements may aggravate cer
+ tain medical or physical conditions\, and guests should take this into con
+ sideration if they have a history of discomfort or physical symptoms when 
+ experiencing these elements.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/an-evening-with-lord-huron-chicago-illino
  is-12-09-2026/event/070064FDA199312B
