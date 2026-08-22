@@ -6,20 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Kacey Musgraves - Middle of Nowhere Tour 
-DTSTART;TZID=America/Chicago:20260821T193000
-UID:vv1A7Zk34GkdL8msd@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
- .com/kacey-musgraves-middle-of-nowhere-tour-chicago-illinois-08-21-2026/ev
- ent/04006495DF42EC43\n\nBy purchasing tickets to this event\, you agree to
-  abide by the health and safety measures in effect at the time of the even
- t. Check back often for updates to your event venue website as guidelines 
- are subject to change.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/kacey-musgraves-middle-of-nowhere-tour-ch
- icago-illinois-08-21-2026/event/04006495DF42EC43
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:OMAR COURTZ - POR SI MAÑANA NO ESTOY USA TOUR
 DTSTART;TZID=America/Chicago:20260905T200000
 UID:vv178Z_aGkDr6r2e@venue-calendar
