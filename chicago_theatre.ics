@@ -7,54 +7,6 @@ X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
 SUMMARY:Jill Scott - To Whom This May Concern Tour
-DTSTART;TZID=America/Chicago:20260820T193000
-UID:vv1A6ZkoPGkdGuzNj@venue-calendar
-DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /jill-scott-to-whom-this-may-chicago-illinois-08-20-2026/event/07006465CC3
- 788DC\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if
-  applicable). Per the event organizer's request\, this event will be a pho
- ne-free experience. Use of cellphones or recording devices (including smar
- t glasses) will not be permitted in the performance space. Upon arrival at
-  the venue\, all phones and recording accessories will be secured in Yondr
-  pouches that will be opened at the end of the event. Guests maintain poss
- ession of their belongings at all times and can access their phones throug
- hout the event at designated Phone Use Areas in the venue. Anyone seen usi
- ng a non-permitted device during the performance will be escorted out of t
- he venue. ARRIVE EARLY: Please arrive 90 minutes prior to showtime. By pur
- chasing tickets to this event\, you agree to abide by the health and safet
- y measures in effect at the time of the event. Government mandates\, venue
-  protocols\, and event requirements are subject to change. For more\, visi
- t www.chicagotheatre.com.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/jill-scott-to-whom-this-may-chicago-illin
- ois-08-20-2026/event/07006465CC3788DC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jill Scott - To Whom This May Concern Tour
-DTSTART;TZID=America/Chicago:20260822T193000
-UID:vv1A6ZkoPGkdG2FNE@venue-calendar
-DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /jill-scott-to-whom-this-may-chicago-illinois-08-22-2026/event/07006465CC3
- C88E7\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if
-  applicable). Per the event organizer's request\, this event will be a pho
- ne-free experience. Use of cellphones or recording devices (including smar
- t glasses) will not be permitted in the performance space. Upon arrival at
-  the venue\, all phones and recording accessories will be secured in Yondr
-  pouches that will be opened at the end of the event. Guests maintain poss
- ession of their belongings at all times and can access their phones throug
- hout the event at designated Phone Use Areas in the venue. Anyone seen usi
- ng a non-permitted device during the performance will be escorted out of t
- he venue. ARRIVE EARLY: Please arrive 90 minutes prior to showtime. By pur
- chasing tickets to this event\, you agree to abide by the health and safet
- y measures in effect at the time of the event. Government mandates\, venue
-  protocols\, and event requirements are subject to change. For more\, visi
- t www.chicagotheatre.com.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/jill-scott-to-whom-this-may-chicago-illin
- ois-08-22-2026/event/07006465CC3C88E7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jill Scott - To Whom This May Concern Tour
 DTSTART;TZID=America/Chicago:20260823T193000
 UID:vv1A6ZkoPGkdG8bNm@venue-calendar
 DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
@@ -644,6 +596,40 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chi
  cago-illinois-10-24-2026/event/07006436AB9068AC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THIS IS NOT AN EVENT TICKET: PERSONALIZED SIGNED TOUR POSTER
+DTSTART;TZID=America/Chicago:20261025T160000
+UID:vv1kjZ_o8gG7WmZB@venue-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/thi
+ s-is-not-an-event-ticket-chicago-illinois-10-25-2026/event/0700651435F6E03
+ A\n\nReceive a personalized\, numbered and signed tour poster by Brett Gol
+ dstein. Posters will be available for pickup on the night of the show. ($7
+ 5 + taxes and fees)
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/this-is-not-an-event-ticket-chicago-illin
+ ois-10-25-2026/event/0700651435F6E03A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brett Goldstein: Sex\, Death & Small Talk
+DTSTART;TZID=America/Chicago:20261025T160000
+UID:vv1kvYvP7YGA1a1pM@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/brett-goldstein-sex-death-small-talk-chicago-illinois-10-25-2
+ 026/event/070065130A24A5B7\n\nPLEASE NOTE: Pricing is all-in and includes 
+ fees (before taxes if applicable). Mature Audiences Only: Suggested Ages 1
+ 5 and up. By purchasing tickets to this event\, you agree to abide by the 
+ health and safety measures in effect at the time of the event. Government 
+ mandates\, venue protocols\, and event requirements are subject to change.
+  For more information\, please search your event on www.chicagotheatre.com
+ . This event may have immersive elements\, which may include flashing or s
+ trobe lights\, intense lighting\, visual effects\, loud noises\, smoke and
+ /or fog. Such elements may aggravate certain medical or physical condition
+ s\, and guests should take this into consideration if they have a history 
+ of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/brett-goldstein-sex-death-small-talk-chic
+ ago-illinois-10-25-2026/event/070065130A24A5B7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brett Goldstein: Sex\, Death & Small Talk
