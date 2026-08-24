@@ -6,30 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Jill Scott - To Whom This May Concern Tour
-DTSTART;TZID=America/Chicago:20260823T193000
-UID:vv1A6ZkoPGkdG8bNm@venue-calendar
-DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /jill-scott-to-whom-this-may-chicago-illinois-08-23-2026/event/07006465CC4
- 188EE\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if
-  applicable). Per the event organizer's request\, this event will be a pho
- ne-free experience. Use of cellphones or recording devices (including smar
- t glasses) will not be permitted in the performance space. Upon arrival at
-  the venue\, all phones and recording accessories will be secured in Yondr
-  pouches that will be opened at the end of the event. Guests maintain poss
- ession of their belongings at all times and can access their phones throug
- hout the event at designated Phone Use Areas in the venue. Anyone seen usi
- ng a non-permitted device during the performance will be escorted out of t
- he venue. ARRIVE EARLY: Please arrive 90 minutes prior to showtime. By pur
- chasing tickets to this event\, you agree to abide by the health and safet
- y measures in effect at the time of the event. Government mandates\, venue
-  protocols\, and event requirements are subject to change. For more\, visi
- t www.chicagotheatre.com.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/jill-scott-to-whom-this-may-chicago-illin
- ois-08-23-2026/event/07006465CC4188EE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adrian Uribe: 50 y Pico Tour
 DTSTART;TZID=America/Chicago:20260911T200000
 UID:vvG1jZ_29Enp4A@venue-calendar
