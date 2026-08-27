@@ -1147,6 +1147,26 @@ URL:https://www.ticketmaster.com/seth-meyers-live-chicago-illinois-01-16-2
  027/event/070064E8FEAB4DBC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aries Spears
+DTSTART;TZID=America/Chicago:20270219T193000
+UID:vv17jZ_8GkUmf7YO@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/aries-spears-chicago-illinois-02-19-2027/event/0700650DAE504C
+ 20\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if ap
+ plicable). By purchasing tickets to this event\, you agree to abide by the
+  health and safety measures in effect at the time of the event. Government
+  mandates\, venue protocols\, and event requirements are subject to change
+ . For more information\, please search your event on www.chicagotheatre.co
+ m. This event may have immersive elements\, which may include flashing or 
+ strobe lights\, intense lighting\, visual effects\, loud noises\, smoke an
+ d/or fog. Such elements may aggravate certain medical or physical conditio
+ ns\, and guests should take this into consideration if they have a history
+  of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/aries-spears-chicago-illinois-02-19-2027/
+ event/0700650DAE504C20
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Professor Brian Cox - Emergence
 DTSTART;TZID=America/Chicago:20270226T193000
 UID:vv17jZ_FGkXtlpNo@venue-calendar
