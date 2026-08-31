@@ -696,7 +696,7 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-indiana-pacers-chicago-i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Minnesota Wild
-DTSTART;TZID=America/Chicago:20261129T140000
+DTSTART;TZID=America/Chicago:20261129T130000
 UID:vvG18Z_2e8jMxu@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
  www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chicago-illinois
