@@ -728,14 +728,15 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-cleveland-cavaliers-chic
  ago-illinois-12-03-2026/event/0400650EE8A92C37
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Illinois Fighting Illini Mens Basketball vs. UConn Huskies Mens Ba
- sketball
+SUMMARY:Illinois v. UCONN
 DTSTART;VALUE=DATE:20261204
-UID:Z7r9jZ1A70-Zx@venue-calendar
+UID:vvG18Z_u2R6rzv@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
- https://www.ticketmaster.com/event/Z7r9jZ1A70-Zx
+ https://www.ticketmaster.com/illinois-v-uconn-chicago-illinois-12-04-2026/
+ event/040064D3EF1DEE01
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/event/Z7r9jZ1A70-Zx
+URL:https://www.ticketmaster.com/illinois-v-uconn-chicago-illinois-12-04-2
+ 026/event/040064D3EF1DEE01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Edmonton Oilers
@@ -985,7 +986,7 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-calgary-flames-chic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Dallas Stars
-DTSTART;TZID=America/Chicago:20270120T203000
+DTSTART;TZID=America/Chicago:20270120T183000
 UID:vvG18Z_2e2sE9y@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
  www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicago-illinois-0
@@ -1117,7 +1118,7 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. New Jersey Devils
-DTSTART;TZID=America/Chicago:20270221T143000
+DTSTART;TZID=America/Chicago:20270221T170000
 UID:vvG18Z_2e2zM_l@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
  www.ticketmaster.com/chicago-blackhawks-vs-new-jersey-devils-chicago-illin
@@ -1238,7 +1239,7 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-boston-celtics-chicago-i
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Washington Capitals
-DTSTART;TZID=America/Chicago:20270310T203000
+DTSTART;TZID=America/Chicago:20270310T190000
 UID:vvG18Z_2e8ZMhD@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
  www.ticketmaster.com/chicago-blackhawks-vs-washington-capitals-chicago-ill
@@ -1359,7 +1360,7 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-la-clippers-chicago-illi
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Seattle Kraken
-DTSTART;TZID=America/Chicago:20270328T140000
+DTSTART;TZID=America/Chicago:20270328T130000
 UID:vvG18Z_2e8k9qo@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
  www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chicago-illinois
