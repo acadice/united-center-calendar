@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:OMAR COURTZ - POR SI MAÑANA NO ESTOY USA TOUR
-DTSTART;TZID=America/Chicago:20260905T210000
-UID:vv178Z_aGkDr6r2e@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
- ps://www.ticketmaster.com/omar-courtz-por-si-manana-no-chicago-illinois-09
- -05-2026/event/0400649EDE1DE3C2
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/omar-courtz-por-si-manana-no-chicago-illi
- nois-09-05-2026/event/0400649EDE1DE3C2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Childish Gambino - The New World Tour
 DTSTART;TZID=America/Chicago:20260908T200000
 UID:vvG18Zb157jsXp@venue-calendar
