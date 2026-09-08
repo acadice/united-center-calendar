@@ -267,6 +267,24 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-carolina-hurricanes
  -chicago-illinois-10-10-2026/event/040064F0902F77A3
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SILVER STAR TICKETS - Olivia Rodrigo: The Unraveled Tour
+DTSTART;TZID=America/Chicago:20261011T190000
+UID:vv178Z_8GkYp5eNN@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/silver-star-tickets-olivia-rodrigo-the-chicago-il
+ linois-10-11-2026/event/0400650C162C28E3\n\nSilver Star Tickets are $20 pl
+ us taxes and fees\; only sold in pairs. Limit 2 tickets per person. Locati
+ ons selected at random and vary throughout the venue\, including limited v
+ iew\, lower and upper level\, and Pit. You cannot select your seats. Exact
+  locations will be revealed when tickets are picked up on the day of the s
+ how. Claim tickets night of show only\, in person\, with photo ID\, confir
+ mation\, and credit card used at purchase. Any resale or transfer will res
+ ult in a void with no refund.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/silver-star-tickets-olivia-rodrigo-the-ch
+ icago-illinois-10-11-2026/event/0400650C162C28E3
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
 DTSTART;TZID=America/Chicago:20261011T190000
 UID:vv178Z_aGkYeTUOa@venue-calendar
@@ -276,6 +294,24 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
  -illinois-10-11-2026/event/0400649C02FF6809
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SILVER STAR TICKETS - Olivia Rodrigo: The Unraveled Tour
+DTSTART;TZID=America/Chicago:20261012T190000
+UID:vv178Z_8GkVgZnqd@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/silver-star-tickets-olivia-rodrigo-the-chicago-il
+ linois-10-12-2026/event/0400650D3502A743\n\nSilver Star Tickets are $20 pl
+ us taxes and fees\; only sold in pairs. Limit 2 tickets per person. Locati
+ ons selected at random and vary throughout the venue\, including limited v
+ iew\, lower and upper level\, and Pit. You cannot select your seats. Exact
+  locations will be revealed when tickets are picked up on the day of the s
+ how. Claim tickets night of show only\, in person\, with photo ID\, confir
+ mation\, and credit card used at purchase. Any resale or transfer will res
+ ult in a void with no refund.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/silver-star-tickets-olivia-rodrigo-the-ch
+ icago-illinois-10-12-2026/event/0400650D3502A743
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Olivia Rodrigo: The Unraveled Tour
@@ -615,6 +651,18 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-washington-wizards-chica
  go-illinois-11-20-2026/event/0400650EE8902BED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stevie Wonder Songs in The Key of Life Performances 50th Anniversa
+ ry
+DTSTART;TZID=America/Chicago:20261121T200000
+UID:vv1A7ZkfNGkd8KE_P@venue-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /stevie-wonder-songs-in-the-key-chicago-illinois-11-21-2026/event/04006523
+ D04E7665
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/stevie-wonder-songs-in-the-key-chicago-il
+ linois-11-21-2026/event/04006523D04E7665
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Denver Nuggets
