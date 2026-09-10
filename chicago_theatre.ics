@@ -1188,6 +1188,30 @@ URL:https://www.ticketmaster.com/professor-brian-cox-emergence-chicago-ill
  inois-02-26-2027/event/0700648FA9AD68D1
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Twilight In Concert
+DTSTART;TZID=America/Chicago:20270228T190000
+UID:vv1A6Zkf_GkdCaPDq@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Other\nTickets: https://www.ticketmaster.c
+ om/twilight-in-concert-chicago-illinois-02-28-2027/event/07006519CE265EDD
+ \n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if appl
+ icable). Relive the magic of Twilight (2008) with Twilight in Concert! A s
+ tunning 12-piece ensemble will perform the unforgettable film score live\,
+  synchronized with the movie on a full-size cinema screen. Surrounded by t
+ he glow of over a thousand candles\, this cinematic live-to-film concert e
+ xperience will take you back to Forks like never before. Don't miss this e
+ xtraordinary night of music and romance. Secure your tickets now! All pack
+ ages will be inspected prior to entry. By purchasing tickets\, you agree t
+ o abide by the health and safety measures in effect at the time of the eve
+ nt. Government mandates\, venue protocols\, and event requirements are sub
+ ject to change. Visit www.chicagotheatre.com. This event may have immersiv
+ e elements\, which may include flashing or strobe lights\, intense lightin
+ g\, visual effects\, loud noises\, smoke and/or fog. Such elements may agg
+ ravate certain medical or physical conditions.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/twilight-in-concert-chicago-illinois-02-2
+ 8-2027/event/07006519CE265EDD
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Basement Yard Live
 DTSTART;TZID=America/Chicago:20270312T200000
 UID:vvG1jZ_GpL87gr@venue-calendar
