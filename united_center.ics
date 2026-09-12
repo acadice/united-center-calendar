@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Eric Clapton
-DTSTART;TZID=America/Chicago:20260911T193000
-UID:vv1A7Zko_GkdQ7Na1@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/eric-clapton-chicago-illinois-09-11-2026/event/04006459D
- A12324A
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/eric-clapton-chicago-illinois-09-11-2026/
- event/04006459DA12324A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Robyn - The Sexistential Tour
 DTSTART;TZID=America/Chicago:20260912T193000
 UID:vv178Z_dGkReEzfw@venue-calendar
