@@ -6,48 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Adrian Uribe: 50 y Pico Tour
-DTSTART;TZID=America/Chicago:20260911T200000
-UID:vvG1jZ_29Enp4A@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/adrian-uribe-50-y-pico-tour-chicago-illinois-09-11-2026/event
- /070064F5E7A96545\n\nPLEASE NOTE: Pricing is all-in and includes fees (bef
- ore taxes if applicable). By purchasing tickets to this event\, you agree 
- to abide by the health and safety measures in effect at the time of the ev
- ent. Government mandates\, venue protocols\, and event requirements are su
- bject to change. For more information\, please search your event on www.ch
- icagotheatre.com. This event may have immersive elements\, which may inclu
- de flashing or strobe lights\, intense lighting\, visual effects\, loud no
- ises\, smoke and/or fog. Such elements may aggravate certain medical or ph
- ysical conditions\, and guests should take this into consideration if they
-  have a history of discomfort or physical symptoms when experiencing these
-  elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/adrian-uribe-50-y-pico-tour-chicago-illin
- ois-09-11-2026/event/070064F5E7A96545
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lily Allen Performs West End Girl
-DTSTART;TZID=America/Chicago:20260913T200000
-UID:vvG1jZ_CEnrVot@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/lily-allen-performs-west-end-girl-chicago-illinois-09-13
- -2026/event/070064E9EA7B4469\n\nPLEASE NOTE: Pricing is all-in and include
- s fees (before taxes if applicable). By purchasing tickets to this event\,
-  you agree to abide by the health and safety measures in effect at the tim
- e of the event. Government mandates\, venue protocols\, and event requirem
- ents are subject to change. For more information\, please search your even
- t on www.chicagotheatre.com. This event may have immersive elements\, whic
- h may include flashing or strobe lights\, intense lighting\, visual effect
- s\, loud noises\, smoke and/or fog. Such elements may aggravate certain me
- dical or physical conditions\, and guests should take this into considerat
- ion if they have a history of discomfort or physical symptoms when experie
- ncing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/lily-allen-performs-west-end-girl-chicago
- -illinois-09-13-2026/event/070064E9EA7B4469
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gary Clark Jr.
 DTSTART;TZID=America/Chicago:20260917T193000
 UID:vvG1jZ_5wxkdd4@venue-calendar
@@ -112,27 +70,6 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago
  -illinois-09-19-2026/event/070064A4D807691B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xscape: Symphony of Love with Live Orchestra
-DTSTART;TZID=America/Chicago:20260920T190000
-UID:vvG1jZ_CNyKf0x@venue-calendar
-DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /xscape-symphony-of-love-with-live-chicago-illinois-09-20-2026/event/07006
- 4E8F94D4922\n\nPLEASE NOTE: Pricing is all-in and includes fees (before ta
- xes if applicable). By purchasing tickets to this event\, you agree to abi
- de by the health and safety measures in effect at the time of the event. G
- overnment mandates\, venue protocols\, and event requirements are subject 
- to change. For more information\, please search your event on www.chicagot
- heatre.com. This event may have immersive elements\, which may include fla
- shing or strobe lights\, intense lighting\, visual effects\, loud noises\,
-  smoke and/or fog. Such elements may aggravate certain medical or physical
-  conditions\, and guests should take this into consideration if they have 
- a history of discomfort or physical symptoms when experiencing these eleme
- nts.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/xscape-symphony-of-love-with-live-chicago
- -illinois-09-20-2026/event/070064E8F94D4922
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ilana Glazer Live!
@@ -250,6 +187,30 @@ URL:https://www.ticketmaster.com/sara-bareilles-the-good-grief-tour-chicag
  o-illinois-09-28-2026/event/070064BDAE1D48B2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bill Burr Live
+DTSTART;TZID=America/Chicago:20260930T190000
+UID:vvG1jZ_5SIKk3_@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/bill-burr-live-chicago-illinois-09-30-2026/event/070064BCE84C
+ 6499\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
+ applicable). Per the event organizer's request\, this event will be a phon
+ e-free experience. Use of cellphones or recording devices (including smart
+  glasses) will not be permitted in the performance space. Upon arrival at 
+ the venue\, all phones and recording accessories will be secured in Yondr 
+ pouches that will be opened at the end of the event. Guests maintain posse
+ ssion of their belongings at all times and can access their phones through
+ out the event at designated Phone Use Areas in the venue. Anyone seen usin
+ g a non-permitted device during the performance will be escorted out of th
+ e venue. Guests are encouraged to bring a credit card for purchases inside
+  the venue. By purchasing tickets to this event\, you agree to abide by th
+ e health and safety measures in effect at the time of the event. Governmen
+ t mandates\, venue protocols\, and event requirements are subject to chang
+ e. Please visit www.chicagotheatre.com for more.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-09-30-202
+ 6/event/070064BCE84C6499
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Insecure: The 10th Anniversary Tour
 DTSTART;TZID=America/Chicago:20261001T200000
 UID:vvG1jZ_CNmP0uz@venue-calendar
@@ -362,30 +323,6 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-10-03-202
  6/event/070064BCE8466492
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bill Burr Live
-DTSTART;TZID=America/Chicago:20261004T190000
-UID:vvG1jZ_5SIKk3_@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bill-burr-live-chicago-illinois-10-04-2026/event/070064BCE84C
- 6499\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). Per the event organizer's request\, this event will be a phon
- e-free experience. Use of cellphones or recording devices (including smart
-  glasses) will not be permitted in the performance space. Upon arrival at 
- the venue\, all phones and recording accessories will be secured in Yondr 
- pouches that will be opened at the end of the event. Guests maintain posse
- ssion of their belongings at all times and can access their phones through
- out the event at designated Phone Use Areas in the venue. Anyone seen usin
- g a non-permitted device during the performance will be escorted out of th
- e venue. Guests are encouraged to bring a credit card for purchases inside
-  the venue. By purchasing tickets to this event\, you agree to abide by th
- e health and safety measures in effect at the time of the event. Governmen
- t mandates\, venue protocols\, and event requirements are subject to chang
- e. Please visit www.chicagotheatre.com for more.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-10-04-202
- 6/event/070064BCE84C6499
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Souvenirs: 80 Years of John Prine Presented by the Prine Family
@@ -703,6 +640,26 @@ DESCRIPTION:Type: Miscellaneous\nGenre: Lecture/Seminar\nTickets: https://
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/the-parables-tour-with-father-mike-chicag
  o-illinois-10-28-2026/event/07006506B8C5786B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Night with Xscape\, Plies\, and Pleasure P
+DTSTART;TZID=America/Chicago:20261029T200000
+UID:vvG1jZ_CNyKf0x@venue-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /a-night-with-xscape-plies-and-chicago-illinois-10-29-2026/event/070064E8F
+ 94D4922\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes 
+ if applicable). By purchasing tickets to this event\, you agree to abide b
+ y the health and safety measures in effect at the time of the event. Gover
+ nment mandates\, venue protocols\, and event requirements are subject to c
+ hange. For more information\, please search your event on www.chicagotheat
+ re.com. This event may have immersive elements\, which may include flashin
+ g or strobe lights\, intense lighting\, visual effects\, loud noises\, smo
+ ke and/or fog. Such elements may aggravate certain medical or physical con
+ ditions\, and guests should take this into consideration if they have a hi
+ story of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/a-night-with-xscape-plies-and-chicago-ill
+ inois-10-29-2026/event/070064E8F94D4922
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Lemon & DL Hughley: DL + DL 'Anything Goes'
