@@ -958,6 +958,48 @@ URL:https://www.ticketmaster.com/george-lopez-chicago-illinois-11-21-2026/
  event/070064B3A59D32D9
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wilco - Winterlude 2026
+DTSTART;TZID=America/Chicago:20261204T200000
+UID:vv17jZ_3GknjXfLg@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/wilco-winterlude-2026-chicago-illinois-12-04-2026/event/
+ 0700652A9CF947F5\n\nPLEASE NOTE: Pricing is all-in and includes fees (befo
+ re taxes if applicable). By purchasing tickets to this event\, you agree t
+ o abide by the health and safety measures in effect at the time of the eve
+ nt. Government mandates\, venue protocols\, and event requirements are sub
+ ject to change. For more information\, please search your event on www.chi
+ cagotheatre.com. This event may have immersive elements\, which may includ
+ e flashing or strobe lights\, intense lighting\, visual effects\, loud noi
+ ses\, smoke and/or fog. Such elements may aggravate certain medical or phy
+ sical conditions\, and guests should take this into consideration if they 
+ have a history of discomfort or physical symptoms when experiencing these 
+ elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/wilco-winterlude-2026-chicago-illinois-12
+ -04-2026/event/0700652A9CF947F5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wilco - Winterlude 2026
+DTSTART;TZID=America/Chicago:20261205T200000
+UID:vv17jZ_3GknjTVOd@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/wilco-winterlude-2026-chicago-illinois-12-05-2026/event/
+ 0700652A9CFF4803\n\nPLEASE NOTE: Pricing is all-in and includes fees (befo
+ re taxes if applicable). By purchasing tickets to this event\, you agree t
+ o abide by the health and safety measures in effect at the time of the eve
+ nt. Government mandates\, venue protocols\, and event requirements are sub
+ ject to change. For more information\, please search your event on www.chi
+ cagotheatre.com. This event may have immersive elements\, which may includ
+ e flashing or strobe lights\, intense lighting\, visual effects\, loud noi
+ ses\, smoke and/or fog. Such elements may aggravate certain medical or phy
+ sical conditions\, and guests should take this into consideration if they 
+ have a history of discomfort or physical symptoms when experiencing these 
+ elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/wilco-winterlude-2026-chicago-illinois-12
+ -05-2026/event/0700652A9CFF4803
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:An Evening with Lord Huron
 DTSTART;TZID=America/Chicago:20261208T200000
 UID:vvG1jZ_2U-ES7s@venue-calendar
