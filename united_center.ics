@@ -102,12 +102,12 @@ BEGIN:VEVENT
 SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
 DTSTART;TZID=America/Chicago:20260930T193000
 UID:vv1A7Zk8VGkdEftdU@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /lionel-richie-and-earth-wind-fire-chicago-illinois-09-30-2026/event/04006
- 434E75290F6\n\nBy purchasing tickets to this event\, you agree to abide by
-  the health and safety measures in effect at the time of the event. Check 
- back often for updates to your event venue website as guidelines are subje
- ct to change.
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-chicago-illinoi
+ s-09-30-2026/event/04006434E75290F6\n\nBy purchasing tickets to this event
+ \, you agree to abide by the health and safety measures in effect at the t
+ ime of the event. Check back often for updates to your event venue website
+  as guidelines are subject to change.
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-chicago
  -illinois-09-30-2026/event/04006434E75290F6
@@ -414,9 +414,9 @@ BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART;TZID=America/Chicago:20261105T200000
 UID:vvG18Z_1miP6i3@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /katseye-the-wildworld-tour-chicago-illinois-11-05-2026/event/040064ABAC94
- 7B12
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/katseye-the-wildworld-tour-chicago-illinois-11-05
+ -2026/event/040064ABAC947B12
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/katseye-the-wildworld-tour-chicago-illino
  is-11-05-2026/event/040064ABAC947B12
@@ -604,10 +604,10 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART;TZID=America/Chicago:20261124T190000
 UID:vvG18Z_52-BljX@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
- s://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicago-illino
- is-11-24-2026/event/040064B3E1EAB73E\n\n18+ is recommended but all ages we
- lcome.
+DESCRIPTION:Type: Music\nGenre: Dance/Electronic\nSub-genre: Amapiano\nTic
+ kets: https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chic
+ ago-illinois-11-24-2026/event/040064B3E1EAB73E\n\n18+ is recommended but a
+ ll ages welcome.
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicag
  o-illinois-11-24-2026/event/040064B3E1EAB73E
@@ -616,9 +616,9 @@ BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART;TZID=America/Chicago:20261125T200000
 UID:vvG18Z_52-Dlqv@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
- s://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicago-illino
- is-11-25-2026/event/040064B3E1EEB741
+DESCRIPTION:Type: Music\nGenre: Dance/Electronic\nSub-genre: Amapiano\nTic
+ kets: https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chic
+ ago-illinois-11-25-2026/event/040064B3E1EEB741
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-chicag
  o-illinois-11-25-2026/event/040064B3E1EEB741
@@ -1027,9 +1027,9 @@ BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
 DTSTART;TZID=America/Chicago:20270211T200000
 UID:vv1FvZv0PYCdZ72aG6@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /gracie-abrams-the-look-at-my-chicago-illinois-02-11-2027/event/0400649703
- 83E8B6
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illinois-02-
+ 11-2027/event/040064970383E8B6
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illi
  nois-02-11-2027/event/040064970383E8B6
@@ -1038,9 +1038,9 @@ BEGIN:VEVENT
 SUMMARY:Gracie Abrams: The Look at My Life Tour presented by Capital One
 DTSTART;TZID=America/Chicago:20270212T200000
 UID:vvG18Z_5RD-DAh@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nTickets: https://www.ticketmaster.com
- /gracie-abrams-the-look-at-my-chicago-illinois-02-12-2027/event/040064BBFB
- 87B15B
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illinois-02-
+ 12-2027/event/040064BBFB87B15B
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illi
  nois-02-12-2027/event/040064BBFB87B15B
@@ -1123,22 +1123,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-brooklyn-nets-chicago-il
  linois-02-27-2027/event/0400650EE9002D2A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270227T190000
-UID:vv1A7Zkf-GkdGWc7s@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-02-27-2027/event/04006521CCF6D131\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-02-27-2027/event/04006521CCF6D131
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Colorado Avalanche
 DTSTART;TZID=America/Chicago:20270228T173000
 UID:vvG18Z_2e2HMhd@venue-calendar
@@ -1161,6 +1145,17 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-edmonton-oilers-chi
  cago-illinois-03-01-2027/event/040064F08FF976D4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HANS ZIMMER LIVE - THE NEXT LEVEL
+DTSTART;TZID=America/Chicago:20270305T193000
+UID:vv178Z_3GkTA7u7G@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Classical\nSub-genre: Classical/Vocal\nTic
+ kets: https://www.ticketmaster.com/hans-zimmer-live-the-next-level-chicago
+ -illinois-03-05-2027/event/0400652FC510D10C
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/hans-zimmer-live-the-next-level-chicago-i
+ llinois-03-05-2027/event/0400652FC510D10C
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Charlotte Hornets
 DTSTART;TZID=America/Chicago:20270306T160000
 UID:vv178Z_8GkDtv3VB@venue-calendar
@@ -1172,22 +1167,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-charlotte-hornets-chicag
  o-illinois-03-06-2027/event/0400650EE9052D3A
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270306T160000
-UID:vv1A7Zkf-GkdGXW7T@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-06-2027/event/04006521CCFBD13F\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-06-2027/event/04006521CCFBD13F
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Portland Trail Blazers
 DTSTART;TZID=America/Chicago:20270307T160000
 UID:vv178Z_8GkDtexgG@venue-calendar
@@ -1197,22 +1176,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-portland-trail-blazers-c
  hicago-illinois-03-07-2027/event/0400650EE90A2D4C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270307T160000
-UID:vv1A7Zkf-GkduZuA7@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-07-2027/event/04006521CD00D144\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-07-2027/event/04006521CD00D144
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Tampa Bay Lightning
@@ -1237,22 +1200,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-boston-celtics-chicago-i
  llinois-03-09-2027/event/0400650EE9102D59
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270309T190000
-UID:vv1A7Zkf-GkduvqAa@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-09-2027/event/04006521CD05D149\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-09-2027/event/04006521CD05D149
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Washington Capitals
 DTSTART;TZID=America/Chicago:20270310T190000
 UID:vvG18Z_2e8ZMhD@venue-calendar
@@ -1275,22 +1222,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-phoenix-suns-chicago-ill
  inois-03-11-2027/event/0400650EE9152D62
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270311T190000
-UID:vv1A7Zkf-GkdueqA8@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-11-2027/event/04006521CD09D150\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-11-2027/event/04006521CD09D150
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Memphis Grizzlies
 DTSTART;TZID=America/Chicago:20270313T190000
 UID:vv178Z_8GkDtkxgJ@venue-calendar
@@ -1300,22 +1231,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-memphis-grizzlies-chicag
  o-illinois-03-13-2027/event/0400650EE91A2D66
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270313T190000
-UID:vv1A7Zkf-GkdudcA9@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-13-2027/event/04006521CD0ED157\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-13-2027/event/04006521CD0ED157
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Anaheim Ducks
@@ -1340,22 +1255,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-orlando-magic-chicago-il
  linois-03-15-2027/event/0400650EE91F2D6C
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270315T190000
-UID:vv1A7Zkf-Gkdu7cAQ@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-15-2027/event/04006521CD12D15A\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-15-2027/event/04006521CD12D15A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. San Jose Sharks
 DTSTART;TZID=America/Chicago:20270316T190000
 UID:vvG18Z_2e8dMjJ@venue-calendar
@@ -1376,22 +1275,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-sacramento-kings-chicago
  -illinois-03-22-2027/event/0400650EE9252D7C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270322T190000
-UID:vv1A7Zkf-GkduAWA0@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-22-2027/event/04006521CD17D164\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-22-2027/event/04006521CD17D164
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Niall Horan: Dinner Party Live On Tour
@@ -1416,22 +1299,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-orlando-magic-chicago-il
  linois-03-24-2027/event/0400650EE92B2D89
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270324T190000
-UID:vv1A7Zkf-GkdukWAY@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-24-2027/event/04006521CD1BD170\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-24-2027/event/04006521CD1BD170
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Nashville Predators
 DTSTART;TZID=America/Chicago:20270326T190000
 UID:vvG18Z_2e8A6jW@venue-calendar
@@ -1452,22 +1319,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-la-clippers-chicago-illi
  nois-03-27-2027/event/0400650EE9312D9C
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270327T190000
-UID:vv1A7Zkf-GkduFcAV@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-27-2027/event/04006521CD22D174\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-27-2027/event/04006521CD22D174
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Seattle Kraken
@@ -1492,22 +1343,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-indiana-pacers-chicago-i
  llinois-03-29-2027/event/0400650EE8622B2D
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270329T190000
-UID:vv1A7Zkf-GkduaWAB@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-03-29-2027/event/04006521CD27D17A\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-03-29-2027/event/04006521CD27D17A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Detroit Pistons
 DTSTART;TZID=America/Chicago:20270402T190000
 UID:vv178Z_8GkDI93iL@venue-calendar
@@ -1519,22 +1354,6 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-detroit-pistons-chicago-
  illinois-04-02-2027/event/0400650EE85D2B1F
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270402T190000
-UID:vv1A7Zkf-Gkdu5ukv@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-04-02-2027/event/04006521CD2CD181\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-04-02-2027/event/04006521CD2CD181
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Charlotte Hornets
 DTSTART;TZID=America/Chicago:20270407T190000
 UID:vv178Z_8GkDI4wi4@venue-calendar
@@ -1544,22 +1363,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-charlotte-hornets-chicag
  o-illinois-04-07-2027/event/0400650EE8572B15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270407T190000
-UID:vv1A7Zkf-GkduGqkk@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-04-07-2027/event/04006521CD31D186\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-04-07-2027/event/04006521CD31D186
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Nashville Predators
@@ -1582,22 +1385,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-milwaukee-bucks-chicago-
  illinois-04-09-2027/event/0400650EE8512B00
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gameday Upgrade: Watch Warmups Pass
-DTSTART;TZID=America/Chicago:20270409T190000
-UID:vv1A7Zkf-Gkduuqku@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicago-illino
- is-04-09-2027/event/04006521CD35D18D\n\nEnter the United Center before doo
- rs open to watch the Bulls and the visiting team warm up! This is a great 
- way to see your favorite players up close. Note: This is not a game ticket
- . A corresponding game ticket is required for entry and to utilize your Wa
- tch Warmups Pass. Additional arrival instructions will be sent after your 
- purchase.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
- o-illinois-04-09-2027/event/04006521CD35D18D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Seattle Kraken
