@@ -745,6 +745,20 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-utah-jazz-chicago-illino
  is-12-16-2026/event/0400650EE8BE2C7A
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Nick Cannon Presents: Wild 'N Out Live - The Next Generation
+DTSTART;TZID=America/Chicago:20261217T200000
+UID:vv178Z_3Gkms21G5@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/nick-cannon-presents-wild-n-out-chicago-illinois-12-17-2026/e
+ vent/0400652BB13CA30B\n\nBy purchasing tickets to this event\, you agree t
+ o abide by the health and safety measures in effect at the time of the eve
+ nt. Check back often for updates to your event venue website as guidelines
+  are subject to change.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/nick-cannon-presents-wild-n-out-chicago-i
+ llinois-12-17-2026/event/0400652BB13CA30B
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PBR: Unleash the Beast
 DTSTART;TZID=America/Chicago:20261219T184500
 UID:vvG18Z_2YHFrUd@venue-calendar
