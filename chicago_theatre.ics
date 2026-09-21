@@ -6,72 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Gary Clark Jr.
-DTSTART;TZID=America/Chicago:20260917T193000
-UID:vvG1jZ_5wxkdd4@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/gary-clark-jr-chicago-illinois-09-17-2026/event/070064BC
- A21830D5\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
-  if applicable). Per the event organizer's request\, this event will be a 
- phone-free experience. Use of cellphones or recording devices (including s
- mart glasses) will not be permitted in the performance space. Upon arrival
-  at the venue\, all phones and recording accessories will be secured in Yo
- ndr pouches that will be opened at the end of the event. Guests maintain p
- ossession of their belongings at all times and can access their phones thr
- oughout the event at designated Phone Use Areas in the venue. Anyone seen 
- using a non-permitted device during the performance will be escorted out o
- f the venue. Guests are encouraged to bring a credit card for purchases in
- side the venue. By purchasing tickets to this event\, you agree to abide b
- y the health and safety measures in effect at the time of the event. Gover
- nment mandates\, venue protocols\, and event requirements are subject to c
- hange. Please visit www.chicagotheatre.com for more.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/gary-clark-jr-chicago-illinois-09-17-2026
- /event/070064BCA21830D5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atsuko Okatsuka: The Big Bowl Tour
-DTSTART;TZID=America/Chicago:20260918T200000
-UID:vvG1jZ_1hDC1uR@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago-illinois-09-18-2026
- /event/070064A6FB38A36F\n\nPLEASE NOTE: Pricing is all-in and includes fee
- s (before taxes if applicable). Mature Audience Only. Suggested for ages 1
- 8+. By purchasing tickets to this event\, you agree to abide by the health
-  and safety measures in effect at the time of the event. Government mandat
- es\, venue protocols\, and event requirements are subject to change. For m
- ore information\, please search your event on www.chicagotheatre.com. This
-  event may have immersive elements\, which may include flashing or strobe 
- lights\, intense lighting\, visual effects\, loud noises\, smoke and/or fo
- g. Such elements may aggravate certain medical or physical conditions\, an
- d guests should take this into consideration if they have a history of dis
- comfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago
- -illinois-09-18-2026/event/070064A6FB38A36F
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Atsuko Okatsuka: The Big Bowl Tour
-DTSTART;TZID=America/Chicago:20260919T190000
-UID:vvG1jZ_1KbvU0h@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago-illinois-09-19-2026
- /event/070064A4D807691B\n\nPLEASE NOTE: Pricing is all-in and includes fee
- s (before taxes if applicable). Mature Audience Only. Suggested for ages 1
- 8+. By purchasing tickets to this event\, you agree to abide by the health
-  and safety measures in effect at the time of the event. Government mandat
- es\, venue protocols\, and event requirements are subject to change. For m
- ore information\, please search your event on www.chicagotheatre.com. This
-  event may have immersive elements\, which may include flashing or strobe 
- lights\, intense lighting\, visual effects\, loud noises\, smoke and/or fo
- g. Such elements may aggravate certain medical or physical conditions\, an
- d guests should take this into consideration if they have a history of dis
- comfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/atsuko-okatsuka-the-big-bowl-tour-chicago
- -illinois-09-19-2026/event/070064A4D807691B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ilana Glazer Live!
 DTSTART;TZID=America/Chicago:20260922T190000
 UID:vvG1jZ_GXHbaxa@venue-calendar
@@ -642,24 +576,25 @@ URL:https://www.ticketmaster.com/the-parables-tour-with-father-mike-chicag
  o-illinois-10-28-2026/event/07006506B8C5786B
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Night with Xscape\, Plies\, and Pleasure P
+SUMMARY:A Night with Xscape\, Plies\, Case\, Pleasure P\, and Ann Marie
 DTSTART;TZID=America/Chicago:20261029T200000
 UID:vvG1jZ_CNyKf0x@venue-calendar
 DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /a-night-with-xscape-plies-and-chicago-illinois-10-29-2026/event/070064E8F
- 94D4922\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes 
- if applicable). By purchasing tickets to this event\, you agree to abide b
- y the health and safety measures in effect at the time of the event. Gover
- nment mandates\, venue protocols\, and event requirements are subject to c
- hange. For more information\, please search your event on www.chicagotheat
- re.com. This event may have immersive elements\, which may include flashin
- g or strobe lights\, intense lighting\, visual effects\, loud noises\, smo
- ke and/or fog. Such elements may aggravate certain medical or physical con
- ditions\, and guests should take this into consideration if they have a hi
- story of discomfort or physical symptoms when experiencing these elements.
+ /a-night-with-xscape-plies-case-chicago-illinois-10-29-2026/event/070064E8
+ F94D4922\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). By purchasing tickets to this event\, you agree to abide 
+ by the health and safety measures in effect at the time of the event. Gove
+ rnment mandates\, venue protocols\, and event requirements are subject to 
+ change. For more information\, please search your event on www.chicagothea
+ tre.com. This event may have immersive elements\, which may include flashi
+ ng or strobe lights\, intense lighting\, visual effects\, loud noises\, sm
+ oke and/or fog. Such elements may aggravate certain medical or physical co
+ nditions\, and guests should take this into consideration if they have a h
+ istory of discomfort or physical symptoms when experiencing these elements
+ .
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/a-night-with-xscape-plies-and-chicago-ill
- inois-10-29-2026/event/070064E8F94D4922
+URL:https://www.ticketmaster.com/a-night-with-xscape-plies-case-chicago-il
+ linois-10-29-2026/event/070064E8F94D4922
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Lemon & DL Hughley: DL + DL 'Anything Goes'
