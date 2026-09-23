@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:WEEZER: The Gathering
-DTSTART;TZID=America/Chicago:20260922T190000
-UID:vv178Z_kGkUTIbfC@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
- : https://www.ticketmaster.com/weezer-the-gathering-chicago-illinois-09-22
- -2026/event/0400646DBFA1850E
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/weezer-the-gathering-chicago-illinois-09-
- 22-2026/event/0400646DBFA1850E
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teddy Swims: The UGLY Tour
 DTSTART;TZID=America/Chicago:20260925T190000
 UID:vv178Z_FGkUXeURm@venue-calendar
@@ -58,20 +47,6 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago
  -illinois-09-29-2026/event/0400647EE9E5B7CE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lionel Richie and Earth\, Wind & Fire - Sing a Song All Night Long
-DTSTART;TZID=America/Chicago:20260930T193000
-UID:vv1A7Zk8VGkdEftdU@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
- s://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-chicago-illinoi
- s-09-30-2026/event/04006434E75290F6\n\nBy purchasing tickets to this event
- \, you agree to abide by the health and safety measures in effect at the t
- ime of the event. Check back often for updates to your event venue website
-  as guidelines are subject to change.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-chicago
- -illinois-09-30-2026/event/04006434E75290F6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN CHICAGO
@@ -388,10 +363,10 @@ DTSTART;TZID=America/Chicago:20261106T200000
 UID:vv1A7ZkfgGkdP4wPo@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
  ps://www.ticketmaster.com/swerv-friends-part-2-chicago-illinois-11-06-2026
- /event/04006535E5572951\n\nSwerve & Friends Part 2 will include G Herbo\, 
- Chance the Rapper\, Young Miami\, Young Thug\, GloRilla\, YTB Fatt\, Fabol
- ous\, Lucki\, Belly Gang Kushington\, and Peezy. Artist lineup subject to 
- change. No refunds or exchanges. All sales are final.
+ /event/04006535E5572951\n\nSwerv & Friends Part 2 will include G Herbo\, Y
+ oung Miami\, Young Thug\, GloRilla\, YTB Fatt\, Fabolous\, Belly Gang Kush
+ ington\, and Peezy. Artist lineup subject to change. No refunds or exchang
+ es. All sales are final.
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/swerv-friends-part-2-chicago-illinois-11-
  06-2026/event/04006535E5572951
@@ -1354,6 +1329,22 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-detroit-pistons-chicago-
  illinois-04-02-2027/event/0400650EE85D2B1F
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gameday Upgrade: High-Five Tunnel
+DTSTART;TZID=America/Chicago:20270402T190000
+UID:vv1A7Zkf-Gkdusc1-@venue-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/gam
+ eday-upgrade-highfive-tunnel-chicago-illinois-04-02-2027/event/04006521CDC
+ 6D2A1\n\nBe the first people to cheer the Bulls on as they run out to the 
+ court! You will get exclusive access to the player tunnel and cheer the Bu
+ lls on as they take the floor as a team. Note: This is not a game ticket. 
+ A corresponding game ticket is required for entry and to utilize your High
+ -Five Tunnel upgrade. Additional arrival instructions will be sent after y
+ our purchase.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/gameday-upgrade-highfive-tunnel-chicago-i
+ llinois-04-02-2027/event/04006521CDC6D2A1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Charlotte Hornets
 DTSTART;TZID=America/Chicago:20270407T190000
 UID:vv178Z_8GkDI4wi4@venue-calendar
@@ -1385,6 +1376,21 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-milwaukee-bucks-chicago-
  illinois-04-09-2027/event/0400650EE8512B00
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gameday Upgrade: Watch Warmups Pass
+DTSTART;TZID=America/Chicago:20270409T190000
+UID:vv1A7Zkf-Gkduuqku@venue-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/gam
+ eday-upgrade-watch-warmups-pass-chicago-illinois-04-09-2027/event/04006521
+ CD35D18D\n\nEnter the United Center before doors open to watch the Bulls a
+ nd the visiting team warm up! This is a great way to see your favorite pla
+ yers up close. Note: This is not a game ticket. A corresponding game ticke
+ t is required for entry and to utilize your Watch Warmups Pass. Additional
+  arrival instructions will be sent after your purchase.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
+ o-illinois-04-09-2027/event/04006521CD35D18D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Seattle Kraken
