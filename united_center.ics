@@ -618,6 +618,17 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-minnesota-wild-chic
  ago-illinois-11-29-2026/event/040064F09073788D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brent Faiyaz Live: I Spent The Night With Brent Faiyaz
+DTSTART;TZID=America/Chicago:20261130T200000
+UID:vv1A7ZkfwGkda-Klv@venue-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /brent-faiyaz-live-i-spent-the-chicago-illinois-11-30-2026/event/04006532C
+ 9853AC1
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/brent-faiyaz-live-i-spent-the-chicago-ill
+ inois-11-30-2026/event/04006532C9853AC1
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. New York Knicks
 DTSTART;TZID=America/Chicago:20261201T190000
 UID:vv178Z_8GkDIteYP@venue-calendar
@@ -1402,5 +1413,16 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
  ago-illinois-04-10-2027/event/040064F090237777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lizzy McAlpine: The Over Country Tour
+DTSTART;TZID=America/Chicago:20270629T190000
+UID:vv1A7ZkfgGkenM_SZ@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Adult Contemporary\nTicket
+ s: https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-chica
+ go-illinois-06-29-2027/event/04006535AADD9CC0
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/lizzy-mcalpine-the-over-country-tour-chic
+ ago-illinois-06-29-2027/event/04006535AADD9CC0
 END:VEVENT
 END:VCALENDAR
