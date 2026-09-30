@@ -6,24 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 T
- our
-DTSTART;TZID=America/Chicago:20260929T200000
-UID:vv178Z_6GkDtyhLC@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago-illinois-09-29
- -2026/event/0400647EE9E5B7CE\n\nNo Resale Over Face Value: Johnny Blue Ski
- es is using Ticketmaster's Face Value Exchange to help fans get tickets at
-  the original price. Tickets can only be resold on Ticketmaster at face va
- lue. States Blocking Artist Resale Terms: New York\, Illinois\, Colorado\,
-  Virginia\, Utah and Connecticut have state laws that prevent resale restr
- ictions. In those states\, Ticketmaster will still honor Johnny Blue Skies
- ' terms by keeping resale prices at face value on its site.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-chicago
- -illinois-09-29-2026/event/0400647EE9E5B7CE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN CHICAGO
 DTSTART;TZID=America/Chicago:20261002T193000
 UID:vvG18Z_1RQr5mp@venue-calendar
@@ -551,7 +533,7 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chica
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Legends Classic Presented by Old Trapper
-DTSTART;VALUE=DATE:20261115
+DTSTART;TZID=America/Chicago:20261115T133000
 UID:vvG18Z_un-rnou@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
  https://www.ticketmaster.com/legends-classic-presented-by-old-trapper-chic
