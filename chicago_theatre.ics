@@ -6,166 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Ilana Glazer Live!
-DTSTART;TZID=America/Chicago:20260922T190000
-UID:vvG1jZ_GXHbaxa@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/ilana-glazer-live-chicago-illinois-09-22-2026/event/070064CFB
- C609889\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes 
- if applicable). Mature Audiences Only: Suggested ages 15+. ARRIVE EARLY: P
- lease arrive 60-minutes prior to showtime. Doors will open at 6:00 PM. All
-  packages\, including briefcases and pocketbooks\, will be inspected prior
-  to entry. By purchasing tickets to this event\, you agree to abide by the
-  health and safety measures in effect at the time of the event. Government
-  mandates\, venue protocols\, and event requirements are subject to change
- . For more information\, please search for your event on www.chicagotheatr
- e.com. This event may have immersive elements\, which may include flashing
-  or strobe lights\, intense lighting\, visual effects\, loud noises\, smok
- e and/or fog. Such elements may aggravate certain medical or physical cond
- itions\, and guests should take this into consideration if they have a his
- tory of discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/ilana-glazer-live-chicago-illinois-09-22-
- 2026/event/070064CFBC609889
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Laura Ramoso: The Calm Down Tour
-DTSTART;TZID=America/Chicago:20260925T193000
-UID:vv17jZ_kGkcVOoSJ@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/laura-ramoso-the-calm-down-tour-chicago-illinois-09-25-2026/e
- vent/0700646B74811CE6\n\nPLEASE NOTE: Pricing is all-in and includes fees 
- (before taxes if applicable). Mature audience only. By purchasing tickets 
- to this event\, you agree to abide by the health and safety measures in ef
- fect at the time of the event. Government mandates\, venue protocols\, and
-  event requirements are subject to change. For more information\, please s
- earch your event on www.chicagotheatre.com. This event may have immersive 
- elements\, which may include flashing or strobe lights\, intense lighting
- \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
- avate certain medical or physical conditions\, and guests should take this
-  into consideration if they have a history of discomfort or physical sympt
- oms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/laura-ramoso-the-calm-down-tour-chicago-i
- llinois-09-25-2026/event/0700646B74811CE6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bassem Youssef: The Belly of the Beast Tour
-DTSTART;TZID=America/Chicago:20260926T190000
-UID:vv1A6Zko0GkeOGA1r@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bassem-youssef-the-belly-of-the-chicago-illinois-09-26-2026/e
- vent/07006464A030529E\n\nPLEASE NOTE: Pricing is all-in and includes fees 
- (before taxes if applicable). By purchasing tickets to this event\, you ag
- ree to abide by the health and safety measures in effect at the time of th
- e event. Government mandates\, venue protocols\, and event requirements ar
- e subject to change. For more information\, please search your event on ww
- w.chicagotheatre.com. This event may have immersive elements\, which may i
- nclude flashing or strobe lights\, intense lighting\, visual effects\, lou
- d noises\, smoke and/or fog. Such elements may aggravate certain medical o
- r physical conditions\, and guests should take this into consideration if 
- they have a history of discomfort or physical symptoms when experiencing t
- hese elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bassem-youssef-the-belly-of-the-chicago-i
- llinois-09-26-2026/event/07006464A030529E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sara Bareilles: The Good Grief Tour
-DTSTART;TZID=America/Chicago:20260927T200000
-UID:vvG1jZ_5UmAVxl@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/sara-bareilles-the-good-grief-tour-chicago-illinois-09-2
- 7-2026/event/070064BDAE1748AB\n\nPLEASE NOTE: Pricing is all-in and includ
- es fees (before taxes if applicable). Resale tickets may exceed face value
-  and prices are NOT set by the artist team. Sara Bareilles has partnered w
- ith PLUS1 so that $1 per ticket sold\, and not refunded for the Chicago Th
- eatre show\, will be contributed by Live Nation to help protect emotional 
- health and prevent suicide among teens and young adults through the JED Fo
- undation. No portion of the purchase price is tax-deductible. ARRIVE EARLY
- : Please arrive 60-minutes prior to showtime. All packages\, including bri
- efcases and pocketbooks\, will be inspected prior to entry. By purchasing 
- tickets to this event\, you agree to abide by the health and safety measur
- es in effect at the time of the event. Government mandates\, venue protoco
- ls\, and event requirements are subject to change. For more information\, 
- please search for your event on www.chicagotheatre.com. This event may hav
- e immersive elements\, which may include flashing or strobe lights\, inten
- se ligh
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/sara-bareilles-the-good-grief-tour-chicag
- o-illinois-09-27-2026/event/070064BDAE1748AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sara Bareilles: The Good Grief Tour
-DTSTART;TZID=America/Chicago:20260928T200000
-UID:vvG1jZ_5Um6fxw@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/sara-bareilles-the-good-grief-tour-chicago-illinois-09-2
- 8-2026/event/070064BDAE1D48B2\n\nPLEASE NOTE: Pricing is all-in and includ
- es fees (before taxes if applicable). Resale tickets may exceed face value
-  and prices are NOT set by the artist team. Sara Bareilles has partnered w
- ith PLUS1 so that $1 per ticket sold\, and not refunded for the Chicago Th
- eatre show\, will be contributed by Live Nation to help protect emotional 
- health and prevent suicide among teens and young adults through the JED Fo
- undation. No portion of the purchase price is tax-deductible. ARRIVE EARLY
- : Please arrive 60-minutes prior to showtime. All packages\, including bri
- efcases and pocketbooks\, will be inspected prior to entry. By purchasing 
- tickets to this event\, you agree to abide by the health and safety measur
- es in effect at the time of the event. Government mandates\, venue protoco
- ls\, and event requirements are subject to change. For more information\, 
- please search for your event on www.chicagotheatre.com. This event may hav
- e immersive elements\, which may include flashing or strobe lights\, inten
- se ligh
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/sara-bareilles-the-good-grief-tour-chicag
- o-illinois-09-28-2026/event/070064BDAE1D48B2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bill Burr Live
-DTSTART;TZID=America/Chicago:20260930T190000
-UID:vvG1jZ_5SIKk3_@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bill-burr-live-chicago-illinois-09-30-2026/event/070064BCE84C
- 6499\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). Per the event organizer's request\, this event will be a phon
- e-free experience. Use of cellphones or recording devices (including smart
-  glasses) will not be permitted in the performance space. Upon arrival at 
- the venue\, all phones and recording accessories will be secured in Yondr 
- pouches that will be opened at the end of the event. Guests maintain posse
- ssion of their belongings at all times and can access their phones through
- out the event at designated Phone Use Areas in the venue. Anyone seen usin
- g a non-permitted device during the performance will be escorted out of th
- e venue. Guests are encouraged to bring a credit card for purchases inside
-  the venue. By purchasing tickets to this event\, you agree to abide by th
- e health and safety measures in effect at the time of the event. Governmen
- t mandates\, venue protocols\, and event requirements are subject to chang
- e. Please visit www.chicagotheatre.com for more.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-09-30-202
- 6/event/070064BCE84C6499
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insecure: The 10th Anniversary Tour
-DTSTART;TZID=America/Chicago:20261001T200000
-UID:vvG1jZ_CNmP0uz@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/insecure-the-10th-anniversary-tour-chicago-illinois-10-01-202
- 6/event/070064E8EE964378\n\nPLEASE NOTE: Pricing is all-in and includes fe
- es (before taxes if applicable). Mature Audiences Only: Suggested ages 18+
- . By purchasing tickets to this event\, you agree to abide by the health a
- nd safety measures in effect at the time of the event. Government mandates
- \, venue protocols\, and event requirements are subject to change. For mor
- e information\, please search your event on www.chicagotheatre.com. This e
- vent may have immersive elements\, which may include flashing or strobe li
- ghts\, intense lighting\, visual effects\, loud noises\, smoke and/or fog.
-  Such elements may aggravate certain medical or physical conditions\, and 
- guests should take this into consideration if they have a history of disco
- mfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/insecure-the-10th-anniversary-tour-chicag
- o-illinois-10-01-2026/event/070064E8EE964378
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MrBallen: Lights out Live
 DTSTART;TZID=America/Chicago:20261002T193000
 UID:vv17jZ_kGkSMZnGI@venue-calendar
@@ -1146,6 +986,27 @@ URL:https://www.ticketmaster.com/twilight-in-concert-chicago-illinois-02-2
  8-2027/event/07006519CE265EDD
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Roger Waters Presents LEGACY - A Pink Floyd Show
+DTSTART;TZID=America/Chicago:20270306T200000
+UID:vv1A6ZkfyGkeyGUna@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/roger-waters-presents-legacy-a-pink-chicago-illinois-03-
+ 06-2027/event/07006539B9336A89\n\nPLEASE NOTE: Pricing is all-in and inclu
+ des fees (before taxes if applicable). By purchasing tickets to this event
+ \, you agree to abide by the health and safety measures in effect at the t
+ ime of the event. Government mandates\, venue protocols\, and event requir
+ ements are subject to change. For more information\, please search your ev
+ ent on www.chicagotheatre.com. This event may have immersive elements\, wh
+ ich may include flashing or strobe lights\, intense lighting\, visual effe
+ cts\, loud noises\, smoke and/or fog. Such elements may aggravate certain 
+ medical or physical conditions\, and guests should take this into consider
+ ation if they have a history of discomfort or physical symptoms when exper
+ iencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/roger-waters-presents-legacy-a-pink-chica
+ go-illinois-03-06-2027/event/07006539B9336A89
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Basement Yard Live
 DTSTART;TZID=America/Chicago:20270312T200000
 UID:vvG1jZ_GpL87gr@venue-calendar
@@ -1196,6 +1057,26 @@ URL:https://www.ticketmaster.com/the-basement-yard-live-chicago-illinois-0
  3-13-2027/event/070064C59F464D6B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ali Wong Live
+DTSTART;TZID=America/Chicago:20270319T200000
+UID:vv1A6ZkfYGkdSnIVU@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/ali-wong-live-chicago-illinois-03-19-2027/event/07006530F3AA8
+ D36\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if a
+ pplicable). By purchasing tickets to this event\, you agree to abide by th
+ e health and safety measures in effect at the time of the event. Governmen
+ t mandates\, venue protocols\, and event requirements are subject to chang
+ e. For more information\, please search your event on www.chicagotheatre.c
+ om. This event may have immersive elements\, which may include flashing or
+  strobe lights\, intense lighting\, visual effects\, loud noises\, smoke a
+ nd/or fog. Such elements may aggravate certain medical or physical conditi
+ ons\, and guests should take this into consideration if they have a histor
+ y of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/ali-wong-live-chicago-illinois-03-19-2027
+ /event/07006530F3AA8D36
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RuPaul's Drag Race Werq The World 2027 Tour
 DTSTART;TZID=America/Chicago:20270327T200000
 UID:vvG1jZ_5CNedA5@venue-calendar
@@ -1215,6 +1096,27 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Performance Art\nTickets: https:/
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/rupauls-drag-race-werq-the-world-chicago-
  illinois-03-27-2027/event/070064B3A308314B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carly Rae Jepsen: Day and Night Tour
+DTSTART;TZID=America/Chicago:20270521T193000
+UID:vv17jZ_KGkBBDISc@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/carly-rae-jepsen-day-and-night-chicago-illinois-0
+ 5-21-2027/event/0700653EBAEE8CED\n\nPLEASE NOTE: Pricing is all-in and inc
+ ludes fees (before taxes if applicable). By purchasing tickets to this eve
+ nt\, you agree to abide by the health and safety measures in effect at the
+  time of the event. Government mandates\, venue protocols\, and event requ
+ irements are subject to change. For more information\, please search your 
+ event on www.chicagotheatre.com. This event may have immersive elements\, 
+ which may include flashing or strobe lights\, intense lighting\, visual ef
+ fects\, loud noises\, smoke and/or fog. Such elements may aggravate certai
+ n medical or physical conditions\, and guests should take this into consid
+ eration if they have a history of discomfort or physical symptoms when exp
+ eriencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-chicago-il
+ linois-05-21-2027/event/0700653EBAEE8CED
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yusuf / Cat Stevens: Cat On The Road To Findout - The Book Tour
@@ -1238,5 +1140,26 @@ DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/yusuf-cat-stevens-cat-on-the-chicago-illi
  nois-09-28-2027/event/070062B0F8105896
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iliza Shlesinger: Free Nights & Weekends
+DTSTART;TZID=America/Chicago:20271113T200000
+UID:vv1A6ZkfzGkenb0fV@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/iliza-shlesinger-free-nights-weekends-chicago-illinois-11-13-
+ 2027/event/07006538AA624534\n\nPLEASE NOTE: Pricing is all-in and includes
+  fees (before taxes if applicable). By purchasing tickets to this event\, 
+ you agree to abide by the health and safety measures in effect at the time
+  of the event. Government mandates\, venue protocols\, and event requireme
+ nts are subject to change. For more information\, please search your event
+  on www.chicagotheatre.com. This event may have immersive elements\, which
+  may include flashing or strobe lights\, intense lighting\, visual effects
+ \, loud noises\, smoke and/or fog. Such elements may aggravate certain med
+ ical or physical conditions\, and guests should take this into considerati
+ on if they have a history of discomfort or physical symptoms when experien
+ cing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/iliza-shlesinger-free-nights-weekends-chi
+ cago-illinois-11-13-2027/event/07006538AA624534
 END:VEVENT
 END:VCALENDAR
