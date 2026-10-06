@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:JOURNEY - Final Frontier Tour (An Evening With)
-DTSTART;TZID=America/Chicago:20261005T193000
-UID:vvG18Z_1fNynZS@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/journey-final-frontier-tour-an-evening-chicago-illinois-
- 10-05-2026/event/040064A523E6A033
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/journey-final-frontier-tour-an-evening-ch
- icago-illinois-10-05-2026/event/040064A523E6A033
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. St. Louis Blues
 DTSTART;TZID=America/Chicago:20261006T190000
 UID:vvG18Z_2e81ErQ@venue-calendar
@@ -1559,6 +1548,17 @@ DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/gam
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/gameday-upgrade-watch-warmups-pass-chicag
  o-illinois-02-04-2027/event/04006521CCE3D105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Leanne Morgan- The Time of Our Lives Tour 
+DTSTART;TZID=America/Chicago:20270205T190000
+UID:vv1A7Zk4AGkeIhbaf@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/leanne-morgan-the-time-of-our-chicago-illinois-02-05-2027/eve
+ nt/04006545A86D8254
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/leanne-morgan-the-time-of-our-chicago-ill
+ inois-02-05-2027/event/04006545A86D8254
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. New Orleans Pelicans
