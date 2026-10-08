@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Pre-Season: Chicago Bulls v Phoenix Suns
-DTSTART;TZID=America/Chicago:20261007T190000
-UID:vv178Z_8GkDI_wcF@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/preseason-chicago-bulls-v-phoenix-suns-chicago-il
- linois-10-07-2026/event/0400650EE8672B48
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/preseason-chicago-bulls-v-phoenix-suns-ch
- icago-illinois-10-07-2026/event/0400650EE8672B48
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gorillaz - The Mountain Tour
 DTSTART;TZID=America/Chicago:20261008T193000
 UID:vv1A7Zko_GkdGJoO2@venue-calendar
@@ -1407,6 +1396,17 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-orlando-magic-chicago-il
  linois-03-24-2027/event/0400650EE92B2D89
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Def Leppard and Goo Goo Dolls  
+DTSTART;TZID=America/Chicago:20270325T190000
+UID:vv1k8Z_fGKG7DL8f@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/def-leppard-and-goo-goo-dolls-chicago-illinois-03-25-202
+ 7/event/0400654313EDF414
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/def-leppard-and-goo-goo-dolls-chicago-ill
+ inois-03-25-2027/event/0400654313EDF414
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Nashville Predators
