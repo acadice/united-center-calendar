@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Gorillaz - The Mountain Tour
-DTSTART;TZID=America/Chicago:20261008T193000
-UID:vv1A7Zko_GkdGJoO2@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
- : https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illinois
- -10-08-2026/event/04006459CC99180F
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/gorillaz-the-mountain-tour-chicago-illino
- is-10-08-2026/event/04006459CC99180F
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pre-Season: Chicago Bulls v Memphis Grizzlies
 DTSTART;TZID=America/Chicago:20261009T190000
 UID:vv178Z_8GkDIhecb@venue-calendar
@@ -1154,6 +1143,17 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-st-louis-blues-chic
  ago-illinois-02-17-2027/event/040064F08FD87633
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nickelback: Everything Under The Sun Tour
+DTSTART;TZID=America/Chicago:20270218T183000
+UID:vv1A7Zk4AGkexO6EL@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
+ : https://www.ticketmaster.com/nickelback-everything-under-the-sun-tour-ch
+ icago-illinois-02-18-2027/event/04006545A28079DF
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/nickelback-everything-under-the-sun-tour-
+ chicago-illinois-02-18-2027/event/04006545A28079DF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Minnesota Wild
