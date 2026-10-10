@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Pre-Season: Chicago Bulls v Memphis Grizzlies
-DTSTART;TZID=America/Chicago:20261009T190000
-UID:vv178Z_8GkDIhecb@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/preseason-chicago-bulls-v-memphis-grizzlies-chica
- go-illinois-10-09-2026/event/0400650EE86C2B58
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/preseason-chicago-bulls-v-memphis-grizzli
- es-chicago-illinois-10-09-2026/event/0400650EE86C2B58
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Carolina Hurricanes
 DTSTART;TZID=America/Chicago:20261010T180000
 UID:vvG18Z_2e85MrN@venue-calendar
