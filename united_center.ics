@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Olivia Rodrigo: The Unraveled Tour
-DTSTART;TZID=America/Chicago:20261012T190000
-UID:vv178Z_aGkMlEBGy@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
- s://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago-illinoi
- s-10-12-2026/event/0400649DEB9FA339
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-chicago
- -illinois-10-12-2026/event/0400649DEB9FA339
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Pittsburgh Penguins
 DTSTART;TZID=America/Chicago:20261013T190000
 UID:vvG18Z_2e8u6rR@venue-calendar
@@ -1473,6 +1462,17 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
  ago-illinois-04-10-2027/event/040064F090237777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Calvin Harris - North America Tour
+DTSTART;TZID=America/Chicago:20270430T200000
+UID:vv1A7Zk4FGkdZMu0D@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-illinois
+ -04-30-2027/event/04006548C0DCD93B
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-
+ illinois-04-30-2027/event/04006548C0DCD93B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Love of Soul Tour
