@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Winnipeg Jets
-DTSTART;TZID=America/Chicago:20261015T190000
-UID:vvG18Z_2e8CEL7@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chicago-illinois-
- 10-15-2026/event/040064F0903A77C4
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chica
- go-illinois-10-15-2026/event/040064F0903A77C4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pre-Season: Chicago Bulls v Minnesota Timberwolves
 DTSTART;TZID=America/Chicago:20261016T190000
 UID:vv178Z_8GkDIj3cg@venue-calendar
