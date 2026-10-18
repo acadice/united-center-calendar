@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Dallas Stars
-DTSTART;TZID=America/Chicago:20261017T180000
-UID:vvG18Z_2e82ML4@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicago-illinois-1
- 0-17-2026/event/040064F0903F77D5
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-dallas-stars-chicag
- o-illinois-10-17-2026/event/040064F0903F77D5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disney Descendants\, ZOMBIES & Camp Rock: Worlds Collide Concert T
  our
 DTSTART;TZID=America/Chicago:20261019T190000
@@ -1421,7 +1410,7 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calvin Harris - North America Tour
-DTSTART;TZID=America/Chicago:20270430T200000
+DTSTART;TZID=America/Chicago:20270430T193000
 UID:vv1A7Zk4FGkdZMu0D@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
  s://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-illinois
