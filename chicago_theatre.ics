@@ -6,243 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:MrBallen: Lights out Live
-DTSTART;TZID=America/Chicago:20261002T193000
-UID:vv17jZ_kGkSMZnGI@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Theatre\nSub-genre: Podcast\nTick
- ets: https://www.ticketmaster.com/mrballen-lights-out-live-chicago-illinoi
- s-10-02-2026/event/0700646CF702A328\n\nPLEASE NOTE: Pricing is all-in and 
- includes fees (before taxes if applicable). By purchasing tickets to this 
- event\, you agree to abide by the health and safety measures in effect at 
- the time of the event. Government mandates\, venue protocols\, and event r
- equirements are subject to change. For more information\, please search yo
- ur event on www.chicagotheatre.com. This event may have immersive elements
- \, which may include flashing or strobe lights\, intense lighting\, visual
-  effects\, loud noises\, smoke and/or fog. Such elements may aggravate cer
- tain medical or physical conditions\, and guests should take this into con
- sideration if they have a history of discomfort or physical symptoms when 
- experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/mrballen-lights-out-live-chicago-illinois
- -10-02-2026/event/0700646CF702A328
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bill Burr Live
-DTSTART;TZID=America/Chicago:20261002T193000
-UID:vvG1jZ_5SI2k36@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bill-burr-live-chicago-illinois-10-02-2026/event/070064BCE83C
- 6487\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). Per the event organizer's request\, this event will be a phon
- e-free experience. Use of cellphones or recording devices (including smart
-  glasses) will not be permitted in the performance space. Upon arrival at 
- the venue\, all phones and recording accessories will be secured in Yondr 
- pouches that will be opened at the end of the event. Guests maintain posse
- ssion of their belongings at all times and can access their phones through
- out the event at designated Phone Use Areas in the venue. Anyone seen usin
- g a non-permitted device during the performance will be escorted out of th
- e venue. Guests are encouraged to bring a credit card for purchases inside
-  the venue. By purchasing tickets to this event\, you agree to abide by th
- e health and safety measures in effect at the time of the event. Governmen
- t mandates\, venue protocols\, and event requirements are subject to chang
- e. Please visit www.chicagotheatre.com for more.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-10-02-202
- 6/event/070064BCE83C6487
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bill Burr Live
-DTSTART;TZID=America/Chicago:20261003T190000
-UID:vvG1jZ_5SI8p35@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bill-burr-live-chicago-illinois-10-03-2026/event/070064BCE841
- 648B\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). Per the event organizer's request\, this event will be a phon
- e-free experience. Use of cellphones or recording devices (including smart
-  glasses) will not be permitted in the performance space. Upon arrival at 
- the venue\, all phones and recording accessories will be secured in Yondr 
- pouches that will be opened at the end of the event. Guests maintain posse
- ssion of their belongings at all times and can access their phones through
- out the event at designated Phone Use Areas in the venue. Anyone seen usin
- g a non-permitted device during the performance will be escorted out of th
- e venue. Guests are encouraged to bring a credit card for purchases inside
-  the venue. By purchasing tickets to this event\, you agree to abide by th
- e health and safety measures in effect at the time of the event. Governmen
- t mandates\, venue protocols\, and event requirements are subject to chang
- e. Please visit www.chicagotheatre.com for more.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-10-03-202
- 6/event/070064BCE841648B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bill Burr Live
-DTSTART;TZID=America/Chicago:20261003T220000
-UID:vvG1jZ_5SIoJ33@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bill-burr-live-chicago-illinois-10-03-2026/event/070064BCE846
- 6492\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). Per the event organizer's request\, this event will be a phon
- e-free experience. Use of cellphones or recording devices (including smart
-  glasses) will not be permitted in the performance space. Upon arrival at 
- the venue\, all phones and recording accessories will be secured in Yondr 
- pouches that will be opened at the end of the event. Guests maintain posse
- ssion of their belongings at all times and can access their phones through
- out the event at designated Phone Use Areas in the venue. Anyone seen usin
- g a non-permitted device during the performance will be escorted out of th
- e venue. Guests are encouraged to bring a credit card for purchases inside
-  the venue. By purchasing tickets to this event\, you agree to abide by th
- e health and safety measures in effect at the time of the event. Governmen
- t mandates\, venue protocols\, and event requirements are subject to chang
- e. Please visit www.chicagotheatre.com for more.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bill-burr-live-chicago-illinois-10-03-202
- 6/event/070064BCE8466492
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Souvenirs: 80 Years of John Prine Presented by the Prine Family
-DTSTART;TZID=America/Chicago:20261008T193000
-UID:vvG1jZ_14UFs0m@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
- .com/souvenirs-80-years-of-john-prine-chicago-illinois-10-08-2026/event/07
- 0064A57623192E\n\nPLEASE NOTE: Pricing is all-in and includes fees (before
-  taxes if applicable). Lineup subject to change. By purchasing tickets to 
- this event\, you agree to abide by the health and safety measures in effec
- t at the time of the event. Government mandates\, venue protocols\, and ev
- ent requirements are subject to change. For more information\, please sear
- ch your event on www.chicagotheatre.com. This event may have immersive ele
- ments\, which may include flashing or strobe lights\, intense lighting\, v
- isual effects\, loud noises\, smoke and/or fog. Such elements may aggravat
- e certain medical or physical conditions\, and guests should take this int
- o consideration if they have a history of discomfort or physical symptoms 
- when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/souvenirs-80-years-of-john-prine-chicago-
- illinois-10-08-2026/event/070064A57623192E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jerry Seinfeld
-DTSTART;TZID=America/Chicago:20261009T190000
-UID:vv1A6Zk3bGkeyB92r@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/jerry-seinfeld-chicago-illinois-10-09-2026/event/07006498B9E9
- 73DE\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). By purchasing tickets to this event\, you agree to abide by t
- he health and safety measures in effect at the time of the event. Governme
- nt mandates\, venue protocols\, and event requirements are subject to chan
- ge. For more information\, please search your event on www.chicagotheatre.
- com. This event may have immersive elements\, which may include flashing o
- r strobe lights\, intense lighting\, visual effects\, loud noises\, smoke 
- and/or fog. Such elements may aggravate certain medical or physical condit
- ions\, and guests should take this into consideration if they have a histo
- ry of discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/jerry-seinfeld-chicago-illinois-10-09-202
- 6/event/07006498B9E973DE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jerry Seinfeld
-DTSTART;TZID=America/Chicago:20261010T170000
-UID:vv1A6Zk3bGkeyX98k@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/jerry-seinfeld-chicago-illinois-10-10-2026/event/07006498B9F9
- 7406\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). By purchasing tickets to this event\, you agree to abide by t
- he health and safety measures in effect at the time of the event. Governme
- nt mandates\, venue protocols\, and event requirements are subject to chan
- ge. For more information\, please search your event on www.chicagotheatre.
- com. This event may have immersive elements\, which may include flashing o
- r strobe lights\, intense lighting\, visual effects\, loud noises\, smoke 
- and/or fog. Such elements may aggravate certain medical or physical condit
- ions\, and guests should take this into consideration if they have a histo
- ry of discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/jerry-seinfeld-chicago-illinois-10-10-202
- 6/event/07006498B9F97406
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jerry Seinfeld
-DTSTART;TZID=America/Chicago:20261010T200000
-UID:vv1A6Zk3bGkeyW62X@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/jerry-seinfeld-chicago-illinois-10-10-2026/event/07006498B9F4
- 73FE\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if 
- applicable). By purchasing tickets to this event\, you agree to abide by t
- he health and safety measures in effect at the time of the event. Governme
- nt mandates\, venue protocols\, and event requirements are subject to chan
- ge. For more information\, please search your event on www.chicagotheatre.
- com. This event may have immersive elements\, which may include flashing o
- r strobe lights\, intense lighting\, visual effects\, loud noises\, smoke 
- and/or fog. Such elements may aggravate certain medical or physical condit
- ions\, and guests should take this into consideration if they have a histo
- ry of discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/jerry-seinfeld-chicago-illinois-10-10-202
- 6/event/07006498B9F473FE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ROBERT PLANT WITH SAVING GRACE and SUZI DIAN
-DTSTART;TZID=America/Chicago:20261015T193000
-UID:vvG1jZ_GpN-guA@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/robert-plant-with-saving-grace-and-chicago-illinois-10-1
- 5-2026/event/070064C5A3875345\n\nPLEASE NOTE: Pricing is all-in and includ
- es fees (before taxes if applicable). By purchasing tickets to this event
- \, you agree to abide by the health and safety measures in effect at the t
- ime of the event. Government mandates\, venue protocols\, and event requir
- ements are subject to change. For more information\, please search your ev
- ent on www.chicagotheatre.com. This event may have immersive elements\, wh
- ich may include flashing or strobe lights\, intense lighting\, visual effe
- cts\, loud noises\, smoke and/or fog. Such elements may aggravate certain 
- medical or physical conditions\, and guests should take this into consider
- ation if they have a history of discomfort or physical symptoms when exper
- iencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/robert-plant-with-saving-grace-and-chicag
- o-illinois-10-15-2026/event/070064C5A3875345
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brad Williams: The Tall Tales Tour
-DTSTART;TZID=America/Chicago:20261016T193000
-UID:vv17jZbUGkRAvEA8@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/brad-williams-the-tall-tales-tour-chicago-illinois-10-16-2026
- /event/0700636BC5067150\n\nPLEASE NOTE: Pricing is all-in and includes fee
- s (before taxes if applicable). By purchasing tickets to this event\, you 
- agree to abide by the health and safety measures in effect at the time of 
- the event. Government mandates\, venue protocols\, and event requirements 
- are subject to change. For more information\, please search your event on 
- www.chicagotheatre.com. This event may have immersive elements\, which may
-  include flashing or strobe lights\, intense lighting\, visual effects\, l
- oud noises\, smoke and/or fog. Such elements may aggravate certain medical
-  or physical conditions\, and guests should take this into consideration i
- f they have a history of discomfort or physical symptoms when experiencing
-  these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/brad-williams-the-tall-tales-tour-chicago
- -illinois-10-16-2026/event/0700636BC5067150
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ben Schwartz & Friends
-DTSTART;TZID=America/Chicago:20261017T190000
-UID:vv1A6ZkoAGkei24ir@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/ben-schwartz-friends-chicago-illinois-10-17-2026/event/070064
- 45AC3D5B1E\n\nPLEASE NOTE: Pricing is all-in and includes fees (before tax
- es if applicable). By purchasing tickets to this event\, you agree to abid
- e by the health and safety measures in effect at the time of the event. Go
- vernment mandates\, venue protocols\, and event requirements are subject t
- o change. For more information\, please search your event on www.chicagoth
- eatre.com. This event may have immersive elements\, which may include flas
- hing or strobe lights\, intense lighting\, visual effects\, loud noises\, 
- smoke and/or fog. Such elements may aggravate certain medical or physical 
- conditions\, and guests should take this into consideration if they have a
-  history of discomfort or physical symptoms when experiencing these elemen
- ts.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/ben-schwartz-friends-chicago-illinois-10-
- 17-2026/event/07006445AC3D5B1E
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tedeschi Trucks Band: Future Soul 2026 Tour
 DTSTART;TZID=America/Chicago:20261023T193000
 UID:vv1A6Zk8UGkelxUxF@venue-calendar
@@ -285,17 +48,18 @@ URL:https://www.ticketmaster.com/tedeschi-trucks-band-future-soul-2026-chi
  cago-illinois-10-24-2026/event/07006436AB9068AC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THIS IS NOT AN EVENT TICKET: PERSONALIZED SIGNED TOUR POSTER
+SUMMARY:NOT AN EVENT TICKET: BRETT GOLDSTEIN PERSONALIZED SIGNED TOUR POST
+ ER
 DTSTART;TZID=America/Chicago:20261025T160000
 UID:vv1kjZ_o8gG7WmZB@venue-calendar
-DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/thi
- s-is-not-an-event-ticket-chicago-illinois-10-25-2026/event/0700651435F6E03
- A\n\nReceive a personalized\, numbered and signed tour poster by Brett Gol
- dstein. Posters will be available for pickup on the night of the show. ($7
- 5 + taxes and fees)
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/not
+ -an-event-ticket-brett-goldstein-chicago-illinois-10-25-2026/event/0700651
+ 435F6E03A\n\nReceive a personalized\, numbered and signed tour poster by B
+ rett Goldstein. Posters will be available for pickup on the night of the s
+ how. ($75 + taxes and fees)
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/this-is-not-an-event-ticket-chicago-illin
- ois-10-25-2026/event/0700651435F6E03A
+URL:https://www.ticketmaster.com/not-an-event-ticket-brett-goldstein-chica
+ go-illinois-10-25-2026/event/0700651435F6E03A
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brett Goldstein: Sex\, Death & Small Talk
@@ -340,17 +104,18 @@ URL:https://www.ticketmaster.com/brett-goldstein-sex-death-small-talk-chic
  ago-illinois-10-25-2026/event/0700650EA6B35BAA
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:THIS IS NOT AN EVENT TICKET: PERSONALIZED SIGNED TOUR POSTER
+SUMMARY:NOT AN EVENT TICKET: BRETT GOLDSTEIN PERSONALIZED SIGNED TOUR POST
+ ER
 DTSTART;TZID=America/Chicago:20261025T190000
 UID:vv1A6ZkfoGkeBx75x@venue-calendar
-DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/thi
- s-is-not-an-event-ticket-chicago-illinois-10-25-2026/event/07006511BA8842E
- 2\n\nReceive a personalized\, numbered and signed tour poster by Brett Gol
- dstein. Posters will be available for pickup on the night of the show. ($7
- 5 + taxes and fees)
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/not
+ -an-event-ticket-brett-goldstein-chicago-illinois-10-25-2026/event/0700651
+ 1BA8842E2\n\nReceive a personalized\, numbered and signed tour poster by B
+ rett Goldstein. Posters will be available for pickup on the night of the s
+ how. ($75 + taxes and fees)
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/this-is-not-an-event-ticket-chicago-illin
- ois-10-25-2026/event/07006511BA8842E2
+URL:https://www.ticketmaster.com/not-an-event-ticket-brett-goldstein-chica
+ go-illinois-10-25-2026/event/07006511BA8842E2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tedeschi Trucks Band: Future Soul 2026 Tour
@@ -941,6 +706,27 @@ URL:https://www.ticketmaster.com/aries-spears-chicago-illinois-02-19-2027/
  event/0700650DAE504C20
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bianca Del Rio: It Gets Bitter - World Comedy Tour
+DTSTART;TZID=America/Chicago:20270220T200000
+UID:vv1A6Zk4eGkeIgVH0@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/bianca-del-rio-it-gets-bitter-chicago-illinois-02-20-2027/eve
+ nt/07006542A8D74F24\n\nPLEASE NOTE: Pricing is all-in and includes fees (b
+ efore taxes if applicable). Mature Audiences Only: Suggested for ages 16+.
+  By purchasing tickets to this event\, you agree to abide by the health an
+ d safety measures in effect at the time of the event. Government mandates
+ \, venue protocols\, and event requirements are subject to change. For mor
+ e information\, please search your event on www.chicagotheatre.com. This e
+ vent may have immersive elements\, which may include flashing or strobe li
+ ghts\, intense lighting\, visual effects\, loud noises\, smoke and/or fog.
+  Such elements may aggravate certain medical or physical conditions\, and 
+ guests should take this into consideration if they have a history of disco
+ mfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/bianca-del-rio-it-gets-bitter-chicago-ill
+ inois-02-20-2027/event/07006542A8D74F24
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Professor Brian Cox - Emergence
 DTSTART;TZID=America/Chicago:20270226T193000
 UID:vv17jZ_FGkXtlpNo@venue-calendar
@@ -960,6 +746,48 @@ DESCRIPTION:Type: Miscellaneous\nGenre: Lecture/Seminar\nTickets: https://
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/professor-brian-cox-emergence-chicago-ill
  inois-02-26-2027/event/0700648FA9AD68D1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giggly Squad: The Gehls Gehl Tour
+DTSTART;TZID=America/Chicago:20270227T170000
+UID:vv1A6Zk46Gkdfo6j6@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/giggly-squad-the-gehls-gehl-tour-chicago-illinois-02-27-2027/
+ event/07006547D4447707\n\nPLEASE NOTE: Pricing is all-in and includes fees
+  (before taxes if applicable). By purchasing tickets to this event\, you a
+ gree to abide by the health and safety measures in effect at the time of t
+ he event. Government mandates\, venue protocols\, and event requirements a
+ re subject to change. For more information\, please search your event on w
+ ww.chicagotheatre.com. This event may have immersive elements\, which may 
+ include flashing or strobe lights\, intense lighting\, visual effects\, lo
+ ud noises\, smoke and/or fog. Such elements may aggravate certain medical 
+ or physical conditions\, and guests should take this into consideration if
+  they have a history of discomfort or physical symptoms when experiencing 
+ these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/giggly-squad-the-gehls-gehl-tour-chicago-
+ illinois-02-27-2027/event/07006547D4447707
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Giggly Squad: The Gehls Gehl Tour
+DTSTART;TZID=America/Chicago:20270227T200000
+UID:vv1kvYvPoyGACX0di@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/giggly-squad-the-gehls-gehl-tour-chicago-illinois-02-27-2027/
+ event/070065479EFA40EC\n\nPLEASE NOTE: Pricing is all-in and includes fees
+  (before taxes if applicable). By purchasing tickets to this event\, you a
+ gree to abide by the health and safety measures in effect at the time of t
+ he event. Government mandates\, venue protocols\, and event requirements a
+ re subject to change. For more information\, please search your event on w
+ ww.chicagotheatre.com. This event may have immersive elements\, which may 
+ include flashing or strobe lights\, intense lighting\, visual effects\, lo
+ ud noises\, smoke and/or fog. Such elements may aggravate certain medical 
+ or physical conditions\, and guests should take this into consideration if
+  they have a history of discomfort or physical symptoms when experiencing 
+ these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/giggly-squad-the-gehls-gehl-tour-chicago-
+ illinois-02-27-2027/event/070065479EFA40EC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Twilight In Concert
@@ -984,6 +812,27 @@ DESCRIPTION:Type: Music\nGenre: Other\nTickets: https://www.ticketmaster.c
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/twilight-in-concert-chicago-illinois-02-2
  8-2027/event/07006519CE265EDD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miraculous Ladybug & Cat Noir: The Live Stage Spectacular
+DTSTART;TZID=America/Chicago:20270304T183000
+UID:vv17jZ_fGkDaR6Sl@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Theatre\nSub-genre: Musical\nTick
+ ets: https://www.ticketmaster.com/miraculous-ladybug-cat-noir-the-live-chi
+ cago-illinois-03-04-2027/event/0700654EC9BC7CEB\n\nPLEASE NOTE: Pricing is
+  all-in and includes fees (before taxes if applicable). By purchasing tick
+ ets to this event\, you agree to abide by the health and safety measures i
+ n effect at the time of the event. Government mandates\, venue protocols\,
+  and event requirements are subject to change. For more information\, plea
+ se search your event on www.chicagotheatre.com. This event may have immers
+ ive elements\, which may include flashing or strobe lights\, intense light
+ ing\, visual effects\, loud noises\, smoke and/or fog. Such elements may a
+ ggravate certain medical or physical conditions\, and guests should take t
+ his into consideration if they have a history of discomfort or physical sy
+ mptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/miraculous-ladybug-cat-noir-the-live-chic
+ ago-illinois-03-04-2027/event/0700654EC9BC7CEB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roger Waters Presents LEGACY - A Pink Floyd Show
@@ -1077,6 +926,26 @@ URL:https://www.ticketmaster.com/ali-wong-live-chicago-illinois-03-19-2027
  /event/07006530F3AA8D36
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ali Wong Live
+DTSTART;TZID=America/Chicago:20270320T200000
+UID:vv1A6ZkfYGkdSibVB@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/ali-wong-live-chicago-illinois-03-20-2027/event/07006530F3B18
+ D3A\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if a
+ pplicable). By purchasing tickets to this event\, you agree to abide by th
+ e health and safety measures in effect at the time of the event. Governmen
+ t mandates\, venue protocols\, and event requirements are subject to chang
+ e. For more information\, please search your event on www.chicagotheatre.c
+ om. This event may have immersive elements\, which may include flashing or
+  strobe lights\, intense lighting\, visual effects\, loud noises\, smoke a
+ nd/or fog. Such elements may aggravate certain medical or physical conditi
+ ons\, and guests should take this into consideration if they have a histor
+ y of discomfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/ali-wong-live-chicago-illinois-03-20-2027
+ /event/07006530F3B18D3A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:RuPaul's Drag Race Werq The World 2027 Tour
 DTSTART;TZID=America/Chicago:20270327T200000
 UID:vvG1jZ_5CNedA5@venue-calendar
@@ -1098,6 +967,48 @@ URL:https://www.ticketmaster.com/rupauls-drag-race-werq-the-world-chicago-
  illinois-03-27-2027/event/070064B3A308314B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jimmy O. Yang Has No Friends Tour
+DTSTART;TZID=America/Chicago:20270409T200000
+UID:vv1A6Zk4FGkd39Ei1@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/jimmy-o-yang-has-no-friends-chicago-illinois-04-09-2027/event
+ /07006548D25E7B0A\n\nPLEASE NOTE: Pricing is all-in and includes fees (bef
+ ore taxes if applicable). Mature Audiences Only: Suggested for ages 12+. B
+ y purchasing tickets to this event\, you agree to abide by the health and 
+ safety measures in effect at the time of the event. Government mandates\, 
+ venue protocols\, and event requirements are subject to change. For more i
+ nformation\, please search your event on www.chicagotheatre.com. This even
+ t may have immersive elements\, which may include flashing or strobe light
+ s\, intense lighting\, visual effects\, loud noises\, smoke and/or fog. Su
+ ch elements may aggravate certain medical or physical conditions\, and gue
+ sts should take this into consideration if they have a history of discomfo
+ rt or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/jimmy-o-yang-has-no-friends-chicago-illin
+ ois-04-09-2027/event/07006548D25E7B0A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STRANGERS\, FRIENDS\, AND LOVERS: A NIGHT OUT WITH ESTHER PEREL
+DTSTART;TZID=America/Chicago:20270423T190000
+UID:vv1A6Zk4vGkd0j6Df@venue-calendar
+DESCRIPTION:Type: Miscellaneous\nGenre: Lecture/Seminar\nTickets: https://
+ www.ticketmaster.com/strangers-friends-and-lovers-a-night-chicago-illinois
+ -04-23-2027/event/07006541E4707ED4\n\nPLEASE NOTE: Pricing is all-in and i
+ ncludes fees (before taxes if applicable). By purchasing tickets to this e
+ vent\, you agree to abide by the health and safety measures in effect at t
+ he time of the event. Government mandates\, venue protocols\, and event re
+ quirements are subject to change. For more information\, please search you
+ r event on www.chicagotheatre.com. This event may have immersive elements
+ \, which may include flashing or strobe lights\, intense lighting\, visual
+  effects\, loud noises\, smoke and/or fog. Such elements may aggravate cer
+ tain medical or physical conditions\, and guests should take this into con
+ sideration if they have a history of discomfort or physical symptoms when 
+ experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/strangers-friends-and-lovers-a-night-chic
+ ago-illinois-04-23-2027/event/07006541E4707ED4
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carly Rae Jepsen: Day and Night Tour
 DTSTART;TZID=America/Chicago:20270521T193000
 UID:vv17jZ_KGkBBDISc@venue-calendar
@@ -1117,6 +1028,27 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-chicago-il
  linois-05-21-2027/event/0700653EBAEE8CED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jimmy Carr: Killing Jokes
+DTSTART;TZID=America/Chicago:20270916T190000
+UID:vv17jZ_fGkUmxkll@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/jimmy-carr-killing-jokes-chicago-illinois-09-16-2027/event/07
+ 00654DAE886AEB\n\nPLEASE NOTE: Pricing is all-in and includes fees (before
+  taxes if applicable). *** Mature Audiences Only: Suggested for ages 16+. 
+ *** By purchasing tickets to this event\, you agree to abide by the health
+  and safety measures in effect at the time of the event. Government mandat
+ es\, venue protocols\, and event requirements are subject to change. For m
+ ore information\, please search your event on www.chicagotheatre.com. This
+  event may have immersive elements\, which may include flashing or strobe 
+ lights\, intense lighting\, visual effects\, loud noises\, smoke and/or fo
+ g. Such elements may aggravate certain medical or physical conditions\, an
+ d guests should take this into consideration if they have a history of dis
+ comfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/jimmy-carr-killing-jokes-chicago-illinois
+ -09-16-2027/event/0700654DAE886AEB
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yusuf / Cat Stevens: Cat On The Road To Findout - The Book Tour
