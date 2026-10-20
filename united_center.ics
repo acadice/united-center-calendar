@@ -6,18 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Disney Descendants\, ZOMBIES & Camp Rock: Worlds Collide Concert T
- our
-DTSTART;TZID=America/Chicago:20261019T190000
-UID:vv178Z_kGkRLKIPC@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Other\nTickets: https://www.ticketmaster.c
- om/disney-descendants-zombies-camp-rock-worlds-chicago-illinois-10-19-2026
- /event/0400646BDF4E894E\n\nAll ages event- all patrons require a ticket.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worl
- ds-chicago-illinois-10-19-2026/event/0400646BDF4E894E
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Montreal Canadiens
 DTSTART;TZID=America/Chicago:20261023T190000
 UID:vvG18Z_2e8o6LE@venue-calendar
@@ -1407,6 +1395,17 @@ DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
  ago-illinois-04-10-2027/event/040064F090237777
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cleo Sol - Gentlewoman Tour
+DTSTART;TZID=America/Chicago:20270421T200000
+UID:vv178Z_KGkSpzDTY@venue-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nSub-genre: Soul\nTickets: https://www
+ .ticketmaster.com/cleo-sol-gentlewoman-tour-chicago-illinois-04-21-2027/ev
+ ent/0400653CD6E3BFF0
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/cleo-sol-gentlewoman-tour-chicago-illinoi
+ s-04-21-2027/event/0400653CD6E3BFF0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calvin Harris - North America Tour
