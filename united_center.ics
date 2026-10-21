@@ -1419,6 +1419,17 @@ URL:https://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-
  illinois-04-30-2027/event/04006548C0DCD93B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Calvin Harris - North America Tour
+DTSTART;TZID=America/Chicago:20270502T193000
+UID:vv167Zk4319ZAC1ud5@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-illinois
+ -05-02-2027/event/04006552297D9C2A
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-
+ illinois-05-02-2027/event/04006552297D9C2A
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Love of Soul Tour
 DTSTART;TZID=America/Chicago:20270514T200000
 UID:vv1A7ZkfUGkdBhXkp@venue-calendar
