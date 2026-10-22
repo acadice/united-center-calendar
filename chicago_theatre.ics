@@ -973,16 +973,16 @@ UID:vv1A6Zk4FGkd39Ei1@venue-calendar
 DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
  etmaster.com/jimmy-o-yang-has-no-friends-chicago-illinois-04-09-2027/event
  /07006548D25E7B0A\n\nPLEASE NOTE: Pricing is all-in and includes fees (bef
- ore taxes if applicable). Mature Audiences Only: Suggested for ages 12+. B
- y purchasing tickets to this event\, you agree to abide by the health and 
- safety measures in effect at the time of the event. Government mandates\, 
- venue protocols\, and event requirements are subject to change. For more i
- nformation\, please search your event on www.chicagotheatre.com. This even
- t may have immersive elements\, which may include flashing or strobe light
- s\, intense lighting\, visual effects\, loud noises\, smoke and/or fog. Su
- ch elements may aggravate certain medical or physical conditions\, and gue
- sts should take this into consideration if they have a history of discomfo
- rt or physical symptoms when experiencing these elements.
+ ore taxes if applicable). *** Mature Audiences Only: Suggested for ages 18
+ +. *** By purchasing tickets to this event\, you agree to abide by the hea
+ lth and safety measures in effect at the time of the event. Government man
+ dates\, venue protocols\, and event requirements are subject to change. Fo
+ r more information\, please search your event on www.chicagotheatre.com. T
+ his event may have immersive elements\, which may include flashing or stro
+ be lights\, intense lighting\, visual effects\, loud noises\, smoke and/or
+  fog. Such elements may aggravate certain medical or physical conditions\,
+  and guests should take this into consideration if they have a history of 
+ discomfort or physical symptoms when experiencing these elements.
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/jimmy-o-yang-has-no-friends-chicago-illin
  ois-04-09-2027/event/07006548D25E7B0A
@@ -1028,6 +1028,69 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-chicago-il
  linois-05-21-2027/event/0700653EBAEE8CED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eric Andre: Subtle
+DTSTART;TZID=America/Chicago:20270709T190000
+UID:vv17jZ_fGkUHs6wK@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/eric-andre-subtle-chicago-illinois-07-09-2027/event/0700654DB
+ CC47C93\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes 
+ if applicable). *** Mature Audiences Only: Suggested for ages 18+. *** By 
+ purchasing tickets to this event\, you agree to abide by the health and sa
+ fety measures in effect at the time of the event. Government mandates\, ve
+ nue protocols\, and event requirements are subject to change. For more inf
+ ormation\, please search your event on www.chicagotheatre.com. This event 
+ may have immersive elements\, which may include flashing or strobe lights
+ \, intense lighting\, visual effects\, loud noises\, smoke and/or fog. Suc
+ h elements may aggravate certain medical or physical conditions\, and gues
+ ts should take this into consideration if they have a history of discomfor
+ t or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/eric-andre-subtle-chicago-illinois-07-09-
+ 2027/event/0700654DBCC47C93
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sienna Spiro: My House Tour (Extended)
+DTSTART;TZID=America/Chicago:20270825T190000
+UID:vv17jZ_fGkXlGU6j@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/sienna-spiro-my-house-tour-extended-chicago-illin
+ ois-08-25-2027/event/0700654FAB3361DC\n\nPLEASE NOTE: Pricing is all-in an
+ d includes fees (before taxes if applicable). By purchasing tickets to thi
+ s event\, you agree to abide by the health and safety measures in effect a
+ t the time of the event. Government mandates\, venue protocols\, and event
+  requirements are subject to change. For more information\, please search 
+ your event on www.chicagotheatre.com. This event may have immersive elemen
+ ts\, which may include flashing or strobe lights\, intense lighting\, visu
+ al effects\, loud noises\, smoke and/or fog. Such elements may aggravate c
+ ertain medical or physical conditions\, and guests should take this into c
+ onsideration if they have a history of discomfort or physical symptoms whe
+ n experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/sienna-spiro-my-house-tour-extended-chica
+ go-illinois-08-25-2027/event/0700654FAB3361DC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sienna Spiro: My House Tour (Extended)
+DTSTART;TZID=America/Chicago:20270826T190000
+UID:vv17jZ_fGkXlCJ6O@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/sienna-spiro-my-house-tour-extended-chicago-illin
+ ois-08-26-2027/event/0700654FAB3A61E0\n\nPLEASE NOTE: Pricing is all-in an
+ d includes fees (before taxes if applicable). By purchasing tickets to thi
+ s event\, you agree to abide by the health and safety measures in effect a
+ t the time of the event. Government mandates\, venue protocols\, and event
+  requirements are subject to change. For more information\, please search 
+ your event on www.chicagotheatre.com. This event may have immersive elemen
+ ts\, which may include flashing or strobe lights\, intense lighting\, visu
+ al effects\, loud noises\, smoke and/or fog. Such elements may aggravate c
+ ertain medical or physical conditions\, and guests should take this into c
+ onsideration if they have a history of discomfort or physical symptoms whe
+ n experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/sienna-spiro-my-house-tour-extended-chica
+ go-illinois-08-26-2027/event/0700654FAB3A61E0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jimmy Carr: Killing Jokes
