@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Montreal Canadiens
-DTSTART;TZID=America/Chicago:20261023T190000
-UID:vvG18Z_2e8o6LE@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-montreal-canadiens-chicago-illi
- nois-10-23-2026/event/040064F0904477E7
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-montreal-canadiens-
- chicago-illinois-10-23-2026/event/040064F0904477E7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Washington Wizards
 DTSTART;TZID=America/Chicago:20261024T190000
 UID:vv178Z_8GkDIqwm7@venue-calendar
