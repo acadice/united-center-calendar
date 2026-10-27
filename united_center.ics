@@ -383,7 +383,7 @@ URL:https://www.ticketmaster.com/chicago-bulls-vs-cleveland-cavaliers-chic
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Illinois v. UCONN
-DTSTART;VALUE=DATE:20261204
+DTSTART;TZID=America/Chicago:20261204T180000
 UID:vvG18Z_u2R6rzv@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
  https://www.ticketmaster.com/illinois-v-uconn-chicago-illinois-12-04-2026/
