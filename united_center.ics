@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Los Angeles Kings
-DTSTART;TZID=America/Chicago:20261027T190000
-UID:vvG18Z_2e8KEOa@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-chicago-illin
- ois-10-27-2026/event/040064F0904E7809
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-los-angeles-kings-c
- hicago-illinois-10-27-2026/event/040064F0904E7809
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. New York Knicks
 DTSTART;TZID=America/Chicago:20261028T190000
 UID:vv178Z_8GkDILemx@venue-calendar
@@ -1395,6 +1384,17 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-
  illinois-05-02-2027/event/04006552297D9C2A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Q101 Presents: The Neighbourhood WOURLD TOUR II
+DTSTART;TZID=America/Chicago:20270508T190000
+UID:vv178Z_4GknyH4c0@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/q101-presents-the-neighbourhood-wourld-tour-chicago-illi
+ nois-05-08-2027/event/0400655AB9F15B64
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/q101-presents-the-neighbourhood-wourld-to
+ ur-chicago-illinois-05-08-2027/event/0400655AB9F15B64
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Love of Soul Tour
