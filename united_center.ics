@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Colorado Avalanche
-DTSTART;TZID=America/Chicago:20261102T190000
-UID:vvG18Z_2e8fMOj@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-chicago-illi
- nois-11-02-2026/event/040064F09053781C
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-colorado-avalanche-
- chicago-illinois-11-02-2026/event/040064F09053781C
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SOMBR - You Are The Reason Tour
 DTSTART;TZID=America/Chicago:20261104T190000
 UID:vv1A7Zk36Gkd2Hi7b@venue-calendar
@@ -1358,14 +1347,16 @@ URL:https://www.ticketmaster.com/q101-presents-the-neighbourhood-wourld-to
  ur-chicago-illinois-05-08-2027/event/0400655AB9F15B64
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Love of Soul Tour
+SUMMARY:Fantasia\, Anthony Hamilton\, & October London: The Love of Soul T
+ our
 DTSTART;TZID=America/Chicago:20270514T200000
 UID:vv1A7ZkfUGkdBhXkp@venue-calendar
 DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
- /the-love-of-soul-tour-chicago-illinois-05-14-2027/event/04006536FA6FE196
+ /fantasia-anthony-hamilton-october-london-the-chicago-illinois-05-14-2027/
+ event/04006536FA6FE196
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/the-love-of-soul-tour-chicago-illinois-05
- -14-2027/event/04006536FA6FE196
+URL:https://www.ticketmaster.com/fantasia-anthony-hamilton-october-london-
+ the-chicago-illinois-05-14-2027/event/04006536FA6FE196
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lizzy McAlpine: The Over Country Tour
