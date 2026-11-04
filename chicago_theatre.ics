@@ -6,30 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:THE ROCKY HORROR PICTURE SHOW ORIGINAL CAST SPOOKTACULAR TOUR
-DTSTART;TZID=America/Chicago:20261031T193000
-UID:vv17jZ_aGkwfKS75@venue-calendar
-DESCRIPTION:Type: Film\nGenre: Music\nTickets: https://www.ticketmaster.co
- m/the-rocky-horror-picture-show-original-chicago-illinois-10-31-2026/event
- /0700649C944F310B\n\nPLEASE NOTE: Pricing is all-in and includes fees (bef
- ore taxes if applicable). Join the original 'Brad Majors' - Barry Bostwick
- \, 'Columbia' - Nell Campbell and 'Majenta' - Patricia Quinn for a screeni
- ng of the original unedited movie with a live shadow cast and audience par
- ticipation! Plus a memorabilia display with artifacts and an actual costum
- e from the movie\, a costume contest\, and more! *Get exclusive tickets to
-  the V.I.P. Meet & Greet to meet the stars themselves and have a personal 
- photo opportunity & get an autograph. By purchasing tickets to this event
- \, you agree to abide by the health and safety measures in effect at the t
- ime of the event. Government mandates\, venue protocols\, and event requir
- ements are subject to change. For more information\, please search for you
- r event on www.chicagotheatre.com. This event may have immersive elements
- \, which may include flashing or strobe lights\, intense lighting\, visual
-  effects\, loud noises\, smoke and/or fog.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/the-rocky-horror-picture-show-original-ch
- icago-illinois-10-31-2026/event/0700649C944F310B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blade Runner in Concert
 DTSTART;TZID=America/Chicago:20261104T193000
 UID:vv17jZ_6GkmUzJvW@venue-calendar
