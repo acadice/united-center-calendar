@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:SOMBR - You Are The Reason Tour
-DTSTART;TZID=America/Chicago:20261104T190000
-UID:vv1A7Zk36Gkd2Hi7b@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
- : https://www.ticketmaster.com/sombr-you-are-the-reason-tour-chicago-illin
- ois-11-04-2026/event/04006487CFF2C118
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/sombr-you-are-the-reason-tour-chicago-ill
- inois-11-04-2026/event/04006487CFF2C118
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:KATSEYE: THE WILDWORLD TOUR
 DTSTART;TZID=America/Chicago:20261105T200000
 UID:vvG18Z_1miP6i3@venue-calendar
@@ -535,6 +524,38 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/matt-rife-stay-golden-world-tour-chicago-
  illinois-01-07-2027/event/0400635DF7789B18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Souvenir Ticket
+DTSTART;TZID=America/Chicago:20270111T183000
+UID:vv1A7Zk4NGkdmFyKq@venue-calendar
+DESCRIPTION:Type: Miscellaneous\nTickets: https://www.ticketmaster.com/wwe
+ -souvenir-ticket-chicago-illinois-01-11-2027/event/04006563EE2394DD\n\nTHI
+ S WILL NOT BE YOUR TICKET TO THE EVENT. The limited-edition WWE Replica Ti
+ cket is your chance to capture the nostalgia of having a printed ticket de
+ livered to you after you attend your event. All tickets will be printed on
+  premium ticket stock\, featuring exclusive WWE imagery along with the dat
+ e and location of the event you attended. All WWE Replica Tickets are NON-
+ TRANSFERABLE and will NOT be available for pickup on-site at the venue. Al
+ l orders will be SHIPPED directly to the address provided at checkout with
+ in 4 weeks after the event you attend. Actual delivery dates will vary by 
+ location. The price includes shipping/handling and are only available to b
+ e shipped to US & Canada. Please contact i6myticket_support@i6tix.com with
+  any issues about your order.
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/wwe-souvenir-ticket-chicago-illinois-01-1
+ 1-2027/event/04006563EE2394DD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Monday Night RAW
+DTSTART;TZID=America/Chicago:20270111T183000
+UID:vv1A7Zk4NGkeS9ket@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Wrestling\nTickets: https://www.ticketmas
+ ter.com/wwe-monday-night-raw-chicago-illinois-01-11-2027/event/04006563B35
+ C60A9
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/wwe-monday-night-raw-chicago-illinois-01-
+ 11-2027/event/04006563B35C60A9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Utah Mammoth
