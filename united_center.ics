@@ -6,20 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Swerv & Friends Part 2
-DTSTART;TZID=America/Chicago:20261106T200000
-UID:vv1A7ZkfgGkdP4wPo@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
- ps://www.ticketmaster.com/swerv-friends-part-2-chicago-illinois-11-06-2026
- /event/04006535E5572951\n\nSwerv & Friends Part 2 will include G Herbo\, Y
- oung Miami\, Young Thug\, GloRilla\, YTB Fatt\, Fabolous\, Belly Gang Kush
- ington\, and Peezy. Artist lineup subject to change. No refunds or exchang
- es. All sales are final.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/swerv-friends-part-2-chicago-illinois-11-
- 06-2026/event/04006535E5572951
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dave Matthews Band
 DTSTART;TZID=America/Chicago:20261107T193000
 UID:vvG18Z_CDE9wdz@venue-calendar
