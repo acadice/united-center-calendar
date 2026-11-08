@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Dave Matthews Band
-DTSTART;TZID=America/Chicago:20261107T193000
-UID:vvG18Z_CDE9wdz@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Alternative Rock\nTickets
- : https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07-2
- 026/event/040064EEE75F20F8
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/dave-matthews-band-chicago-illinois-11-07
- -2026/event/040064EEE75F20F8
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Philadelphia 76ers
 DTSTART;TZID=America/Chicago:20261108T143000
 UID:vv178Z_8GkDIO3mW@venue-calendar
