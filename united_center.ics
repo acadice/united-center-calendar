@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Bulls vs. Philadelphia 76ers
-DTSTART;TZID=America/Chicago:20261108T143000
-UID:vv178Z_8GkDIO3mW@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/chicago-bulls-vs-philadelphia-76ers-chicago-illin
- ois-11-08-2026/event/0400650EE8812BBD
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-bulls-vs-philadelphia-76ers-chica
- go-illinois-11-08-2026/event/0400650EE8812BBD
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:XG WORLD TOUR: THE CORE IN CHICAGO
 DTSTART;TZID=America/Chicago:20261109T200000
 UID:vvG18Z_1Ta32Me@venue-calendar
@@ -893,6 +882,17 @@ URL:https://www.ticketmaster.com/gracie-abrams-the-look-at-my-chicago-illi
  nois-02-12-2027/event/040064BBFB87B15B
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Karan Aujla
+DTSTART;TZID=America/Chicago:20270213T200000
+UID:vv1A7Zk40GkeWyzKR@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Hip-Hop/Rap\nSub-genre: Trap\nTickets: htt
+ ps://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/event/04
+ 006564BDE784EF
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/karan-aujla-chicago-illinois-02-13-2027/e
+ vent/04006564BDE784EF
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. St. Louis Blues
 DTSTART;TZID=America/Chicago:20270217T183000
 UID:vvG18Z_2e2U6bS@venue-calendar
@@ -1278,6 +1278,28 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-seattle-kraken-chic
  ago-illinois-04-10-2027/event/040064F090237777
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ricky Gervais: Legend
+DTSTART;TZID=America/Chicago:20270412T193000
+UID:vv1A7Zk4-GkeXMkqQ@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/ricky-gervais-legend-chicago-illinois-04-12-2027/event/040065
+ 61BEDC675A
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/ricky-gervais-legend-chicago-illinois-04-
+ 12-2027/event/04006561BEDC675A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marc Anthony: THE LAST DANCE
+DTSTART;TZID=America/Chicago:20270417T200000
+UID:vv1A7Zk48GkeRVQUr@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Latin\nTickets: https://www.ticketmaster.c
+ om/marc-anthony-the-last-dance-chicago-illinois-04-17-2027/event/04006550A
+ FD1AD9E
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/marc-anthony-the-last-dance-chicago-illin
+ ois-04-17-2027/event/04006550AFD1AD9E
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cleo Sol - Gentlewoman Tour
 DTSTART;TZID=America/Chicago:20270421T200000
 UID:vv178Z_KGkSpzDTY@venue-calendar
@@ -1298,6 +1320,17 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/calvin-harris-north-america-tour-chicago-
  illinois-04-30-2027/event/04006548C0DCD93B
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gabriel Iglesias: The 1976 Tour
+DTSTART;TZID=America/Chicago:20270501T200000
+UID:vv1A7Zk4xGkdIHz87@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/gabriel-iglesias-the-1976-tour-chicago-illinois-05-01-2027/ev
+ ent/04006562E8F38404\n\nAdult Content
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/gabriel-iglesias-the-1976-tour-chicago-il
+ linois-05-01-2027/event/04006562E8F38404
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calvin Harris - North America Tour
