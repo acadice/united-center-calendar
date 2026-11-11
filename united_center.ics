@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:2026 State Farm Champions Classic
-DTSTART;TZID=America/Chicago:20261110T180000
-UID:vvG18Z_2Dim68d@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
- https://www.ticketmaster.com/2026-state-farm-champions-classic-chicago-ill
- inois-11-10-2026/event/040064FEECB87403
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/2026-state-farm-champions-classic-chicago
- -illinois-11-10-2026/event/040064FEECB87403
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. San Antonio Spurs
 DTSTART;TZID=America/Chicago:20261111T190000
 UID:vv178Z_8GkDI-xR6@venue-calendar
@@ -61,17 +50,17 @@ URL:https://www.ticketmaster.com/chicago-blackhawks-vs-winnipeg-jets-chica
  go-illinois-11-14-2026/event/040064F0905E7856
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Legends Classic Presented by Old Trapper
+SUMMARY:TravisMathew Legends Classic presented by Old Trapper
 DTSTART;TZID=America/Chicago:20261115T133000
 UID:vvG18Z_un-rnou@venue-calendar
 DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
- https://www.ticketmaster.com/legends-classic-presented-by-old-trapper-chic
- ago-illinois-11-15-2026/event/040064DAA17AA44D\n\nMissouri is the WEST BEN
- CH in front of Section 122 Marquette is the EAST BENCH in front of Section
-  101
+ https://www.ticketmaster.com/travismathew-legends-classic-presented-by-old
+ -chicago-illinois-11-15-2026/event/040064DAA17AA44D\n\nMissouri is the WES
+ T BENCH in front of Section 122 Marquette is the EAST BENCH in front of Se
+ ction 101
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/legends-classic-presented-by-old-trapper-
- chicago-illinois-11-15-2026/event/040064DAA17AA44D
+URL:https://www.ticketmaster.com/travismathew-legends-classic-presented-by
+ -old-chicago-illinois-11-15-2026/event/040064DAA17AA44D
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Toronto Maple Leafs
