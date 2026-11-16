@@ -6,19 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:TravisMathew Legends Classic presented by Old Trapper
-DTSTART;TZID=America/Chicago:20261115T133000
-UID:vvG18Z_un-rnou@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: College\nTickets: 
- https://www.ticketmaster.com/travismathew-legends-classic-presented-by-old
- -chicago-illinois-11-15-2026/event/040064DAA17AA44D\n\nMissouri is the WES
- T BENCH in front of Section 122 Marquette is the EAST BENCH in front of Se
- ction 101
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/travismathew-legends-classic-presented-by
- -old-chicago-illinois-11-15-2026/event/040064DAA17AA44D
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Blackhawks vs. Toronto Maple Leafs
 DTSTART;TZID=America/Chicago:20261117T183000
 UID:vvG18Z_2e8bM-l@venue-calendar
@@ -1290,7 +1277,7 @@ URL:https://www.ticketmaster.com/fantasia-anthony-hamilton-october-london-
  the-chicago-illinois-05-14-2027/event/04006536FA6FE196
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:KPop Demon Hunters Golden World Tour
+SUMMARY:K-Pop Demon Hunters Golden World Tour
 DTSTART;TZID=America/Chicago:20270619T140000
 UID:vv1k8Z_pb3G7S3VY@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Children's Music\nTickets: https://www.tic
