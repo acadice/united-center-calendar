@@ -1045,6 +1045,18 @@ URL:https://www.ticketmaster.com/feid-ferxxo-the-green-star-tour-chicago-i
  llinois-03-18-2027/event/04006562DB9A783D
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jhené Aiko Presents: Ark to Agartha - A Westside Whimsy Experienc
+ e
+DTSTART;TZID=America/Chicago:20270321T193000
+UID:vv178Z_pGkM4M_1r@venue-calendar
+DESCRIPTION:Type: Music\nGenre: R&B\nTickets: https://www.ticketmaster.com
+ /jhene-aiko-presents-ark-to-agartha-chicago-illinois-03-21-2027/event/0400
+ 656DD5DD929E
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-chicag
+ o-illinois-03-21-2027/event/0400656DD5DD929E
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Sacramento Kings
 DTSTART;TZID=America/Chicago:20270322T190000
 UID:vv178Z_8GkDta3gH@venue-calendar
@@ -1277,7 +1289,7 @@ URL:https://www.ticketmaster.com/fantasia-anthony-hamilton-october-london-
  the-chicago-illinois-05-14-2027/event/04006536FA6FE196
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:K-Pop Demon Hunters Golden World Tour
+SUMMARY:KPop Demon Hunters Golden World Tour
 DTSTART;TZID=America/Chicago:20270619T140000
 UID:vv1k8Z_pb3G7S3VY@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Children's Music\nTickets: https://www.tic
@@ -1288,7 +1300,7 @@ URL:https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chic
  ago-illinois-06-19-2027/event/0400656612CD2D30
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:K-Pop Demon Hunters Golden World Tour
+SUMMARY:KPop Demon Hunters Golden World Tour
 DTSTART;TZID=America/Chicago:20270619T193000
 UID:vv118Z_pbo7307@venue-calendar
 DESCRIPTION:Type: Music\nGenre: Children's Music\nTickets: https://www.tic
