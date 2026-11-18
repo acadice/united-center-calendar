@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Toronto Maple Leafs
-DTSTART;TZID=America/Chicago:20261117T183000
-UID:vvG18Z_2e8bM-l@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-toronto-maple-leafs-chicago-ill
- inois-11-17-2026/event/040064F09063786B
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-toronto-maple-leafs
- -chicago-illinois-11-17-2026/event/040064F09063786B
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Neighbourhood: THE WOURLD TOUR
 DTSTART;TZID=America/Chicago:20261118T190000
 UID:vv1A7ZkoaGkdxvkbx@venue-calendar
@@ -1292,9 +1281,9 @@ BEGIN:VEVENT
 SUMMARY:KPop Demon Hunters Golden World Tour
 DTSTART;TZID=America/Chicago:20270619T140000
 UID:vv1k8Z_pb3G7S3VY@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Children's Music\nTickets: https://www.tic
- ketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-06-19-
- 2027/event/0400656612CD2D30
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
+ w.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-0
+ 6-19-2027/event/0400656612CD2D30
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chic
  ago-illinois-06-19-2027/event/0400656612CD2D30
@@ -1303,9 +1292,9 @@ BEGIN:VEVENT
 SUMMARY:KPop Demon Hunters Golden World Tour
 DTSTART;TZID=America/Chicago:20270619T193000
 UID:vv118Z_pbo7307@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Children's Music\nTickets: https://www.tic
- ketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-06-19-
- 2027/event/0400656611112904
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
+ w.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-0
+ 6-19-2027/event/0400656611112904
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chic
  ago-illinois-06-19-2027/event/0400656611112904
