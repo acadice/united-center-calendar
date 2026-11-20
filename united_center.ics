@@ -6,28 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:The Neighbourhood: THE WOURLD TOUR
-DTSTART;TZID=America/Chicago:20261118T190000
-UID:vv1A7ZkoaGkdxvkbx@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
- .ticketmaster.com/the-neighbourhood-the-wourld-tour-chicago-illinois-11-18
- -2026/event/04006449E2046622\n\nEvent time is now 7pm.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-chicago
- -illinois-11-18-2026/event/04006449E2046622
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicago Blackhawks vs. Columbus Blue Jackets
-DTSTART;TZID=America/Chicago:20261119T190000
-UID:vvG18Z_2e8Q6-S@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: NHL\nTickets: https://
- www.ticketmaster.com/chicago-blackhawks-vs-columbus-blue-jackets-chicago-i
- llinois-11-19-2026/event/040064F090687873
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-blackhawks-vs-columbus-blue-jacke
- ts-chicago-illinois-11-19-2026/event/040064F090687873
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chicago Bulls vs. Washington Wizards
 DTSTART;TZID=America/Chicago:20261120T190000
 UID:vv178Z_8GkDI0eRc@venue-calendar
@@ -376,6 +354,17 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/matt-rife-stay-golden-world-tour-chicago-
  illinois-01-07-2027/event/0400635DF7789B18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PWHL TAKEOVER TOUR: DETROIT CLUTCH AT MINNESOTA FROST
+DTSTART;TZID=America/Chicago:20270109T180000
+UID:vv1A7Zk4sGkeSYAHh@venue-calendar
+DESCRIPTION:Type: Sports\nGenre: Hockey\nSub-genre: Professional\nTickets:
+  https://www.ticketmaster.com/pwhl-takeover-tour-detroit-clutch-at-chicago
+ -illinois-01-09-2027/event/04006571B3C05F1B
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/pwhl-takeover-tour-detroit-clutch-at-chic
+ ago-illinois-01-09-2027/event/04006571B3C05F1B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWE Monday Night RAW
@@ -1298,6 +1287,17 @@ DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chic
  ago-illinois-06-19-2027/event/0400656611112904
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KPop Demon Hunters Golden World Tour
+DTSTART;TZID=America/Chicago:20270620T140000
+UID:vv178Z_pGkRa4jVj@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: K-Pop\nTickets: https://ww
+ w.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-0
+ 6-20-2027/event/0400656BC955CD1C
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chic
+ ago-illinois-06-20-2027/event/0400656BC955CD1C
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lizzy McAlpine: The Over Country Tour
