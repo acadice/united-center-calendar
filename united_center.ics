@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Bulls vs. Washington Wizards
-DTSTART;TZID=America/Chicago:20261120T190000
-UID:vv178Z_8GkDI0eRc@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/chicago-bulls-vs-washington-wizards-chicago-illin
- ois-11-20-2026/event/0400650EE8902BED
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-bulls-vs-washington-wizards-chica
- go-illinois-11-20-2026/event/0400650EE8902BED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stevie Wonder Songs in The Key of Life Performances 50th Anniversa
  ry
 DTSTART;TZID=America/Chicago:20261121T200000
@@ -204,20 +193,6 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-utah-jazz-chicago-illino
  is-12-16-2026/event/0400650EE8BE2C7A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nick Cannon Presents: Wild 'N Out Live - The Next Generation
-DTSTART;TZID=America/Chicago:20261217T190000
-UID:vv178Z_3Gkms21G5@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/nick-cannon-presents-wild-n-out-chicago-illinois-12-17-2026/e
- vent/0400652BB13CA30B\n\nBy purchasing tickets to this event\, you agree t
- o abide by the health and safety measures in effect at the time of the eve
- nt. Check back often for updates to your event venue website as guidelines
-  are subject to change.
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/nick-cannon-presents-wild-n-out-chicago-i
- llinois-12-17-2026/event/0400652BB13CA30B
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PBR: Unleash the Beast
