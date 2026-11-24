@@ -6,17 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Chicago Bulls vs. Cleveland Cavaliers
-DTSTART;TZID=America/Chicago:20261123T190000
-UID:vv178Z_8GkDIJxY1@venue-calendar
-DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
- s://www.ticketmaster.com/chicago-bulls-vs-cleveland-cavaliers-chicago-illi
- nois-11-23-2026/event/0400650EE89A2C0A
-LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
-URL:https://www.ticketmaster.com/chicago-bulls-vs-cleveland-cavaliers-chic
- ago-illinois-11-23-2026/event/0400650EE89A2C0A
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JOHN SUMMIT - CTRL ESCAPE ARENA TOUR
 DTSTART;TZID=America/Chicago:20261124T190000
 UID:vvG18Z_52-BljX@venue-calendar
@@ -292,6 +281,17 @@ DESCRIPTION:Type: Sports\nGenre: Basketball\nSub-genre: NBA\nTickets: http
 LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
 URL:https://www.ticketmaster.com/chicago-bulls-vs-milwaukee-bucks-chicago-
  illinois-01-05-2027/event/0400650EE8D22CB1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KATSEYE: THE WILDWORLD TOUR
+DTSTART;TZID=America/Chicago:20270106T200000
+UID:vvG18Z_1miP6i3@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/katseye-the-wildworld-tour-chicago-illinois-01-06
+ -2027/event/040064ABAC947B12
+LOCATION:United Center\, 1901 W Madison St\, Chicago\, IL 60612
+URL:https://www.ticketmaster.com/katseye-the-wildworld-tour-chicago-illino
+ is-01-06-2027/event/040064ABAC947B12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Matt Rife: Stay Golden World Tour
