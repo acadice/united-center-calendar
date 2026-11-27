@@ -6,257 +6,6 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/Chicago
 BEGIN:VEVENT
-SUMMARY:Blade Runner in Concert
-DTSTART;TZID=America/Chicago:20261104T193000
-UID:vv17jZ_6GkmUzJvW@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Classical\nSub-genre: Symphonic\n
- Tickets: https://www.ticketmaster.com/blade-runner-in-concert-chicago-illi
- nois-11-04-2026/event/0700647BB6E2607D\n\nPLEASE NOTE: Pricing is all-in a
- nd includes fees (before taxes if applicable). By purchasing tickets to th
- is event\, you agree to abide by the health and safety measures in effect 
- at the time of the event. Government mandates\, venue protocols\, and even
- t requirements are subject to change. For more information\, please search
-  your event on www.chicagotheatre.com. This event may have immersive eleme
- nts\, which may include flashing or strobe lights\, intense lighting\, vis
- ual effects\, loud noises\, smoke and/or fog. Such elements may aggravate 
- certain medical or physical conditions\, and guests should take this into 
- consideration if they have a history of discomfort or physical symptoms wh
- en experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/blade-runner-in-concert-chicago-illinois-
- 11-04-2026/event/0700647BB6E2607D
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Joey Diaz: 62 & Still Slinging
-DTSTART;TZID=America/Chicago:20261105T200000
-UID:vvG1jZ_G3r3VOm@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/joey-diaz-62-still-slinging-chicago-illinois-11-05-2026/event
- /070064C49E4B482E\n\nPLEASE NOTE: Pricing is all-in and includes fees (bef
- ore taxes if applicable). By purchasing tickets to this event\, you agree 
- to abide by the health and safety measures in effect at the time of the ev
- ent. Government mandates\, venue protocols\, and event requirements are su
- bject to change. For more information\, please search your event on www.ch
- icagotheatre.com. This event may have immersive elements\, which may inclu
- de flashing or strobe lights\, intense lighting\, visual effects\, loud no
- ises\, smoke and/or fog. Such elements may aggravate certain medical or ph
- ysical conditions\, and guests should take this into consideration if they
-  have a history of discomfort or physical symptoms when experiencing these
-  elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/joey-diaz-62-still-slinging-chicago-illin
- ois-11-05-2026/event/070064C49E4B482E
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BERT KREISCHER: PERMISSION TO PARTY
-DTSTART;TZID=America/Chicago:20261106T190000
-UID:vv17jZ_6GkXDvgSe@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bert-kreischer-permission-to-party-chicago-illinois-11-06-202
- 6/event/0700647FBB075CC2\n\nPLEASE NOTE: Pricing is all-in and includes fe
- es (before taxes if applicable). By purchasing tickets to this event\, you
-  agree to abide by the health and safety measures in effect at the time of
-  the event. Government mandates\, venue protocols\, and event requirements
-  are subject to change. For more information\, please search your event on
-  www.chicagotheatre.com. This event may have immersive elements\, which ma
- y include flashing or strobe lights\, intense lighting\, visual effects\, 
- loud noises\, smoke and/or fog. Such elements may aggravate certain medica
- l or physical conditions\, and guests should take this into consideration 
- if they have a history of discomfort or physical symptoms when experiencin
- g these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bert-kreischer-permission-to-party-chicag
- o-illinois-11-06-2026/event/0700647FBB075CC2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BERT KREISCHER: PERMISSION TO PARTY
-DTSTART;TZID=America/Chicago:20261107T190000
-UID:vv17jZ_6GkXDdASG@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/bert-kreischer-permission-to-party-chicago-illinois-11-07-202
- 6/event/0700647FBB0C5CCC\n\nPLEASE NOTE: Pricing is all-in and includes fe
- es (before taxes if applicable). By purchasing tickets to this event\, you
-  agree to abide by the health and safety measures in effect at the time of
-  the event. Government mandates\, venue protocols\, and event requirements
-  are subject to change. For more information\, please search your event on
-  www.chicagotheatre.com. This event may have immersive elements\, which ma
- y include flashing or strobe lights\, intense lighting\, visual effects\, 
- loud noises\, smoke and/or fog. Such elements may aggravate certain medica
- l or physical conditions\, and guests should take this into consideration 
- if they have a history of discomfort or physical symptoms when experiencin
- g these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/bert-kreischer-permission-to-party-chicag
- o-illinois-11-07-2026/event/0700647FBB0C5CCC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RON WHITE
-DTSTART;TZID=America/Chicago:20261108T190000
-UID:vvG1jZ_GKQk6V7@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/ron-white-chicago-illinois-11-08-2026/event/070064C4DA187D04
- \n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if appl
- icable). By purchasing tickets to this event\, you agree to abide by the h
- ealth and safety measures in effect at the time of the event. Government m
- andates\, venue protocols\, and event requirements are subject to change. 
- For more information\, please search your event on www.chicagotheatre.com.
-  This event may have immersive elements\, which may include flashing or st
- robe lights\, intense lighting\, visual effects\, loud noises\, smoke and/
- or fog. Such elements may aggravate certain medical or physical conditions
- \, and guests should take this into consideration if they have a history o
- f discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/ron-white-chicago-illinois-11-08-2026/eve
- nt/070064C4DA187D04
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nikki Glaser: The Stunning Tour
-DTSTART;TZID=America/Chicago:20261113T190000
-UID:vv17jZbyGknZJSqs@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/nikki-glaser-the-stunning-tour-chicago-illinois-11-13-2026/ev
- ent/0700639A809B3771\n\nPLEASE NOTE: Pricing is all-in and includes fees (
- before taxes if applicable). By purchasing tickets to this event\, you agr
- ee to abide by the health and safety measures in effect at the time of the
-  event. Government mandates\, venue protocols\, and event requirements are
-  subject to change. For more information\, please search your event on www
- .chicagotheatre.com. This event may have immersive elements\, which may in
- clude flashing or strobe lights\, intense lighting\, visual effects\, loud
-  noises\, smoke and/or fog. Such elements may aggravate certain medical or
-  physical conditions\, and guests should take this into consideration if t
- hey have a history of discomfort or physical symptoms when experiencing th
- ese elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-chicago-il
- linois-11-13-2026/event/0700639A809B3771
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nikki Glaser: The Stunning Tour
-DTSTART;TZID=America/Chicago:20261114T190000
-UID:vv17jZbyGknZIKqU@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/nikki-glaser-the-stunning-tour-chicago-illinois-11-14-2026/ev
- ent/0700639A80A13776\n\nPLEASE NOTE: Pricing is all-in and includes fees (
- before taxes if applicable). By purchasing tickets to this event\, you agr
- ee to abide by the health and safety measures in effect at the time of the
-  event. Government mandates\, venue protocols\, and event requirements are
-  subject to change. For more information\, please search your event on www
- .chicagotheatre.com. This event may have immersive elements\, which may in
- clude flashing or strobe lights\, intense lighting\, visual effects\, loud
-  noises\, smoke and/or fog. Such elements may aggravate certain medical or
-  physical conditions\, and guests should take this into consideration if t
- hey have a history of discomfort or physical symptoms when experiencing th
- ese elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-chicago-il
- linois-11-14-2026/event/0700639A80A13776
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nikki Glaser: The Stunning Tour
-DTSTART;TZID=America/Chicago:20261115T190000
-UID:vv17jZbyGknZtSqB@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/nikki-glaser-the-stunning-tour-chicago-illinois-11-15-2026/ev
- ent/0700639A80A7377A\n\nPLEASE NOTE: Pricing is all-in and includes fees (
- before taxes if applicable). By purchasing tickets to this event\, you agr
- ee to abide by the health and safety measures in effect at the time of the
-  event. Government mandates\, venue protocols\, and event requirements are
-  subject to change. For more information\, please search your event on www
- .chicagotheatre.com. This event may have immersive elements\, which may in
- clude flashing or strobe lights\, intense lighting\, visual effects\, loud
-  noises\, smoke and/or fog. Such elements may aggravate certain medical or
-  physical conditions\, and guests should take this into consideration if t
- hey have a history of discomfort or physical symptoms when experiencing th
- ese elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/nikki-glaser-the-stunning-tour-chicago-il
- linois-11-15-2026/event/0700639A80A7377A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Little Big Town - For The Art Of It Tour
-DTSTART;TZID=America/Chicago:20261119T193000
-UID:vvG1jZ_GoHfsSB@venue-calendar
-DESCRIPTION:Type: Music\nGenre: Country\nTickets: https://www.ticketmaster
- .com/little-big-town-for-the-art-chicago-illinois-11-19-2026/event/070064C
- 47C531CFA\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxe
- s if applicable). By purchasing tickets to this event\, you agree to abide
-  by the health and safety measures in effect at the time of the event. Gov
- ernment mandates\, venue protocols\, and event requirements are subject to
-  change. For more information\, please search your event on www.chicagothe
- atre.com. This event may have immersive elements\, which may include flash
- ing or strobe lights\, intense lighting\, visual effects\, loud noises\, s
- moke and/or fog. Such elements may aggravate certain medical or physical c
- onditions\, and guests should take this into consideration if they have a 
- history of discomfort or physical symptoms when experiencing these element
- s.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/little-big-town-for-the-art-chicago-illin
- ois-11-19-2026/event/070064C47C531CFA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nurse John: Against Medical Advice Tour
-DTSTART;TZID=America/Chicago:20261120T190000
-UID:vvG1jZ_1Kmz6qD@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/nurse-john-against-medical-advice-tour-chicago-illinois-11-20
- -2026/event/070064A4EEE0777B\n\nPLEASE NOTE: Pricing is all-in and include
- s fees (before taxes if applicable). Mature Audience Only. Suggested for a
- ges 18+. By purchasing tickets to this event\, you agree to abide by the h
- ealth and safety measures in effect at the time of the event. Government m
- andates\, venue protocols\, and event requirements are subject to change. 
- For more information\, please search your event on www.chicagotheatre.com.
-  This event may have immersive elements\, which may include flashing or st
- robe lights\, intense lighting\, visual effects\, loud noises\, smoke and/
- or fog. Such elements may aggravate certain medical or physical conditions
- \, and guests should take this into consideration if they have a history o
- f discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/nurse-john-against-medical-advice-tour-ch
- icago-illinois-11-20-2026/event/070064A4EEE0777B
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nurse John: Against Medical Advice Tour
-DTSTART;TZID=America/Chicago:20261120T220000
-UID:vv1A6Zkf7Gkecw7pf@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/nurse-john-against-medical-advice-tour-chicago-illinois-11-20
- -2026/event/07006504ADC84594\n\nPLEASE NOTE: Pricing is all-in and include
- s fees (before taxes if applicable). Mature Audience Only. Suggested for a
- ges 18+. By purchasing tickets to this event\, you agree to abide by the h
- ealth and safety measures in effect at the time of the event. Government m
- andates\, venue protocols\, and event requirements are subject to change. 
- For more information\, please search your event on www.chicagotheatre.com.
-  This event may have immersive elements\, which may include flashing or st
- robe lights\, intense lighting\, visual effects\, loud noises\, smoke and/
- or fog. Such elements may aggravate certain medical or physical conditions
- \, and guests should take this into consideration if they have a history o
- f discomfort or physical symptoms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/nurse-john-against-medical-advice-tour-ch
- icago-illinois-11-20-2026/event/07006504ADC84594
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GEORGE LOPEZ
-DTSTART;TZID=America/Chicago:20261121T190000
-UID:vvG1jZ_5CPEK5_@venue-calendar
-DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
- etmaster.com/george-lopez-chicago-illinois-11-21-2026/event/070064B3A59D32
- D9\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes if ap
- plicable). Mature Audiences Only: Suggested Ages 18+. By purchasing ticket
- s to this event\, you agree to abide by the health and safety measures in 
- effect at the time of the event. Government mandates\, venue protocols\, a
- nd event requirements are subject to change. For more information\, please
-  search your event on www.chicagotheatre.com. This event may have immersiv
- e elements\, which may include flashing or strobe lights\, intense lightin
- g\, visual effects\, loud noises\, smoke and/or fog. Such elements may agg
- ravate certain medical or physical conditions\, and guests should take thi
- s into consideration if they have a history of discomfort or physical symp
- toms when experiencing these elements.
-LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
-URL:https://www.ticketmaster.com/george-lopez-chicago-illinois-11-21-2026/
- event/070064B3A59D32D9
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wilco - Winterlude 2026
 DTSTART;TZID=America/Chicago:20261204T200000
 UID:vv17jZ_3GknjXfLg@venue-calendar
@@ -404,6 +153,144 @@ URL:https://www.ticketmaster.com/straight-no-chaser-making-spirits-bright-
  chicago-illinois-12-12-2026/event/070064ADE628BAB4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marcello Hernández
+DTSTART;TZID=America/Chicago:20270108T190000
+UID:vv1kvYvPqaGA1Nf6_@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/marcello-hernandez-chicago-illinois-01-08-2027/event/07006574
+ 9A8D41D9\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). Mature Audiences Only: Ages 16+. ARRIVE EARLY: Please arr
+ ive 60-minutes prior to showtime. All packages\, including briefcases and 
+ pocketbooks\, will be inspected prior to entry. By purchasing tickets to t
+ his event\, you agree to abide by the health and safety measures in effect
+  at the time of the event. Government mandates\, venue protocols\, and eve
+ nt requirements are subject to change. For more information\, please searc
+ h for your event on www.chicagotheatre.com. This event may have immersive 
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take into
+  consideration if they have a history of discomfort or physical symptoms w
+ hen experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/marcello-hernandez-chicago-illinois-01-08
+ -2027/event/070065749A8D41D9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marcello Hernández
+DTSTART;TZID=America/Chicago:20270108T220000
+UID:vv1kvYvPqaGA1Pf60@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/marcello-hernandez-chicago-illinois-01-08-2027/event/07006574
+ 9A9541E4\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). Mature Audiences Only: Ages 16+. ARRIVE EARLY: Please arr
+ ive 60-minutes prior to showtime. All packages\, including briefcases and 
+ pocketbooks\, will be inspected prior to entry. By purchasing tickets to t
+ his event\, you agree to abide by the health and safety measures in effect
+  at the time of the event. Government mandates\, venue protocols\, and eve
+ nt requirements are subject to change. For more information\, please searc
+ h for your event on www.chicagotheatre.com. This event may have immersive 
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take into
+  consideration if they have a history of discomfort or physical symptoms w
+ hen experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/marcello-hernandez-chicago-illinois-01-08
+ -2027/event/070065749A9541E4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marcello Hernández
+DTSTART;TZID=America/Chicago:20270109T190000
+UID:vv1kvYvPqaGA1Ef6W@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/marcello-hernandez-chicago-illinois-01-09-2027/event/07006574
+ 9A9D41FD\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). Mature Audiences Only: Ages 16+. ARRIVE EARLY: Please arr
+ ive 60-minutes prior to showtime. All packages\, including briefcases and 
+ pocketbooks\, will be inspected prior to entry. By purchasing tickets to t
+ his event\, you agree to abide by the health and safety measures in effect
+  at the time of the event. Government mandates\, venue protocols\, and eve
+ nt requirements are subject to change. For more information\, please searc
+ h for your event on www.chicagotheatre.com. This event may have immersive 
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take into
+  consideration if they have a history of discomfort or physical symptoms w
+ hen experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/marcello-hernandez-chicago-illinois-01-09
+ -2027/event/070065749A9D41FD
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marcello Hernández
+DTSTART;TZID=America/Chicago:20270109T220000
+UID:vv1kvYvPqaGA1tfF7@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/marcello-hernandez-chicago-illinois-01-09-2027/event/07006574
+ 9AA54204\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). Mature Audiences Only: Ages 16+. ARRIVE EARLY: Please arr
+ ive 60-minutes prior to showtime. All packages\, including briefcases and 
+ pocketbooks\, will be inspected prior to entry. By purchasing tickets to t
+ his event\, you agree to abide by the health and safety measures in effect
+  at the time of the event. Government mandates\, venue protocols\, and eve
+ nt requirements are subject to change. For more information\, please searc
+ h for your event on www.chicagotheatre.com. This event may have immersive 
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take into
+  consideration if they have a history of discomfort or physical symptoms w
+ hen experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/marcello-hernandez-chicago-illinois-01-09
+ -2027/event/070065749AA54204
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marcello Hernández
+DTSTART;TZID=America/Chicago:20270110T170000
+UID:vv1A6Zk4MGkdKrI7B@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/marcello-hernandez-chicago-illinois-01-10-2027/event/07006577
+ D37A813A\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). Mature Audiences Only: Ages 16+. ARRIVE EARLY: Please arr
+ ive 60-minutes prior to showtime. All packages\, including briefcases and 
+ pocketbooks\, will be inspected prior to entry. By purchasing tickets to t
+ his event\, you agree to abide by the health and safety measures in effect
+  at the time of the event. Government mandates\, venue protocols\, and eve
+ nt requirements are subject to change. For more information\, please searc
+ h for your event on www.chicagotheatre.com. This event may have immersive 
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take into
+  consideration if they have a history of discomfort or physical symptoms w
+ hen experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/marcello-hernandez-chicago-illinois-01-10
+ -2027/event/07006577D37A813A
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marcello Hernández
+DTSTART;TZID=America/Chicago:20270110T200000
+UID:vv1A6Zk4MGkdKObA3@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/marcello-hernandez-chicago-illinois-01-10-2027/event/07006577
+ D3818152\n\nPLEASE NOTE: Pricing is all-in and includes fees (before taxes
+  if applicable). Mature Audiences Only: Ages 16+. ARRIVE EARLY: Please arr
+ ive 60-minutes prior to showtime. All packages\, including briefcases and 
+ pocketbooks\, will be inspected prior to entry. By purchasing tickets to t
+ his event\, you agree to abide by the health and safety measures in effect
+  at the time of the event. Government mandates\, venue protocols\, and eve
+ nt requirements are subject to change. For more information\, please searc
+ h for your event on www.chicagotheatre.com. This event may have immersive 
+ elements\, which may include flashing or strobe lights\, intense lighting
+ \, visual effects\, loud noises\, smoke and/or fog. Such elements may aggr
+ avate certain medical or physical conditions\, and guests should take into
+  consideration if they have a history of discomfort or physical symptoms w
+ hen experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/marcello-hernandez-chicago-illinois-01-10
+ -2027/event/07006577D3818152
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seth Meyers: Live
 DTSTART;TZID=America/Chicago:20270116T170000
 UID:vv1A6ZkfkGkdx6BFg@venue-calendar
@@ -463,6 +350,27 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/tim-dillon-chicago-illinois-01-30-2027/ev
  ent/0700655DA9266F6D
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LEA MICHELE & AARON TVEIT: LIVE IN CONCERT
+DTSTART;TZID=America/Chicago:20270218T200000
+UID:vv17jZ_pGkUrwJZP@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Pop\nSub-genre: Electro Pop\nTickets: http
+ s://www.ticketmaster.com/lea-michele-aaron-tveit-live-in-chicago-illinois-
+ 02-18-2027/event/0700656D9ECA6025\n\nPLEASE NOTE: Pricing is all-in and in
+ cludes fees (before taxes if applicable). By purchasing tickets to this ev
+ ent\, you agree to abide by the health and safety measures in effect at th
+ e time of the event. Government mandates\, venue protocols\, and event req
+ uirements are subject to change. For more information\, please search your
+  event on www.chicagotheatre.com. This event may have immersive elements\,
+  which may include flashing or strobe lights\, intense lighting\, visual e
+ ffects\, loud noises\, smoke and/or fog. Such elements may aggravate certa
+ in medical or physical conditions\, and guests should take this into consi
+ deration if they have a history of discomfort or physical symptoms when ex
+ periencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/lea-michele-aaron-tveit-live-in-chicago-i
+ llinois-02-18-2027/event/0700656D9ECA6025
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aries Spears
@@ -813,6 +721,52 @@ URL:https://www.ticketmaster.com/strangers-friends-and-lovers-a-night-chic
  ago-illinois-04-23-2027/event/07006541E4707ED4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conversations With Nick Cave
+DTSTART;TZID=America/Chicago:20270426T193000
+UID:vv1kvYvPbyGAuJd8k@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/conversations-with-nick-cave-chicago-illinois-04-26-2027
+ /event/070065639D983406\n\nPLEASE NOTE: Pricing is all-in and includes fee
+ s (before taxes if applicable). ARRIVE EARLY: Please arrive 60-minutes pri
+ or to showtime. All packages\, including briefcases and pocketbooks\, will
+  be inspected prior to entry. By purchasing tickets to this event\, you ag
+ ree to abide by the health and safety measures in effect at the time of th
+ e event. Government mandates\, venue protocols\, and event requirements ar
+ e subject to change. For more information\, please search for your event o
+ n www.chicagotheatre.com. This event may have immersive elements\, which m
+ ay include flashing or strobe lights\, intense lighting\, visual effects\,
+  loud noises\, smoke and/or fog. Such elements may aggravate certain medic
+ al or physical conditions\, and guests should take this into consideration
+  if they have a history of discomfort or physical symptoms when experienci
+ ng these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/conversations-with-nick-cave-chicago-illi
+ nois-04-26-2027/event/070065639D983406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stewart Copeland Police Deranged  
+DTSTART;TZID=America/Chicago:20270430T200000
+UID:vv1A6Zk40GkdGqpOA@venue-calendar
+DESCRIPTION:Type: Music\nGenre: Rock\nSub-genre: Pop\nTickets: https://www
+ .ticketmaster.com/stewart-copeland-police-deranged-chicago-illinois-04-30-
+ 2027/event/07006564CC756805\n\nPLEASE NOTE: Pricing is all-in and includes
+  fees (before taxes if applicable). ARRIVE EARLY: Please arrive 60-minutes
+  prior to showtime. All packages\, including briefcases and pocketbooks\, 
+ will be inspected prior to entry. By purchasing tickets to this event\, yo
+ u agree to abide by the health and safety measures in effect at the time o
+ f the event. Government mandates\, venue protocols\, and event requirement
+ s are subject to change. For more information\, please search for your eve
+ nt on www.chicagotheatre.com. This event may have immersive elements\, whi
+ ch may include flashing or strobe lights\, intense lighting\, visual effec
+ ts\, loud noises\, smoke and/or fog. Such elements may aggravate certain m
+ edical or physical conditions\, and guests should take this into considera
+ tion if they have a history of discomfort or physical symptoms when experi
+ encing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/stewart-copeland-police-deranged-chicago-
+ illinois-04-30-2027/event/07006564CC756805
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Carly Rae Jepsen: Day and Night Tour
 DTSTART;TZID=America/Chicago:20270521T193000
 UID:vv17jZ_KGkBBDISc@venue-calendar
@@ -958,6 +912,27 @@ DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
 LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
 URL:https://www.ticketmaster.com/jimmy-carr-killing-jokes-chicago-illinois
  -09-17-2027/event/0700654DAE8F6AF1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jimmy Carr: Killing Jokes
+DTSTART;TZID=America/Chicago:20270917T220000
+UID:vv1A6Zk4VGkel249A@venue-calendar
+DESCRIPTION:Type: Arts & Theatre\nGenre: Comedy\nTickets: https://www.tick
+ etmaster.com/jimmy-carr-killing-jokes-chicago-illinois-09-17-2027/event/07
+ 006574AB3D55C5\n\nPLEASE NOTE: Pricing is all-in and includes fees (before
+  taxes if applicable). *** Mature Audiences Only: Suggested for ages 16+. 
+ *** By purchasing tickets to this event\, you agree to abide by the health
+  and safety measures in effect at the time of the event. Government mandat
+ es\, venue protocols\, and event requirements are subject to change. For m
+ ore information\, please search your event on www.chicagotheatre.com. This
+  event may have immersive elements\, which may include flashing or strobe 
+ lights\, intense lighting\, visual effects\, loud noises\, smoke and/or fo
+ g. Such elements may aggravate certain medical or physical conditions\, an
+ d guests should take this into consideration if they have a history of dis
+ comfort or physical symptoms when experiencing these elements.
+LOCATION:Chicago Theatre\, 175 N State St\, Chicago\, IL 60601
+URL:https://www.ticketmaster.com/jimmy-carr-killing-jokes-chicago-illinois
+ -09-17-2027/event/07006574AB3D55C5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yusuf / Cat Stevens: Cat On The Road To Findout - The Book Tour
